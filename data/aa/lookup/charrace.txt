@@ -1,0 +1,10 @@
+﻿id;race
+0;None
+1;Nuian
+2;Fairy
+3;Dwarf
+4;Elf
+5;Hariharan
+6;Ferre
+7;Returned
+8;Warborn

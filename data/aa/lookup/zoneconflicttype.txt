@@ -1,0 +1,8 @@
+﻿0;Tension (Lv1)
+1;Danger (Lv2)
+2;Dispute (Lv3)
+3;Unrest (Lv4)
+4;Crisis (Lv5)
+5;Conflict
+6;War
+7;Peace

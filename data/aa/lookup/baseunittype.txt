@@ -1,0 +1,7 @@
+0;Character
+1;NPC
+2;Slave
+3;House
+4;Transfer
+5;Mount
+6;Shipyard

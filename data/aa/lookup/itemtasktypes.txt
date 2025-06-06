@@ -1,0 +1,117 @@
+0;Invalid;
+1;Destroy;
+2;AboxDestroy;
+3;Repair;
+4;DurabilityLoss;
+5;SwapItems;
+6;Split;
+7;SplitCofferItems;
+8;SwapCofferItems;
+9;Loot;
+10;LootAll;
+11;Gm;
+12;GameRuleReset;
+13;ConsumeSkillSource; // 303-consume-skill-source
+14;DoodadCreate; // 303-doodad-create
+15;DoodadRemove;
+16;DoodadItemChanger;
+17;DoodadInteraction;
+18;DoodadCattleFeed;
+19;UpgradeSkill;
+20;AbilityChange;
+21;AbilityReset;
+22;BuyPriestBuff;
+23;Teleport;
+24;CapturePet;
+25;RecoverDoodadItem; // 508-recover-doodad-item
+26;MateCreate;
+27;CraftActSaved;
+28;CraftPaySaved;
+29;CraftPickupProduct;
+30;CraftCancel;
+31;HouseCreation; // 303-house-creation
+32;HouseDeposit;
+33;HouseBuilding;
+34;PickupBloodstain;
+35;AutoLootDoodadItem; // 316-autoloot-doodad-item
+36;QuestStart; // 401-quest-start
+37;QuestComplete; // 402-quest-complete
+38;QuestSupplyItems; // 405-quest-supply-items
+39;QuestRemoveSupplies; // 402-403-404-405-quest-remove-supplies
+40;SkillReagents;
+41;SkillEffectConsumption;
+42;SkillEffectGainItem;
+43;SkillEffectGainItemWithPos;
+44;SkillEffectSiegeTicket;
+45;SkillEffectExpToItem;
+46;Auction;
+47;Mail;
+48;Trade;
+49;EnchantMagical;
+50;EnchantPhysical;
+51;GetCoinByItem;
+52;GetItemByCoin;
+53;StoreSell; // 315-store-sell
+54;StoreBuy; // 313-314-store-buy
+55;TodReward;
+56;GainItemWithUcc;
+57;ImprintUcc;
+58;RepairPets;
+59;MateDeath;
+60;Shipyard; // 303-shipyard
+61;SkillsReset;
+62;DropBackpack;
+63;UseRelic;
+64;UseIndependenceRelic;
+65;Conversion; // 304-conversion
+66;Seize;
+67;ReturnSeized;
+68;DemoDressOff;
+69;DemoDressOn;
+70;DemoClearBag;
+71;DemoFillBag;
+72;SlaveDeath;
+73;ExpeditionCreation;
+74;RepairSlaves;
+75;ExpandBag;
+76;ExpandBank;
+77;RenewEquipment;
+78;LifespanExpiration;
+79;RecoverExp;
+80;SpawnerUpdate;
+81;UpdateSummonSlaveItem;
+82;UpdateSummonMateItem;
+83;DepositMoney;
+84;WithdrawMoney;
+85;DeliverItemToOthers;
+86;SetSlavePosition;
+87;SetBountyMoney;
+88;PayBountyMoney;
+89;ConvertFish;
+90;Fishing;
+91;SellHouse;
+92;BuyHouse;
+93;SaveMusicNotes;
+94;ItemLock;
+95;ItemUnlock;
+96;ItemUnlockExcess;
+97;GradeEnchant;
+98;RechargeBuff;
+99;Socketing;
+100;Dyeing;
+101;ConsumeIndunTicket;
+102;ExpandExpert;
+103;Exchange;
+104;SellBackpack;
+105;SellSpecialty;
+106;AskMould;
+107;TakeMould;
+108;FactionDeclareHostile;
+109;EditCosmetic;
+110;ChangeAutoUseAaPoint;
+111;ConvertItemLook;
+112;ChangeExpertLimit;
+113;Sknize;
+114;ItemTaskThistimeUnpack;
+115;BuyPremiumService;
+116;BuyAaPoint;

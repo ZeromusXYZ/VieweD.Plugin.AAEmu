@@ -1,0 +1,218 @@
+129;Gweonid Forest
+133;Marianople
+136;Windscour Savannah
+137;Perinoor Ruins
+138;Rookborne Basin
+139;Ynystere
+140;Dewstone Plains
+141;Solis Headlands
+142;Solzreed Peninsula
+143;White Arden
+144;Lilyut Hills
+145;Karkasse Ridgelands
+146;Arcum Iris
+148;Cinderstone Moor
+149;Two Crowns
+150;Aubre Cradle
+151;Halcyona
+153;Mahadevi
+154;Airain Rock
+155;Hasla
+156;Falcorth Plains
+157;Sunbite Wilds
+158;Tigerspine Mountains
+159;Silent Forest 
+160;Villanelle
+161;Hellswamp
+162;Sanddeep
+164;The Wastes
+172;Castaway Strait
+173;Castaway Strait
+0;
+2;
+3;
+4;
+21;
+22;
+23;
+24;
+25;
+29;
+30;
+31;
+32;
+33;
+34;
+35;
+36;
+37;
+38;
+39;
+40;
+41;
+42;
+43;
+44;
+45;
+46;
+47;
+72;
+73;
+74;
+75;
+76;
+77;
+78;
+79;
+80;
+81;
+82;
+83;
+84;
+85;
+86;
+87;
+88;
+89;
+90;
+91;
+92;
+93;
+94;
+95;
+96;
+97;
+98;
+99;
+100;
+101;
+102;
+104;
+105;
+108;
+117;
+118;
+119;
+120;
+121;
+122;
+123;
+124;
+125;
+126;
+127;
+128;
+130;
+131;
+132;
+134;Dreadnought
+135;
+147;
+152;
+163;
+165;
+166;
+167;
+168;
+169;
+170;
+171;
+174;G-Star 2010
+175;
+176;
+177;
+178;Solzreed Peninsula
+179;Solzreed Peninsula
+180;Arcadian Sea
+181;Gweonid Forest
+182;Gweonid Forest
+183;Marianople
+184;Falcorth Plains
+185;Dewstone Plains
+186;Two Crowns
+187;Arcum Iris
+188;Arcum Iris
+189;Arcum Iris
+190;Sunbite Wilds
+191;Solis Headlands
+192;Airain Rock
+193;Airain Rock
+194;Villanelle
+195;Lilyut Hills
+196;Mahadevi
+197;Mahadevi
+198;Drill Camp
+206;Halcyona
+207;Halcyona
+209;
+204;Heedmar
+205;Nuimari
+210;Arcadian Sea
+211;Arcadian Sea
+212;Arcadian Sea
+213;Arcadian Sea
+214;Arcadian Sea
+215;Arcadian Sea
+216;
+217;
+218;Halcyona Gulf
+219;Halcyona Gulf
+221;Feuille Sound
+226;Forbidden Halcyona Reef
+227;Western Arcadian Sea Forbidden Reef
+228;Eastern Arcadian Sea Forbidden Reef
+229;Eastern Arcadian Sea Forbidden Reef
+225;Southern Solis Forbidden Field
+233;Marcala
+234;Calmlands
+236;Burnt Castle Armory
+241;Hadir Farm
+240;Palace Cellar
+248;Hellswamp
+247;Windscour Savannah
+246;Rookborne Basin
+242;Perinoor Ruins
+243;Perinoor Ruins
+245;Sanddeep
+244;White Arden
+256;Villanelle
+258;Tigerspine Mountains
+257;Cinderstone Moor
+259;Ynystere
+261;Saltswept Atoll
+260;Mirage Isle
+262;Sharpwind Mines
+265;Howling Abyss
+264;Kroloal Cradle
+273;Karkasse Ridgelands
+272;Hasla
+271;instance_violent_maelstrom
+274;Hasla
+276;Exeloch
+278;Serpentis
+275;Sungold Fields
+280;Greater Howling Abyss
+283;Sunspeck Sea
+284;Stormraw Sound
+282;Diamond Shores
+281;Golden Ruins
+285;Sea of Drowned Love
+288;Reedwind
+289;Arcadian Sea
+290;Lesser Sea of Drowned Love
+294;Verdant Skychamber
+292;Lesser Serpentis
+293;Mistral Hall
+299;세계관인던테스트
+300;세계관 인던
+295;Evening Botanica
+296;Encyclopedia Room
+297;Libris Garden
+298;Screaming Archives
+303;Screening Hall
+304;Frozen Study
+305;Deranged Bookroom
+306;Corner Reading Room
+302;Gladiator Arena
+301;Diamond Shores
+307;Mistmerrow

@@ -1,0 +1,12 @@
+0;Basic
+1;Battlerage (Fight)
+2;Witchcraft (Illusion)
+3;Defense (Adamant)
+4;Auramancy (Will)
+5;Occultism (Death)
+6;Archery (Wild)
+7;Sorcery (Magic)
+8;Shadowplay (Vocation)
+9;Songcraft (Romance)
+10;Vitalism (Love)
+11;None

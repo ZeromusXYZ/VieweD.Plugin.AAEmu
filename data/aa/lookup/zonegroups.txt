@@ -1,0 +1,78 @@
+1;Gweonid Forest
+2;Marianople
+3;Dewstone Plains
+4;Solis Headlands
+5;Solzreed Peninsula
+6;Lilyut Hills
+7;Arcum Iris
+8;Two Crowns
+9;Mahadevi
+10;Airain Rock
+11;Falcorth Plains
+12;Villanelle
+13;Sunbite Wilds
+14;Windscour Savannah
+15;Perinoor Ruins
+16;Rookborne Basin
+17;Ynystere
+18;White Arden
+19;Karkasse Ridgelands
+20;Cinderstone Moor
+21;Aubre Cradle
+22;Halcyona
+23;Hasla
+24;Tigerspine Mountains
+25;Silent Forest
+26;Hellswamp
+27;Sanddeep
+28;The Wastes
+29;Libertia Sea
+30;Castaway Strait
+31;Drill Camp
+32;Dreadnought
+33;Heedmar
+34;Nuimari
+35;
+36;Arcadian Sea
+37;
+38;
+39;Halcyona Gulf
+40;Feuille Sound
+41;Forbidden Sea
+42;Forbidden Shore
+43;Marcala
+44;Calmlands
+45;Burnt Castle Armory
+46;Hadir Farm
+47;Palace Cellar
+48;Saltswept Atoll
+49;Mirage Isle
+50;Sharpwind Mines
+51;Howling Abyss
+52;Kroloal Cradle
+53;instance_violent_maelstrom
+54;Exeloch
+55;Serpentis
+56;Sungold Fields
+57;Golden Ruins
+58;Greater Howling Abyss
+59;Sunspeck Sea
+60;Stormraw Sound
+61;Diamond Shores
+62;Sea of Drowned Love
+63;Reedwind
+64;Lesser Sea of Drowned Love
+65;Verdant Skychamber
+66;Lesser Serpentis
+67;Mistral Hall
+68;Kyprosa's Dream
+69;Evening Botanica
+70;Encyclopedia Room
+71;Libris Garden
+72;Screaming Archives
+73;Screening Hall
+74;Frozen Study
+75;Deranged Bookroom
+76;Corner Reading Room
+77;Gladiator Arena
+78;Mistmerrow

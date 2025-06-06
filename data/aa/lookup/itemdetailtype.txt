@@ -1,0 +1,12 @@
+0:None;
+1:Equipment;
+2;Slave;
+3;Mate;
+4;Ucc;
+5;Treasure;
+6;BigFish;
+7;Decoration;
+8;MusicSheet;
+9;Glider;
+10;SlaveEquipment;
+11;Location;

@@ -1,0 +1,7124 @@
+272;ex) 타이머
+274;ex) 제작
+279;ex) 베이직
+280;ex) 힐 콩나무
+281;10m Ladder
+282;10m Rope
+283;10m Horizontal Rope
+284;Roughbark Pine
+285;Cork Tree
+288;QA 채광
+291;QA 제작
+293;QA 효과지역
+294;QA 귀환설정
+299;QA 배고픔/먹이주기
+300;QA 최후
+301;QA 도축
+302;QA 사용
+303;QA 오르기
+305;QA 파기/필요아이템
+307;QA 털깍기
+308;QA 퀘스트
+309;QA 벼베기
+310;QA 루팅아이템
+311;QA 수확
+312;QA 필요퀘스트
+313;Purification Dust
+315;20m Ladder
+317;테스트_빨리자라는나무
+318;test_빨리자라서_베고_기고_스러지는거보기
+319;Official Nameplate
+320;Mailbox
+321;test_스러지는것만 보기
+322;Sequoia Tree
+323;Net
+324;test_초본 채집하는거 바로 보기
+332;Moist Dirt
+333;Vine
+367;Spruce Tree
+368;Thorn Palm Tree
+369;Rubber Tree
+370;Larch Tree
+371;Beech Tree
+372;Camphor Tree
+373;Bamboo Tree
+374;Jujube Tree
+375;Ebony Tree
+376;Oak Tree
+377;Lemon Tree
+378;Falcon Guano
+379;슬레이브소환 특산품 테스트
+380;Fig Tree
+381;Ash Tree
+382;Banana Tree
+383;Baobab Tree
+384;Chestnut Tree
+385;Juniper Tree
+386;Willow Tree
+387;Cherry Tree
+388;Fir Tree
+389;Bread Tree (TBD)
+390;Mulberry Tree (TBD)
+391;Sapodilla Tree (TBD)
+392;Apricot Tree
+393;Cedar Tree
+394;Hornbeam Tree
+395;Pomegranate Tree
+396;Ceiba Tree (TBD)
+397;Bayberry Tree (TBD)
+398;Pine Tree
+399;Avocado Tree
+400;Palm Tree
+401;Paulownia Tree (TBD)
+402;Orange Tree
+403;Olive Tree
+404;Bay Tree
+405;Aspen Tree
+406;Ginkgo Tree
+407;Birch Tree
+408;Yew Tree
+409;Tea Plant (TBD)
+410;Coffee Plant (TBD)
+411;Bamboo Trap
+412;Cork Tree
+413;Grapevine
+414;Poplar Tree
+418;Mustard Shrub
+419;Compact Bush
+424;Cloud Chrysanthemum
+432;Field Strawberry
+436;Snakeroot
+438;Cassia
+439;Rhododendron
+441;Nagaimo Yam
+443;Peony
+444;Moringa Tree
+445;Lucerne
+446;Cotton
+447;Buttercup
+450;Vanilla Bean
+451;Bay Grass
+453;Mushroom
+454;Bear Grass
+455;Rice Plant
+457;Impatiens
+459;Leek
+460;Tangled Bush
+461;Blueberry
+462;Sugarcane
+464;Jinn's Tongue
+465;Ginger
+466;Wild Plants
+468;Barberry Shrub
+469;Cycad
+470;Punt Grass
+473;Sorghum
+475;Mugwort
+476;Anise
+477;Flax
+481;Gallnut
+484;Hyssop
+485;Turmeric
+486;Weeping Lovegrass
+487;Peach Blossom
+489;Nutmeg
+491;Gromwell
+492;Wild Ginseng
+494;Clove
+495;Quinoa
+499;Cassava
+501;Wild Berry Bush
+505;Gardenia
+506;Pineapple
+507;Passiflora
+508;Dogwood Tree
+509;Whiteweed
+510;Plumeria
+512;Walnut Tree
+516;Pepper Tree
+518;Sheep
+519;Dairy Cow
+520;Anvil
+521;Plate Armor Form
+522;Cloth Armor Form
+525;Cooking Tools
+532;Carpentry Workbench
+557;Smelter
+558;Sawmill Station
+559;Stonemason Workbench
+560;Leather Workbench
+561;Weaving Loom
+564;Handicraft Kiln
+566;Archeum Workbench
+567;Dye Refiner
+568;Alchemy Table
+660;(test) 루팅이펙트테스트
+661;Guide's Lamp
+664;Nymph Tree
+667;Devi's Fruit
+668;Strange Sapling
+669;Holy Water
+670;Burning Dagger
+671;Crimson Lily
+672;Nuon Statue
+673;Modilani's Corpse
+674;Stonebrothers Secret Chest
+675;Dewstone Tomb Marker
+676;Boiling Cauldron
+677;Thornbush
+678;Jenny's Doll
+679;Gust
+680;Fragment Spot
+681;Pebble
+682;Monolith
+683;Dirt Mound
+684;Gordon's Grave
+685;Baht's Sealed Chest
+687;Rabbit Burrow
+688;Camouflage Bush
+689;Oyster
+691;Camouflage Bush
+692;Treasure Chest
+693;Throwing Spot
+694;50m Rope
+695;100m Rope
+698;Pierce's Dangerous Chest
+699;Fresh Blood Stain
+700;Flour Sack
+701;Blackbeard Thieves' Treasure Chest
+702;Miner's Corpse
+703;Wanted Leaflet
+704;Cursed Residue
+705;Harpy Egg
+706;Casket
+707;벌집_미사용
+708;Boar Manure
+709;Wanted Board
+710;Gnoll Bones
+711;Blue Crystal
+712;Kobold Supply Crate
+713;Meat
+714;Tombstone
+715;Chopped Aspen
+716;Glass Slipper
+717;Tattered Wallpaper
+718;Worn Spoon
+719;Old Carpet
+720;Brazier
+721;Deltokin's Orb
+723;Display Cabinet
+724;Ashes
+725;Bush
+801;Greenman's Treasure Chest
+802;Cypress Tree
+804;5m Ladder
+805;50m Ladder
+806;5m Rope
+807;20m Rope
+808;5m Horizontal Rope
+809;20m Horizontal Rope
+810;50m Horizontal Rope
+814;Climbing Wall
+815;Warehouse Door Lever
+816;Remedy Cauldron
+818;Milk River Source
+821;Lord's Fruit
+823;relic
+824;Fria's Corpse
+825;Water Gate
+826;Housing Province
+827;Fire Gate
+828;Blood Gate
+829;Life Gate
+831;Parched Plant
+832;Inferno
+833;Ice Wall
+834;Vitalized Water
+835;Tower Gate
+838;Strange Light
+839;Smoldering Campfire
+841;Harpa's Camp Memory Tome
+843;Memoria Memory Tome
+844;Lakeside Memory Tome
+845;Dawnsliver Memory Tome
+846;Jewel of Marianople Memory Tome
+847;Royster's Camp Memory Tome
+848;Sandcloud Memory Tome
+849;Roadsend Memory Tome
+850;Desireen Memory Tome
+851;Crescent Throne Memory Tome
+852;Lacton Memory Tome
+853;Wardton Memory Tome
+854;Pebble
+855;Decayed Corpse
+857;Nymph Tree
+858;Contaminated Pebble
+862;Weapon Stand
+865;Stone Statue
+866;Stone Statue
+867;Stone Statue
+868;Stone Statue
+869;Dying Campfire
+870;Birchkeep Memory Tome
+871;Ardenia Memory Tome
+872;Old Chest
+873;Closed Door
+874;Arden Guard's Remains
+876;Holy Water
+877;Small Bloodstain
+878;Large Bloodstain
+879;Magic Ward
+880;Wraith Summoning
+881;Missile Rain
+882;Mass Levitate
+883;Bleak Lullaby
+884;Healing Area
+886;Transparent Orb
+887;Marianople Prison Gate
+888;Stargrave
+889;20m Horizontal Rope
+891;Overgrown Wall
+893;Empty Nest
+894;Chirping Harpy Egg
+896;Holy Crimson Lily
+897;Dirt Mound
+898;Prison Gate
+899;Kobold Remains
+900;Gravy
+901;작물 테스트용_18604로 심습니다.
+903;Invisible Doodad (Nuian Head Size)
+904;Transparent Doodad (Nuian Waist-high)
+905;Transparent Doodad (Standing 4 Nuians Tall)
+906;Rok's House
+907;모래더미(테스트)
+908;Guardian's Chest
+910;Smoky Pipe
+911;Snowhoof Memory Tome
+912;Andelph Memory Tome
+913;Beaktalon Memory Tome
+914;Wool Crate
+915;Last Supplies
+916;Meina's Smokescreen
+917;Dead Farm's Ruined Evidence (Name to be modified)
+918;Dead Farm's Ruined Evidence 2 (Name to be modified)
+919;Dead Farm's Ruined Evidence 3 (Name to be modified)
+920;Cannon
+921;Commander's Lockbox
+922;Felon's Bloom
+923;Evidence
+924;Bone Heap
+925;Hanging Picture
+926;Rufus's Treasure Chest
+927;Pyroclastic Rock
+928;Magic Circle
+929;Dirt Mound
+930;Dirt Mound
+931;Dirt Mound
+932;Collection Net
+933;Lava Ball
+934;Griffin Egg
+935;Burnt Castle Statue
+936;Burnt Castle Statue
+937;Old Remains
+938;Keltner's Supplies
+939;Odd Bookshelf
+940;Golden Light
+941;Rostoff's Tool
+942;(TEST)HitSkill
+943;Lutesong Harbor Memory Tome
+944;Winebalm Memory Tome
+945;몽상 영역 소환용 더미
+946;Passenger Seat 1
+947;Passenger Seat 2
+948;house_decoration_1
+949;house_decoration_1
+950;house_decoration_1
+951;house_decoration_1
+952;house_decoration_1
+953;house_decoration_1
+954;house_decoration_1
+955;house_decoration_1
+956;house_decoration_1
+957;house_decoration_1
+958;house_decoration_1
+959;house_decoration_1
+960;house_decoration_1
+961;house_decoration_1
+962;house_decoration_1
+963;house_decoration_1
+964;house_decoration_1
+965;house_decoration_1
+966;house_decoration_1
+967;house_decoration_1
+968;house_decoration_1
+969;Leak
+970;Bow Salvage Sack
+971;Archeum Tree Sapling
+972;미사용 수목
+973;Scarecrow Garden
+974;Brown Hardwood Bed
+975;Antique Escritoire
+976;Splendid Carpet
+977;Wooden Chair
+978;Wooden Display Cabinet
+979;Wooden Bureau
+980;Scenic Painting
+981;Round Table
+982;Nuian Sconce
+983;Solzreed Sconce
+984;Gweonid Sconce
+985;Candlestick Chandelier
+986;Table Lamp
+987;Portable Lamp
+988;Rostoff's Tool
+989;Rostoff's Tool
+990;Rostoff's Tool
+991;Cinderstone Moor Lava Damage Effect
+993;Wharf Council Pact
+994;(test)지역버프onoff
+995;Fire Arrow
+996;Partially-eaten Meat
+997;Harpy Egg
+998;Cinderstone Moor Vent Intermittent Damage Effect
+999;Old Chest
+1000;Trash Bin
+1001;Trash
+1011;Inn Door
+1012;The Center of Lavamoat Crater
+1013;Mineral
+1014;Ezi Statue
+1015;Akrites Statue
+1016;Hora Statue
+1017;Apple Tree
+1018;Cemetery
+1019;Pirate Treasure Chest
+1020;Crop Sack
+1021;Lake Herb
+1022;Corpse
+1023;Ramshackle Wooden Prison
+1024;Cargo Crate
+1025;Well Cover
+1026;Prison Bars
+1027;Revolving Door
+1028;Wooden Floor
+1029;Rufus's Wife Spawn Point
+1030;Tessa's Prison
+1031;Leiah's Smokescreen
+1032;Illion Magic Circle
+1033;TEST_Joint로 쓰러지는 나무_황
+1034;Portable Sign
+1035;Adrian's Bookshelf
+1036;Old Relic
+1037;Poison
+1038;Orc Chieftain's Hoard
+1039;Cobweb Summon
+1040;Full Chest
+1041;Nijela's Mysterious Teapot
+1042;Stolen Goods
+1043;Unusual Plant
+1045;Abandoned Bag
+1046;Gorilla Mushroom
+1047;Glimmer Plant
+1048;Large Steel Bar
+1049;Broken Bird Egg
+1052;Contraband Crate
+1053;Pavitra's Monument
+1055;Burning Tree
+1057;Tempting Jewel
+1058;test_스러지는것만 보기2
+1059;King's Table
+1060;Food Barrel
+1061;Snake Jar
+1062;Brewing Jar
+1063;Nochin's Cauldron
+1064;Rice Plant
+1065;Euphonia Mandolin
+1066;Altar Censer
+1067;Snake Jar
+1068;Cask
+1069;Lute Burial Site
+1070;Twinhead Viper Statue
+1071;Funeral Pyre
+1072;Century Root Plot
+1073;Hunter Prison
+1074;Split Log
+1075;Millennium Root Ploot
+1076;Rice Sack
+1077;Floating Bottle
+1078;Ruined Storage Container
+1079;Burned Magic Circle
+1080;Paddies Grass
+1081;Century Root Plot
+1082;Sarracenia Seed
+1083;Symbolic Lantern
+1084;Nostalgic Ale
+1086;Flora
+1087;Aurorian Amethyst
+1088;Stopped Giant
+1090;Kyrios Statue
+1093;Azdamira's Brush
+1097;Priest's Corpse
+1099;Erupting Hot Springs
+1101;Safe House Treasure Chest
+1103;Unfinished House
+1104;Goddess Tear
+1105;Gruesome Odor
+1107;Lighthouse Keeper's Corpse
+1108;Gold Dust
+1109;Vine
+1110;Ladder
+1111;Secret Chest
+1112;Rope
+1113;Loose Panel
+1114;Overripe Rubber Tree
+1115;Quarry Stone
+1116;Safe House Treasure Chest
+1117;Midden
+1118;Rope
+1119;Salphira's Tears
+1120;Sabina's Outerwear
+1121;TOD test용 천막
+1122;Blacksail Cauldron
+1123;Ammunition Box
+1124;Lineriph's Levitate
+1125;Pirate Treasure Chest
+1126;Special Rice Liquor
+1127;Old Door
+1128;Cargo Crate
+1129;Unknown Crate
+1130;Seastorm Nuian Foremast
+1131;Seastorm Nuian Mainsail
+1132;Midden
+1133;Quest Vine_Tower
+1134;Galleon Anchor
+1135;Nuian Foresail
+1136;Nuian Mainsail
+1137;Unknown Crate
+1138;Unknown Crate
+1139;Thundercloud
+1140;Basement Door
+1141;Sacrificial Pen
+1142;Storehouse Door
+1143;Sallium Magic Circle
+1144;Shatigon's Relic Room Door
+1145;Quest Vine_Tower 2
+1147;Poacher's Watch Memory Tome
+1148;City of Towers Memory Tome
+1149;Jujube Brewery Memory Tome
+1150;QA TOD
+1151;(test)조건 사용
+1153;Overgrown Vine
+1154;Message in a Bottle
+1155;Illion Prison
+1156;Sallium Prison
+1157;Fiery Gift
+1158;Overgrown Vine
+1159;Illion Flag
+1160;Illion Flag
+1161;Illion Tent Roof
+1162;Illion Tent Roof
+1163;Illion Tent Roof
+1164;Illion Tent Roof
+1165;Illion Headquarters
+1166;Illion Tent
+1167;Illion Tent
+1168;Illion Tent
+1169;Illion Tent
+1170;Illion Tent
+1171;Illion Tent
+1172;Sallium Tent Pole
+1173;Sallium Fence
+1174;Sallium Fence
+1175;Sallium Flag
+1176;Sallium Tent Pole
+1177;Sallium Tent
+1178;Sallium Tent
+1179;Sallium Tent
+1180;Sallium Tent
+1181;Sallium Tent
+1182;Sallium Tent
+1183;Vomited Blood
+1185;Final Statue
+1186;Cursed Lute
+1187;Ladder
+1188;Lamp
+1189;20m Invisible Ladder
+1190;Bloodhand Warehouse Door
+1191;Plank
+1192;Sabina's Casualwear
+1193;Sabina's Uniform
+1194;Sabina's Sportswear
+1195;Anchor
+1196;Unknown Crate
+1197;Unknown Crate
+1198;Black Sands Chest
+1200;Harpy Feather
+1201;Soothing Music
+1202;(test)쇠창살문
+1203;Squall Effect
+1204;Snowlion Manure
+1205;Malnourished Tree
+1206;Galleon Starboard Plank
+1208;Tranquil Place
+1212;15m Ladder
+1213;Saffron
+1214;Mahadevi Ladder
+1218;Guide Map
+1219;Guide Gate
+1220;Guide Compass
+1221;Liam's Sheep
+1222;Gravemarker
+1223;Jailbreak Dirt Mound
+1224;Prison Gate
+1225;Secret Door
+1226;Gravemarker
+1227;Geyser
+1230;테스트용 제작대
+1231;Lucius's Lightning Cloud
+1232;Sabina's Sleepwear
+1233;Sealed Trunk
+1234;Campfire
+1235;Tent
+1236;Sovereign's Piano
+1239;Sovereign's Red Chair
+1240;Sovereign's Rose Chaise
+1241;Black-Etched Jar
+1242;Blue Landscape Vase
+1243;Bluewing Vase
+1244;Gold Inlay Teapot
+1245;Sun and Moon Vase
+1246;Ocean Blue Jar
+1247;Spring Meadow Vase
+1248;Star Weapon Rack
+1249;Sovereign's Large Bookshelf
+1250;Star Suit of Armor
+1251;Noble's Round Table
+1252;Noble's Partition
+1253;Gold Candlestick
+1254;Noble's Desk
+1255;Star Eagle Rack
+1256;Golden Star Cup
+1257;Noble's Cloth Chair
+1258;Bent Candlestick
+1259;Noble's Splendid Bookshelf
+1260;Wood Liquor Cabinet
+1261;Marbled Teapot
+1262;Marbled Gourd Bottle
+1263;Tall Marbled Gourd Bottle
+1264;Wooden Pet Cage
+1265;Hardwood Medicine Cabinet
+1266;Scholar's Desk
+1267;Scholar's Leather Sofa
+1268;Scholar's Leather Chair
+1269;Scholar's Cloth Chair
+1270;Scholar's Large Bookshelf
+1271;Hardwood Glass Cabinet
+1272;Merchant's Extraordinary Bureau
+1273;Sovereign's Council Table
+1274;Sovereign's Desk
+1275;Wooden Armchair
+1276;Sunhat Doll
+1277;Red Hat Statue
+1278;Grinning Jester Statue
+1279;Sunbeam Hardwood Mannequin
+1280;Hardwood Dining Table
+1281;Curved Woodgrain Table
+1282;Scholar's Small Shelf
+1283;Simple Hardwood Table
+1284;Tri-Level Wood Bureau
+1285;Small Scale
+1286;Hardwood Counter
+1287;Large Hardwood Counter
+1288;Hardwood Chair
+1289;Simple Hardwood Chair
+1290;White Bearskin Rug
+1291;Brown Bearskin Rug
+1292;Noble's Everyday Painting
+1293;Relaxing Painting
+1294;Special Trieste Chandelier
+1295;Trieste Chandelier
+1296;Special Noryette Chandelier
+1297;Noryette Chandelier
+1299;Warehouse Door
+1300;Digging Out
+1302;Eastern Ishvaran Sealstone
+1303;Western Ishvaran Sealstone
+1304;Southern Ishvaran Sealstone
+1305;Northern Ishvaran Sealstone
+1306;
+1307;Wraith Tent Effect
+1309;Small Warship Drydock
+1310;Second Jailbreak Dirt Mound
+1311;Sundowne Memory Tome
+1312;Arena Memory Tome
+1313;Ezna Memory Tome
+1314;사다리테스트-brown
+1315;Seastorm Harani Foresail
+1316;Seastorm Nuian Foresail
+1317;Pirate Foresail
+1318;Seastorm Harani Mainsail
+1319;Seastorm Nuian Mainsail
+1320;Pirate Mainsail
+1322;Small Warship Wreckage
+1323;Steering Wheel
+1324;Female Figurehead
+1325;Dragon Figurehead
+1326;Demonic Figurehead
+1327;Mysterious Treasure Chest
+1328;Jackpot Treasure Chest
+1329;Bonekraal Figurehead
+1330;Lumber Fragment
+1331;Prison Wall
+1332;Portcullis Test (No Key)
+1333;Cobweb
+1334;Portcullis
+1336;deprecated_작살 발사대
+1337;Prison Gate
+1338;Torch
+1339;무너지는 다리 테스트
+1340;철창문 테스트
+1341;Crumbling Pillar
+1342;Molly's Workbench
+1343;Storage Crate
+1344;Rope
+1345;Collapsing Bridge
+1346;Red Snake Flower
+1347;Burning Barracks
+1348;Treasure Chest
+1349;Explosives Pit
+1350;이즈나_climb
+1352;Wilson's Flask
+1353;가시나무_숙련도 루팅 테스트
+1354;Unknown Ore
+1355;Pillaged Food
+1356;Ore
+1358;Gnade
+1359;Gnade
+1360;Astra Corpse
+1361;Astra Bomb
+1362;Apartments Main Gate
+1363;Soul Seed
+1364;Soul Flower
+1365;Yeti Manure
+1366;Snow Flower
+1367;Icicle
+1368;Sun Herb
+1369;Ice
+1370;Mineral Bits
+1371;Mineral Bits
+1372;Groundling Box
+1373;Becker's Corpse
+1374;Stone Pile
+1375;Reindeer Carcass
+1376;Icy Ground
+1377;Shining Object
+1378;테스트중_조규석
+1379;젖소 사망 테스트
+1381;Organ Keyboard C1
+1382;Organ Keyboard D1
+1383;Organ Keyboard E1
+1384;Organ Keyboard F1
+1385;Organ Keyboard G1
+1386;Organ Keyboard A1
+1387;Organ Keyboard B1
+1388;Organ Keyboard C2
+1389;Organ Keyboard D2
+1390;Organ Keyboard E2
+1391;Organ Keyboard F2
+1392;Organ Keyboard G2
+1393;Organ Keyboard A2
+1394;Organ Keyboard B2
+1395;Organ Keyboard C#1
+1396;Organ Keyboard D#1
+1397;Organ Keyboard F#1
+1398;Organ Keyboard G#1
+1399;Organ Keyboard A#1
+1400;Organ Keyboard C#2
+1401;Organ Keyboard D#2
+1402;Organ Keyboard F#2
+1403;Organ Keyboard G#2
+1404;Organ Keyboard A#2
+1405;pickingtest01
+1406;pickingtest02tree
+1407;Yata Manure
+1408;Stationary Machine
+1409;Yata Manure
+1410;Bokal's Workbench
+1411;Yata Manure
+1412;Ore Wing #1435
+1413;Ore Wing Wreckage
+1414;Spider Corpse
+1415;Giant Cobwebs
+1416;Floating Chest
+1417;Junked Machines
+1418;Missing Adventurer
+1419;Suspicious Treasure Chest
+1420;Goldberry Tree
+1421;Polluted Dirt
+1422;Machine Heap
+1423;Soothing Grass
+1424;Shabby Treasure Chest
+1425;Herus's Mark
+1426;Dragon Tree
+1427;Dragonfruit
+1428;Unidentified Corpse
+1429;Dirt Mound
+1430;Rainbow Generator
+1431;Berya's Pack
+1432;Crooked Back Clan's Stolen Goods
+1433;Glider Rack
+1434;Rainbow Gas Bottle
+1435;Mature Mint
+1436;Bush
+1437;Suspicious Potion
+1438;Rainbow Generator
+1439;Rainbow Generator
+1440;Mature Mint
+1441;Bloodstain
+1442;Rainbow Gas
+1443;Tiger Box
+1444;Campfire
+1445;Crooked Back Bundle
+1446;Gravemarker With Earrings
+1447;Gravemarker with Ring
+1448;Shadowhawk Necklace
+1449;Fetid Flower
+1450;Dragonfruit
+1451;Unknown Vein
+1452;Leomorph Cub
+1453;Snake Eye Egg
+1454;Purifying Stand
+1455;Bloodhead Chest
+1456;Reindeer Tomb
+1458;Assembly Part
+1459;Golden Jewelry
+1460;Gold Water Fog
+1461;Anima Injector
+1463;Mineral Bits
+1467;Snowlion Cage
+1468;Blacksmith Tehm's Pickaxe
+1469;Small Inserting Effect
+1470;문장제작_테스트용
+1471;Rhythmic Renewal
+1472;Small Anima Injector
+1473;Windstone
+1475;Falcon's Grave
+1477;Tent
+1478;Burning Tent
+1479;Airain Rock: Rollable Snowball
+1480;Bone Heap
+1481;Firran Corpse
+1483;10m Snowy Ladder
+1484;Large Inserting Effect
+1486;Golgi Device
+1487;10m Polished Stone Ladder
+1488;Withered Falcon Flower
+1489;Salphira Shrine Second-floor Door
+1491;Burial Site
+1492;White Branch
+1495;Unstable Floor
+1497;Brazier
+1500;Ancient Machine
+1501;Ancient Machine
+1502;Ancient Machine
+1503;Ancient Machine
+1504;Executed Person
+1505;Small Part
+1506;Fallen Merchant's Cloak
+1507;Achassi Egg
+1508;Achassi Egg Incinerator
+1509;Parasitic Mushroom
+1510;Trap
+1511;Giant's Tree
+1512;Archeum Tree Sapling
+1513;Damaged House
+1514;Caliope
+1515;Unidentified Body
+1516;Soundless Lake Sealstone
+1517;Tree Branch
+1518;Fredricson
+1519;Ancient Stone Coffin
+1520;Marssen
+1521;Royal Tomb Gate
+1522;Bone Fragment
+1523;Amber
+1524;Leaf Pile
+1525;Ancient Weapon
+1526;Ragen's Body
+1528;Broken Machine
+1529;Goldberry Tree
+1531;Giant's Canyon Task Board
+1532;Green Ore
+1534;Red Ore
+1535;Blue Ore
+1538;Second-Floor Door
+1540;Helmeier's Body
+1541;Royal Stone Coffin
+1542;dummy
+1543;Turbor's Ladder
+1544;logic - No. 0
+1545;logic - No. 1
+1546;logic - No. 2
+1547;logic - No. 3
+1548;logic - gate
+1549;logic - lamp bit 1
+1550;logic - lamp bit 2
+1551;Peace Zone
+1552;테스트_이정표
+1553;Giant's Stone Skin
+1554;Dream Remnants
+1555;Falconry Root Doodad
+1556;Yata Manure
+1557;Hora's Blessing
+1558;Sallium Relic
+1559;Wooden Barrel with Discarded Food
+1560;Thief's Chest
+1561;Unknown Corpse
+1562;Dreadnought Entrance
+1563;Broken Tombstone
+1566;Hearthome
+1567;테스트123
+1568;테스트
+1569;로직테스트 lamp on/off
+1570;로직테스트 board up/down
+1571;로직테스트 lamp on/off logic gate
+1572;로직테스트 logic gate
+1573;로직테스트 board up/down logic gate
+1574;Log
+1575;Immovable Sealstone
+1576;Buried Ashes
+1577;Footprint
+1578;Elevator
+1579;Second Corpse Marker
+1580;Dungeon Door
+1581;Third Corpse Marker
+1582;Sapling Site
+1583;삭제 예정
+1584;Shuun's Cannon
+1585;Organ_Do
+1586;Water Column
+1587;Herus's Mark 2
+1588;Bloodstain
+1589;Warehouse Door Lever
+1590;Bird Nest
+1591;Test Poppy
+1592;Weapon Stand
+1594;Sovereign's Treasure Chest
+1595;Everwhite Pearl Shell
+1596;Seafolk Egg
+1597;Relic Chest
+1598;Astra Flower
+1599;Glittering Black Pearl Shell
+1600;Withered Lavender
+1602;Giant's Tree
+1603;Thuja Tree
+1604;Campfire
+1605;TEST_황_Water_Volume
+1606;Luke's Lumber
+1607;Luke's Lumber
+1608;Luke's Lumber
+1609;Luke's Saw
+1610;Goldscale
+1611;Enchanted Beanstalk
+1617;Petal
+1618;White Birch Branch
+1619;Whirlwind
+1622;Fire Quartz
+1627;Mine Altar
+1628;Bucket
+1629;Rope
+1631;Anvilton Memory Tome
+1632;Tigerseye Memory Tome
+1633;Sturdy Vine
+1634;Forgotten Altar
+1635;매사냥 물채우기 테스트
+1636;Crumbling Dahuta Statue
+1637;Windswept Ruins Whirlwind
+1638;Ritual Flames
+1640;Thistle
+1643;Yucca Tree
+1646;Maple Tree
+1647;Murdered Firran
+1648;Elemental Spring
+1649;Nascent Cliffs Vine
+1650;Dove Cage
+1651;Bleakbreath Cave Water Vein Explosion
+1652;Cursed Stump
+1653;Dissolving Elemental
+1654;Lost Swimwear
+1655;Machine Factory Lathe
+1656;Statue
+1657;Flatulence
+1658;Leaflet
+1659;Dreamer's Bed
+1661;ore_spawn_set_01
+1662;ore_spawn_set_02
+1663;ore_spawn_set_03
+1664;ore_spawn_set_04
+1665;ore_spawn_set_05
+1666;ore_spawn_set_06
+1667;ore_spawn_set_07
+1668;ore_spawn_set_08
+1669;Salvageable Shipwreck
+1670;Harvest Moon Event
+1671;Iron Vein
+1672;Sapphire Vein
+1673;Emerald Vein
+1674;Ruby Vein
+1675;Topaz Vein
+1676;Diamond Vein
+1677;Boulder
+1678;Crystal Vein
+1679;Webbed Cocoon
+1680;Stone Jar
+1681;Kisara's Bookshelf
+1682;Kisara's Coffin
+1683;Captive's Shackles
+1684;Elevator Gate
+1685;Drain Cover
+1686;Dreadnought Upper Water
+1687;Dreadnought Lower Water
+1688;Hanging Cage
+1689;Prison Gate Control Switch
+1690;Prison Gate Key
+1691;Hento's Axe
+1692;Celeste's Apothecary Table
+1693;Trap Door
+1694;Trap Door
+1695;Trap Door
+1696;Trap Door
+1697;Trap Door
+1698;Strange Lavender
+1699;Wind's Gift
+1700;Full Lavender
+1701;Wood Elemental Fertilizer
+1702;Dead Snowlion
+1703;Gargoyle Crater
+1704;Unstable Healing Tree
+1705;Newly-Raised Tent
+1706;로직 두대드 op_not Test용 
+1707;Seditious Book
+1708;Windshade Memory Tome
+1709;Ronbann Village
+1710;Blooming Moonsbreath
+1711;Test_확률두다드
+1712;Ione's Corpse
+1713;숙성품 판매대_test
+1715;Bell
+1716;Bell
+1717;Bell
+1718;Bell
+1719;Bell
+1720;Bell
+1721;Bell
+1722;Bell
+1723;Plateau Fernbrake
+1725;Windswept Ruins Temple
+1726;Mysterious Censer
+1727;Mysterious Magic Circle
+1728;Thornbush Potion
+1729;Nymph's Magic Circle
+1730;Dismembered Corpse
+1731;Austin's Gravesite
+1732;Schima Pillagers Cage
+1733;Vomited Blood
+1734;Green Crystal
+1735;Bonepile
+1736;Crimson Solution
+1737;Summoner's Cauldron
+1738;Water Bucket
+1739;Bloodstain
+1740;
+1741;Underground Cobwebs
+1742;Soundless Copse Memory Tome
+1743;Unstable Trap
+1744;Desireen Signpost
+1745;Poison Gas
+1746;Special Mushroom
+1747;Magic Circle
+1748;Locked Iron Gate
+1749;Fortress Smelter
+1750;Locked Treasure Chest
+1751;Fuel Crate
+1752;Coolant Bucket
+1753;로직게이트 and (1초)
+1754;로직게이트 and (5초)
+1755;로직게이트 and (10초)
+1756;로직게이트 nand (1초)
+1757;로직게이트 nand (5초)
+1758;로직게이트 nand (10초)
+1759;로직게이트 nor (1초)
+1760;로직게이트 nor (5초)
+1761;로직게이트 nor (10초)
+1762;로직게이트 not (1초)
+1763;로직게이트 not (5초)
+1764;로직게이트 not (10초)
+1765;로직게이트 or (1초)
+1766;로직게이트 or (5초)
+1767;로직게이트 or (10초)
+1768;로직게이트 xnor (1초)
+1769;로직게이트 xnor (5초)
+1770;로직게이트 xnor (10초)
+1771;로직게이트 xor (1초)
+1772;로직게이트 xor (5초)
+1773;로직게이트 xor (10초)
+1774;Suspicious Magic Circle Effect
+1775;Small Stone
+1776;Red Tulip
+1777;Snowlion Manure
+1778;Yellow Tulip
+1779;Broccoli
+1780;Falcorth Grass
+1781;Shining Grass
+1782;Unique Herb
+1783;Yellow Cornflower
+1784;Dicentra
+1785;Harvested Pumpkin
+1786;Yellow Flower
+1787;Violet Flower
+1788;Red Flower
+1789;Chartreuse Flower
+1790;White Flower
+1791;Brown Grass
+1792;Green Grass
+1793;Rare Herb
+1794;Chartreuse Herb
+1795;Violet Herb
+1796;Large Cotton
+1797;Ambrosia Herb
+1798;Cotton
+1799;Large Ambrosia Herb
+1800;라벤더(테스트용)
+1801;Large Radender
+1802;White Lupin
+1803;Violet Lupin
+1804;Yellow Mushroom
+1805;Harvested Sugar Pumpkin
+1806;Harvested Yellow Pumpkin
+1807;Canola Flower
+1808;Yellow Saffron
+1809;Knifeblade Fernbrake
+1810;Fernbrake Stem
+1811;Drakefrond
+1812;Tropical Bracken
+1813;Tropical Cactus
+1814;Icicle Mushroom
+1815;Glowing Mushroom
+1816;Moving Grass
+1817;Singing Grass
+1819;Death's Yard
+1820;Orange Rafflesia
+1821;Purple Rafflesia
+1822;Violet Rafflesia
+1823;Round Rafflesia
+1824;Prickly Pear Cactus
+1825;Plump Cactus
+1826;Tall Prickly Pear Cactus
+1827;Browned Herb
+1828;Dying Grass
+1829;Karkasse Herb
+1830;Falcorth Shining Grass
+1831;Umbrella Palm
+1832;Falcorth Long Grass
+1833;Orchid
+1834;Shining Red Grass
+1835;Bat
+1836;Striped Rock
+1837;Round Boulder
+1838;Gray Rock
+1839;Mossy Rock
+1840;Forsythia
+1841;Freesia
+1842;Sprout
+1843;Red Peony
+1844;White Peony
+1845;Glowing Grass
+1846;릴리엇 집시 천막 A
+1847;Moongrass
+1848;Cavetorch Herb
+1849;Small Lettuce
+1850;Large Lettuce
+1851;릴리엇 집시 천막 B
+1852;릴리엇 집시 천막 C
+1853;릴리엇 집시 천막 D
+1854;Seafolk Box
+1855;Treasure Chest
+1856;Falcon-Spirit Tomb
+1857;Wind Grass
+1858;Wind Flower
+1859;Wind Altar
+1860;Water Altar
+1861;Wind Magic Circle
+1862;Water Magic Circle
+1863;Giant Citrine
+1864;Giant Citrine
+1865;Lilyut Sound and Message
+1866;Lilyut Trap
+1867;Lilyut Iron Gate
+1868;lilyut_10013_AND
+1869;lilyut_10014_AND
+1870;lilyut_10015_AND
+1871;lilyut_10016_AND
+1872;lilyut_10011_NOT
+1873;lilyut_10012_NOT
+1874;Bitterwind Plains Signpost
+1875;Guard's Corpse
+1876;Duke Ronbann's Secret Safe
+1877;Dungeon Cobweb
+1878;Dry Firewood
+1879;Campfire
+1880;Cutscene Willow
+1881;Cutscene Spruce
+1882;Four Fingers Tent
+1883;Cutscene Beech
+1884;Cutscene Maple
+1885;Cutscene Oak Tree
+1886;Riverspan Memory Tome
+1887;Rockmar Barrow Memory Tome
+1888;Windshade Signpost
+1889;Anvilton Signpost
+1890;Arach Hollow Signpost
+1891;Tigerseye Signpost
+1892;Tigerseye Interior Signpost
+1893;Northern Devi River Signpost
+1894;Watermist Forest Signpost
+1895;Dawnsliver Signpost
+1896;Ribble's Farm Signpost
+1897;Torini Garden Signpost
+1898;Pauper's Ridge Signpost
+1899;Cutscene Potato
+1900;Cutscene Cinnamon
+1901;Cutscene Pineberry
+1902;Cutscene Cucumber
+1903;Lavender
+1904;Cutscene Corn
+1905;Vibrant Tomato
+1906;Cutscene Wheat
+1907;Cutscene Rose
+1908;Fiery Rain
+1909;Tigerseye Treasure Chest
+1910;Brazier
+1911;Filled Chest
+1912;Fortune-Telling Brazier
+1913;Broken Glider
+1914;Flammable Box
+1915;TEST_컷신 두다드
+1916;Aromatic Lavender
+1917;Moonswept Bay Farmlands Signpost
+1918;Regal Anvil
+1919;Checkpoint Cask
+1920;Amethysteria
+1922;Purifying Spring
+1924;Wind Treasure Chest
+1926;하얀숲심장부And게이트1
+1928;하얀숲심장부And게이트2
+1929;하얀숲심장부And게이트3
+1933;Goddess Symbol
+1934;Soul Seed
+1935;Soul Flower
+1936;White Arden Ferry Signpost
+1937;Heavy Bag
+1938;Bluemist Forest Signpost
+1939;Northern Monolith Signpost
+1940;Southern Monolith Signpost
+1941;Western Monolith Signpost
+1942;Wardton Signpost
+1943;Farmland Signpost
+1944;Blackreath Keep Sighpost
+1946;Lilyut Hills Signpost
+1947;Lacton Signpost
+1948;Nymph's Cloak Signpost
+1949;Housing Province Signpost
+1950;Central Square Signpost
+1951;Workshop District Signpost
+1954;Port Market Signpost
+1955;Benisa Garden Signpost
+1956;Commercial District Signpost
+1957;Central Square Commercial District Signpost
+1958;Military Quarter Signpost
+1959;Skyport Signpost
+1960;Central Square Housing Province
+1961;Central Square Military Quarter
+1962;Central Square Workshop Area
+1963;Central Square Skyport
+1964;철 광맥_미사용
+1965;Silver Vein
+1966;Copper Vein
+1967;Gold Vein
+1968;Tin Vein
+1969;Footprint
+1970;Southern Birchkeep Signpost
+1971;Northern Birchkeep Signpost
+1972;Leather Armor Form
+1973;Suspicious Pouch
+1974;Aromatic Brewstation
+1975;Blooming Aromatic Lavender
+1976;General Hassine's Soul Stone
+1977;General Hassine's Soul Flower
+1978;Sea Treasure Chest
+1979;Auroria Relic Box
+1980;Marianople Dock Signpost
+1981;Gweonid Lake Signpost
+1982;Marianople Barracks Signpost
+1983;Memoria Signpost
+1984;Marianople Crafting Area Signpost
+1985;Lakeside Signpost
+1986;Lakeside Signpost
+1987;Nuzan Camp Signpost
+1988;Soulreath Signpost
+1989;Windswept Ruins Signpost
+1990;Quinto Hall of Art Signpost
+1991;Lilyut Carriage Signpost
+1992;Soundless Copse Signpost
+1993;Noryette Signpost
+1994;Trieste Signpost
+1995;Windshade Signpost
+1996;Marianople Housing Province Signpost
+1997;Collapsed Ruins Signpost
+1998;Marianople Plantations Signpost
+1999;Gerald's Farm Signpost
+2000;Snowlion Training Grounds Signpost
+2001;Whisperwind Signpost
+2002;Nascent Cliffs Signpost
+2003;Great Falcon Rock Signpost
+2004;Falconrib Signpost
+2005;Graymist Signpost
+2006;Eye of Day Signpost
+2007;Hearthome Signpost
+2008;Housing Province Signpost
+2009;Halfmoon Signpost
+2010;Halfmoon Signpost
+2011;Crystal Lake Signpost
+2012;Cloudgrain Signpost
+2013;Bleakbreath Cave Signpost
+2014;Eye of Night Signpost
+2015;Cloudgrain Signpost
+2016;Tigerspine Mountains Signpost
+2017;Bitterwind Plains Signpost
+2018;Shichimi Pillagers Cage Animation (Do not remove)
+2019;Riverspan Signpost
+2020;Rockmar Barrow Signpost
+2021;Old Pine Signpost
+2022;Half-pitched Tent
+2023;Southern White Arden Signpost
+2024;Courtyard of Farewells Signpost
+2025;Crossroads Signpost
+2026;Heart of White Arden Signpost
+2027;Bell Stand
+2028;Red Moss Cave Signpost
+2029;Western White Arden Signpost
+2030;Arena Cannon
+2031;Cobweb
+2032;Any-Post Owl
+2033;Adrian's Journal
+2034;Harpy Feather
+2035;Ardenia Gate
+2036;Whirlwind
+2037;Iron Arena Gate
+2038;Flower of Dusk Hill 1
+2039;Flower of Dusk Hill 2
+2040;Flower of Dusk Hill 3
+2041;Flower of Dusk Hill 4
+2042;Flower of Dusk Hill 5
+2043;Mahadevi Signpost
+2044;Mahadevi Signpost
+2045;Mahadevi Signpost
+2046;Mahadevi Signpost
+2047;Mahadevi Signpost
+2048;Dry Firewood
+2049;Sentry Fire
+2050;Sprawling Cobweb
+2051;Blooming Haver
+2053;Fire Arrow Area
+2055;테스트용 사과나무
+2056;Oak Tree (Housing)
+2057;Ash Tree (Housing)
+2058;Willow Tree (Housing)
+2059;Hornbeam (Housing)
+2060;Olive Tree (Housing)
+2061;Cork Tree (Housing)
+2062;Aspen Tree (Housing)
+2063;Birch Tree (Housing)
+2064;Grapevine (Housing)
+2065;Cottonwood (Housing)
+2066;Lemon Tree (Housing)
+2067;Fig Tree (Housing)
+2068;Bay Tree (Housing)
+2069;Palm Tree (Housing)
+2070;Rubber Tree (Housing)
+2071;Date Palm (Housing)
+2072;Thuja Tree (Housing)
+2073;Camphor Tree (Housing)
+2074;Bamboo Trap (Housing)
+2075;Ebony Tree (Housing)
+2076;Chestnut Tree (Housing)
+2077;Pine (Housing)
+2078;Spruce (Housing)
+2079;Juniper Tree (Housing)
+2080;Fir Tree (Housing)
+2081;Cedar (Housing)
+2082;Yew Tree (Housing)
+2083;Pomegranate Tree (Housing)
+2084;Beech (Housing)
+2085;Cherry Blossom (Housing)
+2086;Apricot Tree (Housing)
+2087;Orange Tree (Housing)
+2088;Dwarf Pine (Housing)
+2089;Moringa Tree (Housing)
+2090;Baobab Tree (Housing)
+2092;Cilantro (Housing)
+2093;Jasmine (Housing)
+2094;Narcissus (Housing)
+2095;Cardoon (Housing)
+2096;Lily (Housing)
+2097;Poppy (Housing)
+2098;Cucumber (Housing)
+2099;Sunflower (Housing)
+2100;Reed (Housing)
+2101;Jinn's Tongue (Housing)
+2102;Bullrush (Housing)
+2103;Corn (Housing)
+2104;Garlic (Housing)
+2105;Cornflower (Housing)
+2107;Wheat (Housing)
+2108;Cactus (Housing)
+2109;Azalea (Housing)
+2110;Cattail (Housing)
+2111;Chrysanthemum (Housing)
+2112;Wild Ginseng (Housing)
+2113;Lotus (Housing)
+2114;Potato (Housing)
+2115;Cinnamon (Housing)
+2116;Yam (Housing)
+2117;Fernbrake (Housing)
+2118;Carrot (Housing)
+2119;Toadstool (Housing)
+2120;Peanut (Housing)
+2121;Onion (Housing)
+2122;Canola (Housing)
+2123;Bean (Housing)
+2124;Tomato (Housing)
+2125;Hops (Housing)
+2126;Pumpkin (Housing)
+2127;Broken Harpy Egg
+2128;Gerald's Casebook #1
+2129;Fence
+2130;Shaman's Cauldron
+2131;Liquor Crate
+2132;Marian's Magic Circle
+2133;Burning Tent
+2134;Burning Tent
+2135;Explosion
+2136;Bloodstain
+2137;Bloodstain
+2138;Bloodstain
+2139;Bloodstain
+2140;Bloodstain
+2141;Gerald's Scarecrow
+2142;UCC 액자
+2143;Heartbeat Tree
+2144;Dungeon Door
+2145;Magic Teleportation Circle
+2146;Verith's Cage
+2147;Abandoned Tombstone
+2148;Q1700_모자란 배달용 꽃_영혼의 꽃 
+2149;Explosives Box
+2150;Anvilton Carriage Station
+2151;Tigerseye Carriage Station
+2152;Marianople Carriage Station
+2153;Marianople Carriage Station
+2154;Well of Nui
+2155;UCC 푯말
+2156;Hellsdame Oasis Gate
+2157;Jewel of Marianople Signpost
+2158;Anvilton Carriage Station
+2159;Lilyut_Stagecoach to Garangdol Plains Signpost
+2160;Lilyut_Stagecoach to Solzreed Signpost
+2161;Lilyut_Stagecoach to Gweonid Signpost
+2162;White Arden/Marianople Carriage Signpost
+2163;White Arden/Dewstone Carriage Signpost
+2164;First Piece
+2165;Second Piece
+2166;Third Piece
+2167;Tiger Gate
+2168;Tiger Gate Pass
+2169;Fourth Piece
+2170;Mahadevi Signpost
+2171;Tiger Gate 2
+2172;Tiger Gate 3
+2173;Mahadevi Signpost
+2174;Mahadevi Signpost
+2175;Archeum Reactor 1 Controller
+2176;Archeum Reactor 2 Controller
+2177;Archeum Reactor 3 Controller
+2178;Archeum Reactor 4 Controller
+2179;Archeum Reactor 1 Effect
+2180;Archeum Reactor 2 Effect
+2181;Archeum Reactor 3 Effect
+2182;Archeum Reactor 4 Effect
+2183;Monster Skill: 12747 Throwing Poison Bottle
+2184;Dewstone Plains Gate
+2185;Dungeon Item Use Index: Dreadnought
+2186;Polluted Bucket
+2187;Mining Bomb
+2188;Pebble
+2189;Sandcloud Gate
+2190;Birchkeep Gate
+2191;Merchant Spire Gate
+2193;Mountain Breeze
+2194;마법진 1단계 미사용
+2195;마법진 2단계 미사용
+2196;Magic Circle Rank 1
+2197;Magic Circle Rank 2
+2198;Roadsend Signpost
+2199;Sandcloud Signpost
+2200;Lower Lilyut River Signpost
+2201;Construction Site Signpost
+2202;Tranquil Fields Signpost
+2203;Royster Camp Signpost
+2204;Western Monolith Signpost
+2205;Mahadevi Checkpoint Signpost
+2206;Bashudi's Camp Signpost
+2209;Traveler's Spring Signpost
+2210;Hot Springs Signpost
+2211;Austera Signpost
+2212;Halo Hollow Signpost
+2213;Glittering Grove Signpost
+2214;Ravine of the Dead Signpost
+2215;Crossroads Guardpost Signpost
+2217;Carriage Signpost
+2218;Solzreed Airship Signpost
+2219;Gweonid Airship Signpost
+2220;Falcorth Plains Airship Signpost
+2221;Dreadnought Waterfall Effect
+2222;Gnawed Meat
+2223;Goddess Breath
+2224;Campfire
+2225;Firewood
+2226;Fireworks Pack
+2227;Dreadnought Bridge Explosion
+2228;Bridge Explosion Message
+2229;Poacher's Trap
+2230;Poacher's Trap
+2231;Target
+2232;Dagger Display
+2233;Banshee Purification Area
+2234;Whirligear Machine
+2235;Regal Plate Armor Form
+2236;Regal Leather Armor Form
+2237;Regal Cloth Armor Form
+2239;Regal Carpentry Workbench
+2240;Regal Handicraft Desk
+2241;Regal Alchemy Table
+2242;Realistic Cat Statue
+2243;Realistic Clockwork Cat
+2244;Fortuneteller's Crystal Ball
+2245;Broken Phonograph
+2246;Rice Plant
+2247;Oats
+2248;Millet
+2249;Weeds
+2250;Quinoa
+2251;Wheat
+2252;Barley
+2253;Corn
+2254;Bean
+2255;Rye
+2256;Peanut
+2257;Strawberry
+2258;Small Moss
+2259;Potato
+2260;Yam
+2261;Carrot
+2262;Garlic
+2263;Onion
+2264;Cucumber
+2265;Tomato
+2266;Pumpkin
+2267;Lavender
+2268;Rosemary
+2269;Cornflower
+2270;Lily
+2271;Sunflower
+2273;Cactus
+2274;Narcissus
+2275;Lotus
+2276;Azalea
+2277;Clover
+2278;Rose
+2279;Iris
+2280;Wilted Grass
+2281;Poppy
+2282;Unknown Grass Stem
+2283;Mint
+2284;Signpost: Airain Rock Starshower Entrance
+2285;Signpost: Airain Rock Starshower Exit
+2286;Signpost: Airain Rock Six Sages Statue Entrance
+2287;Signpost: Airain Rock Sages Road Exit
+2288;Signpost: Airain Rock Andelph The Hall of the Ancestors
+2289;Signpost: Airain Rock Andelph Eastern Gate
+2290;Signpost: Airain Rock Andelph Hall of the Sages
+2291;Signpost: Airain Rock Andelph Western Gate
+2292;Signpost: Airain Rock Seed Mine
+2293;Signpost: Airain Rock Astra
+2294;Signpost: Airain Rock Beaktalon Ridge
+2295;Signpost: Airain Rock Footbare Pass Pass Station
+2296;Tram Station: Airain Rock Andelph Skyport
+2297;Tram Station: Airain Rock Andelph Archeum Refiner
+2298;Tram Station: Airain Rock Andelph Cafeteria
+2299;Skyport: Airain Rock Andelph Skyport
+2300;Airain/Andelph Carriage Station
+2301;Traveler's Old Tent
+2302;(테스트)횃불 두대드
+2303;(테스트)야영지 세트
+2304;Bell Post
+2305;Canvas Sacks
+2306;Well
+2307;Bucket
+2308;Chopping Block
+2309;Treetrunk Sawbench
+2310;Fish Flake
+2311;Fish Display
+2312;Fish Basket
+2313;Wooden Hanger
+2314;Fish Heap
+2315;Fish Barrel
+2316;Fish Hanging Rack
+2317;Flowerbed
+2318;Watering Can
+2319;Lamp
+2320;Hay Bale
+2321;Trough
+2322;Streetlight
+2323;휴대용 모닥불(테스트)
+2324;Streetlight
+2325;Streetlight
+2326;테스트용 산삼
+2327;Soccer Goal
+2328;Rookborne Basin: Whirlwind Transportation Device
+2329;Bookshelf
+2330;(테스트)서랍장
+2331;Bed
+2332;Table
+2333;Fireplace
+2334;Chair
+2336;Flowerbed
+2337;Flowerbed
+2338;Flowerbed
+2339;Scoreboard
+2340;벼락 맞은 나무(proto)
+2341;Reedwind
+2342;Halcyona Chick
+2344;Holy Spring
+2345;Ship
+2346;Webbed Cocoon
+2347;Tuna
+2349;Lantern
+2350;Lantern
+2351;Streetlight
+2352;Blue Crystal
+2353;Firebomb Explosion
+2354;Naval Mine
+2355;Empty Bottle
+2356;(테스트)풍차
+2357;
+2358;Jar
+2359;Airain Rock Music Hall Organ Keyboard C3
+2360;Monster Fight Initiator
+2361;(테스트) 소나무
+2362;Blue Team Monster
+2363;Red Team Monster
+2364;Granbeast's Body
+2365;Crystal Orb
+2366;Eucalyptus
+2367;Blood Red Poppy
+2368;Nathan's Mushroom
+2369;Salmatra Flower
+2370;Tent
+2371;Commander's Tent
+2372;Weapon Rack
+2373;Magic Lamp
+2374;Steering Wheel
+2375;Target
+2376;Quiver
+2377;Campfire
+2378;Firewood
+2379;(테스트)의자
+2380;(테스트)의자 
+2381;Tent
+2382;Archery Target
+2383;Purification Tree
+2384;Driver's Seat
+2385;Archery Scoreboard
+2386;Paddies Grass
+2387;Passenger Seat
+2388;Trap-Making Supplies
+2389;Candlelamp
+2390;Candlelamp
+2391;Rowboat Ladder
+2392;Building Plaque
+2393;Candlelamp
+2394;Candlelamp
+2395;Candlelamp
+2396;Candlelamp
+2397;Streetlight
+2398;Lamp
+2399;Lamp
+2400;Lamp
+2401;Lamp
+2402;Lamp
+2403;Lamp
+2404;Lamp
+2405;Lamp
+2406;Streetlight
+2407;Torch
+2408;Torch
+2409;Lamp
+2410;Lamp
+2411;Lamp
+2412;Lamp
+2413;Funeral Pyre
+2414;Millenium Liquor
+2415;Discarded Glider
+2416;Discarded Liquor
+2417;Bell
+2418;Rowboat Ladder
+2419;Day Root
+2420;Flamerager Fig Tree
+2421;Amalia's Cauldron
+2422;Corpsegouge mine
+2423;Archeum Processor
+2424;Bed Parts
+2426;Stolen Glider
+2428;Trieste Stage Props
+2429;Wooden Prison
+2431;Placed Purified Archeum
+2432;Cozy Home
+2433;Nest
+2435;Rommell's Wooden Bed
+2436;Dwarven Tent
+2437;Strange Vine
+2438;Large Snowball
+2439;Small Snowball
+2440;Meteor Fragment
+2441;Frost Orc Cage
+2442;Fortuneteller's Info Board
+2443;(테스트)불
+2444;Fuel Bottle Explosion
+2445;Jaun's Ranch Signpost
+2446;Lutesong Hill Signpost
+2447;Seven Bridges Signpost
+2448;Winebalm Signpost
+2449;Scaelken Signpost
+2450;Wingfeather Valley Signpost
+2451;Weeping Hill Signpost
+2452;Shrine of Reunion Signpost
+2453;Silent Forest Checkpoint Signpost
+2454;Bleakfish Signpost
+2455;Torchfyre Bay Signpost
+2456;Lutesong Harbor Workbench Signpost
+2457;Silent Forest Signpost (Vedisa)
+2458;Silent Forest Signpost (Huntsman's Retreat)
+2459;Silent Forest Signpost (Empty Tree Clearing)
+2460;Shipwreck Area
+2461;Discarded Amber
+2462;Magic Circle
+2464;Door
+2465;Warlock's Chest
+2466;Warlock's Chest
+2467;Warlock's Chest
+2468;Harpy Feather
+2469;Tainted Fruit
+2470;Wooden Bucket
+2471;Stack of Achassi Goods
+2472;Astra Ship
+2473;Aquarium
+2474;Bleeding Lily
+2475;Spilled Beer
+2476;Stolen Beer Barrel
+2477;Streetlight
+2478;Streetlight
+2479;Unknown Ore
+2480;Broken Machine
+2483;Suspicious Egg
+2484;Signpost: Airain Rock Starshower Mine Inside 1
+2485;Signpost: Airain Rock Starshower Mine Inside 2
+2486;Viper's Bane
+2487;Grenwolf Forest Bird Nest
+2488;나무넝쿨(미사용)
+2489;Duskdown Mushroom
+2490;Embrosia
+2491;Memorial Flower
+2492;Sleeping Rafflesia
+2493;Silent Forest Signpost (Stille Camp)
+2494;Silent Forest Signpost (Normal Tomb)
+2495;Silent Forest Signpost
+2496;Madness Absorption Area
+2497;Crate
+2498;Crate
+2499;Crate
+2500;Crate
+2501;Crate
+2502;Cursed Horse
+2503;Wraith's Fury
+2504;Captured Devourer
+2505;Leaf Pile
+2506;Firran Ash Remains
+2507;Rusty Fence
+2508;Halcyona Pirate's Landing Ship
+2509;Bard Siaz
+2510;Shipwreck Area
+2511;Shipwreck Area
+2512;Shipwreck Area
+2513;Shipwreck Area
+2514;Shatigon's Golden Branch
+2515;Watchtower
+2516;Wedding of Souls
+2517;Wooden Fence
+2518;Steamtank Gunner's Seat
+2519;Footbare Pass Task Board
+2520;Dying Nuian
+2521;Clipper Sail
+2522;Trap
+2524;Earth Sealstone
+2525;Fire Sealstone
+2526;Water Sealstone
+2527;Wind Sealstone
+2528;Spirit's Sealstone
+2529;봉인석_AndGate1
+2530;봉인석_AndGate2
+2531;봉인석_AndGate3
+2532;봉인석_AndGate4
+2533;Five-Power Sealstone
+2534;First Animal Cage
+2535;Insanity Zone
+2536;Barrel
+2537;Barrel
+2538;Barrel
+2539;Barrel
+2540;Barrel
+2541;Short Wooden Fence
+2542;Wood Double-Rail Fence
+2543;Short Wood Double-Rail Fence
+2544;Ash Pile
+2545;Invisible Wheel
+2547;Sand Mound
+2548;Illion Army Supplies
+2549;Sallium Army Supplies
+2550;Second Animal Cage
+2551;Third Animal Cage
+2552;Observation Machine
+2553;Grayson's Lamp
+2554;Chorvas's Campfire
+2555;Torch
+2556;Torch
+2558;Memory Tree
+2560;Spyglass
+2561;Healing Flower
+2562;Rock Mound
+2563;Unfinished Sandcastle
+2564;Broken Pier
+2565;Silver Coconut Bunch
+2566;Turtle Spawning Grounds
+2567;Begonia
+2568;Goblin Cage
+2569;Aidel's Old Chest
+2570;(Remove after confirmation) Flag
+2571;Old Flag
+2572;Buried Ashes
+2573;Buried Ashes
+2574;Halcyona Coralite
+2577;Fragrant Liquor
+2579;Potent Liquor
+2580;Sweet Liquor
+2581;Snack Basket
+2582;Snacks
+2583;Snacks
+2584;Wagon Lever
+2585;Dusty Ore
+2586;Demon-sealed Statue (Temporary Appearance)
+2587;Mana Berries
+2588;Vigor Berries
+2589;Sunbite Beanstalk
+2590;Torch
+2591;Bookcase
+2592;Book
+2593;Bookcase
+2594;Crates
+2595;Dining Table
+2596;Broken Machine
+2597;Shining Vein
+2598;Gravemarker
+2599;Royal Tomb Gate
+2600;Solisa Signpost
+2601;Brewery Signpost
+2603;Sun's End Signpost
+2604;Woodhenge Castle Signpost
+2605;Royal Tomb Entrance
+2606;Dropped Satchel
+2607;Bookcase
+2608;Target Board
+2609;Scrap Heap
+2610;Basic Storage Chest
+2611;Bell
+2612;Naval Lantern
+2613;Clipper Lamp
+2614;Springwater
+2615;Frost Giant Talisman
+2616;Frost Giant Tombstone
+2618;Bureau
+2619;Rock Mound
+2620;Halcyona River
+2621;Superior Storage Chest
+2622;Valentinos's Old Desk
+2623;테스트_두다드 스위치
+2624;테스트_두다드 리시브
+2625;Shipwreck Area
+2626;Shipwreck Area
+2627;테스트_두다드 게이트
+2628;테스트_두다드 스위치 2
+2629;Unidentified Tree
+2630;Greenman Droppings
+2631;테스트_영역
+2632;Insignia Drafting Table
+2633;Insignia Stamp
+2634;Merchant Spire Gate
+2635;Historic Statue
+2636;Historic Stones
+2637;Gold Pit
+2638;Elephant Bone
+2639;Narayana Merchant's Pack
+2640;Hashan's Box
+2641;Demian's Mistake
+2642;Pebble
+2643;Blue Bobblehead Statue
+2644;Tangerine Bobblehead Statue
+2645;Orange Bobblehead Statue
+2646;Silver Bobblehead Statue
+2647;Black Bobblehead Statue
+2648;Green Bobblehead Statue
+2649;Traveler's Old Cauldron
+2650;Orchard Apple Tree
+2651;Red Bobblehead Statue
+2652;Violet Bobblehead Statue
+2653;Jade Bobblehead Statue
+2654;Pink Bobblehead Statue
+2655;Brown Bobblehead Statue
+2656;Golden Bobblehead Statue
+2657;Prisoner Bobblehead Statue
+2658;Maid Bobblehead Statue
+2659;Question Mark Bobblehead Statue
+2660;Millenium Snow Barley Beer
+2661;Luxurious Bobblehead Statue
+2662;Bush
+2663;Traveler's Crude Toolbox
+2664;Resilient Gweonid Tree
+2665;Jar
+2666;Liquor Bottle
+2667;Liquor Bottle
+2668;Beehive
+2669;Petal
+2670;Tree of Courage
+2671;First Song for the Ancestral God
+2672;Dairy Calf
+2673;Chick
+2674;Messy Stain
+2675;Lamb
+2676;Aerohydra Potion
+2677;Scrolls
+2678;Mysterious Jewel
+2679;Book
+2680;Barrel
+2681;Treasure Chest
+2682;Grain Sack
+2683;Scrolls
+2684;Scrolls
+2685;Blue Potion
+2686;Empty Bottle
+2687;Paint
+2689;Teapot
+2690;Treasure Chest
+2691;Crate
+2692;Herb Barrel
+2693;Herb Barrel
+2694;Toolbox
+2695;Small Box
+2696;Large Book
+2697;Medicine Box
+2698;Small Red Medicine
+2699;Liquor Bottle
+2700;Gourd Bottle
+2701;Small Gourd Bottle
+2702;Large Gourd Bottle
+2703;Jar
+2704;Medicine Barrel
+2705;Piglet
+2706;Bridge Bomb
+2707;Vegetable Basket
+2708;Cheese Box
+2709;Potato Sack
+2710;Food Storage Barrel
+2711;Potato Sack
+2712;Pot
+2713;Lucas's Rowboat
+2714;Vegetable Basket
+2715;Crate
+2716;Fireworks Pack
+2717;Ink Barrel
+2718;Hereafter Stone
+2719;Memory Ink
+2720;Seed Basket
+2721;Spacious Storage Chest
+2722;Green Ore Bucket
+2723;Blue Ore Bucket
+2724;White Ore Bucket
+2725;Stone Bag
+2726;Toolbox
+2727;Hammer
+2728;Toolbox
+2729;Tool Rack
+2730;Tool Rack
+2731;Adventurer's Cauldron
+2732;Watering Can
+2733;Adventurer's Handy Toolbox
+2734;Second Song for the Ancestral God
+2735;Third Song for the Ancestral God
+2736;Fourth Song for the Ancestral God
+2737;Fifth Song for the Ancestral God
+2738;Sixth Song for the Ancestral God
+2739;Seventh Song for the Ancestral God
+2740;Eighth Song for the Ancestral God
+2741;Ninth Song for the Ancestral God
+2742;Tenth Song for the Ancestral God
+2743;Eleventh Song for the Ancestral God
+2744;Twelfth Song for the Ancestral God
+2745;Thirteenth Song for the Ancestral God
+2747;Scrolls
+2748;Original Memorist's Cake
+2749;Amy's Chicken
+2750;Paul's House
+2751;Sturdy Tree
+2752;Shipwreck Cargo
+2753;Underwater Treasure Chest
+2754;Race Standby Area #2
+2756;Turmeric
+2757;Vanilla
+2758;Pepper
+2759;카메라이펙트_테스트
+2761;Chili Pepper
+2762;Aloe
+2763;Neglected Sapling
+2764;Cultivated Ginseng
+2765;Clubhead Fungus
+2766;Race Standby Area #2
+2767;Race Standby Area #3
+2768;Sea Weather Area
+2769;Race Starter
+2770;Icefang Orc Cage
+2771;Meek Snowlion Halo
+2772;Meek Snowlion Wind
+2773;Talking Chicken
+2774;Wind Messenger
+2775;Message in a Bottle
+2776;Message in a Bottle
+2777;Message in a Bottle
+2778;Guardian Spirit's Censer
+2779;Belethe
+2780;Warning: Climb at Own Risk
+2781;Cloak Crate
+2783;Jar
+2784;Steel Bar
+2785;테스트
+2786;Jar
+2787;Jar
+2788;Cacao Tree
+2789;Barrel
+2790;Barrel
+2791;Barrel
+2792;Barrel
+2793;Crate
+2794;Crate
+2795;Crate
+2796;Crate
+2798;Whisperwind Flag
+2799;Whisperwind Summoning Circle
+2800;Rune Portal
+2801;루핑 테스트용_농사 숙련도
+2803;Arcum Iris Quarry Rock Pile
+2805;Magic Circle
+2806;Yellow Magic Circle 1
+2807;Blue Magic Circle 2
+2808;Yellow Magic Circle 2
+2809;Abandoned Wagon
+2810;Gourd Bottle
+2811;Fruit Basket
+2812;Honey Jar
+2813;Liquor Bottle
+2814;Crate
+2815;Jar
+2816;Liquor Jug
+2817;Cushion
+2818;Log
+2819;Crate
+2820;Crop Bag
+2821;Crate
+2822;Crate
+2823;Seed Sack
+2824;Crate
+2825;Crate
+2826;Ore Sack
+2827;Barrel
+2828;Barrel
+2829;Barrel
+2830;Table
+2831;Barrel
+2832;Barrel
+2833;Gold Narayana Statue
+2834;Cushion
+2835;Belucci's Touch
+2836;Concentrate Effect
+2837;Freedich Island
+2838;Fruit Basket
+2839;Crate
+2840;Jar
+2841;Ancestor's Altar
+2842;Brazier
+2844;Chair
+2845;Fruit Basket
+2846;Crop Basket
+2847;Old Glider
+2848;Vegetable Basket
+2849;Vegetable Basket
+2850;Dried Herb Container
+2851;Fire Pot
+2852;Kraken's Rainstorm: Used by Kraken at the start of a battle.
+2853;Solzreed Rowboat
+2854;Discarded Box
+2855;Cloudgrain Clansman's Corpse
+2856;Flasks
+2857;Herb
+2858;Flasks
+2859;Cow Skull
+2860;Orrey
+2861;테스트_패럿
+2862;테스트_quest_obj
+2863;Equipment Box
+2864;Tools
+2865;Tools
+2866;Log
+2867;Meat Drying Rack
+2868;Meat Drying Rack
+2869;Meat
+2870;Meat
+2871;Gem
+2872;Sundries
+2873;Cow Skull
+2874;Treasure Chest
+2876;Shohota's Rowboat
+2877;Hento's Corpse
+2878;Hento's Bloodstain
+2879;Bone Heap
+2880;Unfinished House
+2881;Dagger Table
+2882;Suspicious Tree
+2883;Suspicious Tree
+2884;Giant Spider Cocoon
+2885;Slave Tear Weed
+2886;Unknown Tomb
+2887;Dahuta Statue (Old)
+2888;Watering_Fire Extinguishing
+2889;Peculiar Scroll
+2890;Meat
+2891;Crimson Pomegranate Tree
+2892;Sack
+2893;Archeum Vein
+2894;Jar
+2895;Fruit Basket
+2896;Fruit Basket
+2897;Crop Basket
+2898;Vegetable Basket
+2899;Fruit Basket
+2900;Nijan's Campfire
+2901;Stacked Rock Pile
+2902;Rune Portal
+2903;Rune Portal
+2904;Rune Portal
+2905;Rune Portal
+2906;Suspicious Chest
+2907;Junkyard Obstacle
+2908;Old Book Pile
+2909;Nascent Cliffs Wooden Stairs
+2910;Serpent's Pass Escape Worldgate
+2911;Tent
+2912;Lamp
+2913;Kraken Storm: Kraken summons in a non-combat state.
+2914;Bitten Apple
+2915;Fish Hanging Rack
+2916;Crate
+2917;Crate
+2918;Water Vein
+2919;Sandbag
+2920;Crop Bag
+2921;Old Crop Barrel
+2922;Crop Sack
+2923;Old Table
+2924;Sandbag
+2926;Ezna Iron Ore
+2927;Travel Stone
+2928;Invincible Magic Circle
+2929;Wind Elemental Magic Ward
+2930;Rowboat
+2931;Sun's Day Waterweed
+2932;Ferocious Giant - Moss Spore
+2933;Whirling Mist
+2934;Cursed Sarcophagus
+2935;Ant Food
+2936;Ancient Well
+2937;Eznan Treasure Chest
+2938;Anno's Cage
+2939;Whirlwind Garlic
+2940;Sawshark Mugwort
+2941;Long Chair
+2942;Chair
+2943;Chair
+2944;Chair
+2945;Dry Wheat Bales
+2946;Red Sovereign Chair
+2951;Altar of Nui
+2952;Godshield Mushroom
+2953;Old Kingdom Defense Cannon
+2954;Venomscale Mushroom
+2955;Kobold Brazier
+2956;Falconry-Barkstrip Slime-Declining Speed Circle
+2957;Body Bag
+2958;Whitecap Pearl Shell
+2959;Sturdy Olive Tree
+2960;Small Campfire
+2961;Red Poppy
+2962;테스트_구매
+2963;Monolith
+2964;Bloody Scribble
+2966;Memory Tome
+2967;Sacrificial Post
+2968;Cloudgrain Clan's Totem
+2969;Ancient Monolith
+2970;Ancient Monolith
+2971;Ancient Monolith
+2972;Ancient Monolith
+2973;Granite Quarry Signpost
+2974;Ancient Monolith
+2975;Hassan's Camp Signpost
+2976;Hatora Signpost
+2977;Anthills Signpost
+2978;Ancient Monolith
+2979;Parchsun Settlement Signpost
+2980;Ancient Monolith
+2981;Sanctia Oasis Signpost
+2982;Widesleeves Signpost
+2983;Ancient Monolith
+2984;Ancient Monolith
+2985;Ancient Monolith
+2986;Ancient Monolith
+2987;Ancient Monolith
+2988;Ancient Monolith
+2989;Ancient Monolith
+2990;Thunderbolt Magic Circle
+2991;Bloodstain
+2992;Water Buffalo Calf
+2993;Giant Basilaur - Petrifying Cloud
+2994;Gosling
+2995;Rok's Home
+2996;Altar
+2997;Streetlight
+2999;Captured Fog Skeleton
+3000;Unknown Machine
+3001;테스트_번개
+3002;Corrupting Magic Circle
+3003;Broken Bladewing Courier
+3004;Turkey Chick
+3005;Goat Kid
+3006;Duckling
+3007;cbt5가축_테스트중
+3008;Ronbann Castle Dungeon Hell Gate
+3009;Club Lights
+3010;Crate
+3011;Lantern
+3012;Pirate Treasure Chest
+3015;Ockham's Diary
+3016;Anonymous Stone Statue
+3017;Silver Necklace Jar
+3018;Cold Mirror Jar
+3019;Cold Diamond Jar
+3020;Unknown Grave
+3021;Old Chest
+3022;테스트_사운드
+3023;Father's Hammer
+3024;Fallen Wolf Ghost
+3025;Flame Breath
+3026;Shadowhawk Magic Circle
+3028;Olle's Treasure Chest
+3030;Flame Breath
+3031;Flame Breath
+3032;Silent Forest Checkpoint Memory Tome
+3033;Hatora Memory Tome
+3034;Parchsun Settlement Memory Tome
+3035;Sanctia Oasis Memory Tome
+3036;Widesleeves Memory Tome
+3037;Fire Thunderbolt Spawn Point
+3038;Crest Printer
+3039;Hell-hook's Blow
+3040;Flame Space
+3041;Hellhook Burst 1
+3042;Hellhook Burst 2
+3043;Mysterious Grapevine
+3044;Ancient White Vase
+3045;First Well
+3046;dummy
+3047;Norrick's Discarded Flint
+3048;Old Still
+3049;Flamelord's Strike
+3050;Flamelord
+3051;Wind Wall
+3052;Lightning Wall
+3053;Power Condenser
+3054;Lumber Pack
+3055;Echo Owl
+3056;Stone Pack
+3057;Iron Pack
+3058;Fabric Pack
+3059;Phonograph
+3060;Imprison
+3061;Altar
+3062;Spywatch Camp Memory Tome
+3063;Ball
+3064;Mahogany Bed
+3065;Antique Escritoire
+3066;Mahogany Chair
+3067;Mahogany Display Cabinet
+3068;Mahogany Bureau
+3069;Mahogany Dining Table
+3070;Chandelier
+3071;Crystal Lamp
+3072;Lost Bag
+3073;Sylvan Devi Memory Tome
+3074;Sundowne Monolith
+3075;Vedisa Memory Tome
+3076;Huntsman's Retreat Memory Tome
+3077;Stille Camp Memory Tome
+3078;Returned Camp Memory Tome
+3079;Herb Farm Memory Tome
+3080;Merchant Spire Gate
+3081;Obolus's Birdcage
+3082;Magic Beanstalk
+3083;Traveler's Rest Memory Tome
+3084;White Arden Ghost's Anima
+3085;Rainstorm Area
+3086;Maelstrom Area
+3087;Trapped Soul's Tree
+3088;Green Knight's Book
+3089;Mahadevi Port Memory Tome
+3091;Supply Box
+3094;Webbed Cocoon
+3095;Spider Explosion
+3118;Monument
+3119;Apple
+3120;Wooden Fragment
+3121;Dry Aspen Tree
+3122;Whisperwind Memory Tome
+3123;Graymist Memory Tome
+3124;Oxion Clan Memory Tome
+3125;Cloudgrain Memory Tome
+3126;Halfmoon Memory Tome
+3127;Halo Hollow Memory Tome
+3128;Traveler's Spring Memory Tome
+3129;Seachild Wharf Memory Tome
+3130;Burnt Castle Camp Memory Tome
+3132;Door
+3133;Soap Dish
+3134;Love Behind Bars
+3135;Gilt Basilaur Statue
+3136;Painted Basilaur Statue
+3137;Basilaur Statue
+3138;Basilaur Moving Statue
+3139;Gilt Colossus Statue
+3140;Painted Colossus Statue
+3141;Colossus Statue
+3142;Colossus Moving Statue
+3143;Gilt Succubus Statue
+3144;Painted Succubus Statue
+3145;Succubus Statue
+3146;Moving Succubus Statue
+3147;Gilt Gargoyle Statue
+3148;Painted Gargoyle Statue
+3149;Gargoyle Statue
+3150;Gargoyle Moving Statue
+3151;Gilt Yaksa Statue
+3152;Painted Yaksa Statue
+3153;Yaksa Statue
+3154;Yaksa Moving Statue
+3155;Gilt Treant Statue
+3156;Painted Treant Statue
+3157;Treant Statue
+3158;Treant Moving Statue
+3159;Gilt Harani Statue
+3160;Painted Harani Statue
+3161;Harani Statue
+3162;Harani Moving Statue_Not Implemented
+3165;Glider Missile
+3166;Gilneas Levitation
+3167;Lilyut Iron Gate
+3168;Fabric Pack
+3169;Austera Teleport Book
+3171;(테스트)퀘스트용 등짐
+3172;(테스트)퀘스트용 등짐 루팅
+3173;Austera Memory Tome
+3174;Firran's Early Cap Frock Effect
+3175;Shou Yi's Axe
+3176;Mina's Pickaxe
+3177;Prisoner Bobblehead Statue
+3178;Maid Bobblehead Statue
+3179;Question Mark Bobblehead Statue
+3180;Luxurious Bobblehead Statue
+3181;Spore
+3182;Public Pack
+3183;Echo Owl
+3184;Painted Basilaur Statue
+3185;Painted Colossus Statue
+3186;Painted Succubus Statue
+3187;Painted Gargoyle Statue
+3188;Painted Yaksa Statue
+3189;Painted Treant Statue
+3190;Painted Harani Statue
+3191;Count Sebastian's Retreat Memory Tome
+3192;Moonswept Homes Memory Tome
+3193;Bridge Memory Tome
+3194;Elf Boy Standup Portrait
+3195;Elf Girl Standup Portrait
+3196;Nuian Boy Standup Portrait
+3197;Nuian Girl Standup Portrait
+3198;Harani Boy Standup Portrait
+3199;Harani Girl Standup Portrait
+3200;Firran Boy Standup Portrait
+3201;Firran Girl Standup Portrait
+3202;Harani Girl Portrait
+3203;Freedich Island Painting
+3204;Small Painting
+3205;Packaged Bobblehead Statue
+3206;Blue Bobblehead Statue
+3207;Tangerine Bobblehead Statue
+3208;Green Bobblehead Statue
+3209;Red Bobblehead Statue
+3210;Jade Bobblehead Statue
+3211;Brown Bobblehead Statue
+3212;Explosive Area
+3213;Display Stand
+3214;Small Warship Wreckage
+3215;Well
+3216;Well
+3217;Well
+3218;Well
+3219;Well
+3220;Well
+3221;Well
+3222;Well
+3223;Aquarium
+3224;Traveler's Corpse
+3225;Cloudy Area
+3226;Thundercloud Area
+3227;Harani Girl Portrait
+3228;Night Lighting
+3229;Black Bobblehead Statue
+3230;Display Stand
+3231;Violet Bobblehead Statue
+3232;Naval Mine Explosion
+3233;Rice Straw
+3234;Wooden Coffin
+3235;Orc Totem
+3236;Flame Barrier
+3237;Ice Wall
+3238;Old Bone Chest
+3239;Damaged Roof
+3240;Salli's Ladder
+3241;Carrot
+3242;Dahuta Statue
+3243;Harani Girl Pillow
+3244;Ladder
+3245;Sharp Bone
+3246;Sharpened Bone
+3247;Sharp Bone
+3248;Pointed Bone
+3249;(테스트)LF턴언데드
+3250;LF턴언데드 삭제 이펙트
+3251;Soul's Pipe_Astra Purification
+3252;aaclub
+3253;Falconry-Shichimi Arsonist-Fire Circle
+3254;Sunder Earth
+3255;Spirit Warrior's Grave
+3256;Ominous Tombstone
+3258;Hearthstone
+3259;Soshie's Magic Lamp
+3260;Stone Sarcophagus
+3261;Scarlet Glowbloom
+3262;Freedich Island Painting
+3263;Bush
+3264;Fikunda's Chest
+3265;Door
+3266;Clubhouse
+3267;Main Gate
+3268;Express Delivery Fabric Pack
+3269;Snowing
+3270;Winter Maiden Festival Phonograph
+3271;Snowman
+3272;Snowman
+3273;Snowman
+3274;Snowman
+3275;Snowman
+3276;Snowman
+3277;Snowman Statue
+3278;Winter Maiden Festival Boots
+3279;Winter Maiden Festival Boots
+3281;테스트_마리아노플프리즌브레이크
+3282;Snowdrift
+3283;Large Winter Maiden Festival Tree
+3284;Winter Maiden Festival Tree
+3285;Aubre Cradle
+3286;Aubre Cradle 2
+3287;Gallows Graves
+3288;Snowball Basket
+3289;Captain's Monsoon
+3290;Water Cannon
+3291;Suspicious Chest
+3292;Breathing Reed
+3293;Green Winter Maiden Festival Tree
+3294;White Winter Maiden Festival Tree
+3295;Bonepile
+3296;Pirate's Curse
+3297;테스트_땅파기
+3298;Sword of Fate
+3299;Aft Ladder
+3300;Aft Ladder
+3301;Auroria Mineral Water
+3302;Auroria Mineral Water Trade Pack
+3303;Archeum Tree
+3304;Siege Proclamation Backpack
+3305;Port Aft Ladder
+3306;Starboard Aft Ladder
+3307;Giant Beehive
+3308;Mahadevi Checkpoint Memory Tome
+3310;Mist Explosion
+3311;Treeless Clearing Corpse
+3312;Apiary
+3313;Footprint
+3314;Footprint
+3315;Campfire
+3316;테스트용_쓰지않음
+3317;Old Bottle
+3318;Delphinad Relic: Delphinad Library Parchments
+3319;Delphinad Relic: Lost Realm Pottery
+3320;Delphinad Relic: Long-Lost Rubies
+3321;Delphinad Relic: Etched Clay Tablet
+3322;Delphinad Relic: Perdita Statue
+3323;Delphinad Relic: Master
+3324;Delphinad Relic: Delphinad Library Parchments
+3325;Delphinad Relic: Lost Realm Pottery
+3326;Delphinad Relic: Long-Lost Rubies
+3327;Delphinad Relic: Etched Clay Tablet
+3328;Delphinad Relic: Perdita Statue
+3329;Empty Delphinad Relic
+3331;Campfire
+3332;Small Time Bomb
+3333;Wooden Chest
+3334;테스트_바다낚시물고기
+3335;Whale Shark
+3337;Extinguished Beacon
+3339;Altar
+3341;White Rose
+3343;Gnarled Thornbush
+3346;Hidden Corpse
+3347;White Dress Portrait
+3349;Glitterstone Water Pump #1
+3350;New Ruby Processor
+3351;Pulsing Grub Egg
+3353;Silver Cobweb
+3355;Cursed Wooden Doll
+3356;Memory Censer
+3357;Cobwebbed Tomb
+3359;Praying Girl Statue
+3360;White Bearskin Rug
+3361;Ynys Isle Pottery
+3363;Kimrei's Potion
+3364;Breadbasket
+3365;Farm Uniform
+3366;Fertilizer Machine #17
+3367;Requiem's Sanctuary
+3368;Jesebel's Perfume Bottle
+3369;Jesebel's Safe
+3370;Stoltzburg's Armor
+3371;Sealed Chest
+3372;Treasure Chest
+3373;Treasure Chest
+3374;Pirate Urn
+3375;Pirate Urn
+3376;Pirate Urn
+3377;Pirate Urn
+3378;Pirate Isle Prison Door
+3379;Steamscout Launcher
+3381;Remembrance Flower
+3382;Jolly Roger Tower
+3383;Jolly Roger Flag
+3384;Siege Tower Workstation
+3386;Pirate Hunters' Flag
+3387;Jolly Roger Flag
+3388;Peace Zone
+3389;테스트용_공성탑
+3390;Growlgate Isle Memory Tome
+3391;Hanging Skeleton
+3392;Crystalized Grass
+3393;Auroria Soil
+3394;Barrel
+3395;Morpheus's Treasure Chest
+3396;테스트_두다드주사위
+3397;테스트_볼링핀세팅기
+3398;Watchtower Brazier
+3400;Official Nameplate
+3401;Caernord Memory Tome
+3402;Glitterstone Memory Tome
+3403;Village of Nui Memory Tome
+3404;To Upper Brimblaze Tower
+3405;To Lower Brimblaze Tower
+3407;Sediment
+3410;Defense Respawn
+3411;Siege Weapon Controller
+3412;Ynystere Coastal Whirlpool
+3413;The Cliff That Ends Regret Signpost
+3414;Rose Estate Signpost
+3415;Fortress Signpost
+3416;Manor Signpost
+3417;Commercial and Industrial District Signpost
+3418;Entertainment District Signpost
+3419;Glitterstone Signpost
+3420;Glitterstone Mine Signpost
+3421;Beech Forest Signpost
+3422;Beech Forest Southern Signpost
+3423;Beech Forest Western Signpost
+3424;Yearning River Signpost
+3425;Dolmen Floodplain Signpost
+3426;Sleeper's Cape Signpost
+3427;Stoltzburg Rampart Signpost
+3428;Human Cannon
+3429;테스트_플로우그래프연습_김현준1
+3430;FG테스트
+3431;테스트_플로우그래프연습_김현준2
+3432;테스트_플로우그래프연습_김현준3
+3433;Silver Birch Branch
+3434;테스트 수성 부활
+3435;Thornbush Cage
+3436;Stoltzburg's Contract
+3437;Junk Ruby Barrel
+3438;해저 생물 두다드 테스트
+3439;Dirt
+3440;Sunken Wine Cask
+3441;Bomb Blast
+3442;Small Bomb Blast
+3443;Actress's Dress
+3444;Midden
+3445;Underwater Breathing Device
+3446;Trade Pack Storage
+3449;Marianople Weeds
+3452;Wood Pile
+3453;Sorio
+3455;Unstable Grub Trap
+3456;Young Amaryllis
+3457;Construction Debris
+3458;Kalia Family Cargo
+3459;Dropped Kaliai Cargo
+3460;Kalia Family Warehouse
+3461;Compass
+3462;선박 추적 장치(미사용, 다른거로 쓰세요)
+3463;Archeum Lumber Pack
+3464;Frozen Bottle Explosion
+3465;Lightning Bottle Explosion
+3466;Unknown Prisoner
+3467;Beacon
+3468;Strange Weed
+3469;Farm Hand's Corpse
+3470;Pirates' Cooking Pot
+3472;Scribbled Research Notes
+3474;Blood Pirates Logbook, Ch. 2
+3475;10m Inclined Ladder
+3476;20m Inclined Ladder
+3477;5m Inclined Ladder
+3478;50m Inclined Ladder
+3479;Invisible Inclined Ladder
+3480;15m Inclined Ladder
+3481;2m Inclined Ladder
+3482;2m Inclined Ladder
+3483;Recovered Treasure Chest
+3484;Sunken Treasure Chest
+3485;Blazing Tree
+3486;Smoking Bush
+3488;Rations
+3489;Icicle
+3490;Anthalon's Telekinesis Area
+3491;Pirate Wardstone
+3492;Crate
+3493;Unknown Coffin
+3494;Sunstorm Griffin Egg
+3495;Moonstorm Griffin Egg
+3496;Crate
+3497;Crate
+3498;Crate
+3499;Corrupter's Soul Orb
+3500;Guardian's Soul Orb
+3501;Healer's Soul Orb
+3502;던전테스트_힐방울
+3503;Halcyona Cemetery Door
+3504;Red Coral Reef
+3505;Green Coral Reef
+3506;Brown Kelp
+3507;Green Kelp
+3508;Orange Plate Coral Reef
+3509;Yellow Plate Coral Reef
+3510;Antler Coral Reef
+3511;Oyster
+3512;White Coral Rock
+3513;Blue Coral Rock
+3514;Glitterstone Mine Water Pump #2
+3515;Glitterstone Mine Water Pump #3
+3516;Escape Magic Circle
+3517;Festival of the Dead
+3518;Abalone
+3519;Penshell
+3520;Catapult Construction Site
+3521;Sunset Stone
+3522;Sunset Stone
+3523;Anshun's Sheep
+3524;Snowlion Tomb
+3525;복분자(미사용)_haragu_테스트용
+3526;Mountain Tea Shrub
+3527;Mnemos Leaf
+3528;Unknown Firran
+3529;Queensleaf
+3530;상자(미사용)
+3531;Harani Fugitive's Chest
+3532;Gold Crown Herb
+3533;Chicken Little
+3534;Steppe Belle
+3536;Achassi Well
+3537;Narayana Pack
+3538;Ancient Relic
+3539;Watcher's Gesture
+3540;Kyrios's Symbol
+3541;Underwater Breathing Device
+3542;Controller
+3543;Burnt Castle Armory Entrance
+3544;Serpent God Statue
+3545;Old Tree
+3546;Plump Abalone
+3547;Chewy Penshell
+3548;Cage
+3549;Centaur Well
+3550;Rohanja and Renno's Aquafarm
+3551;Black Pearl Oyster
+3552;Empty Tomb
+3553;Shipwreck
+3554;스폰관리 테스트 케이스 두다드
+3555;패밀리 테스트 차일드
+3556;패밀리 테스트 페어런트
+3557;Obstacle
+3558;Placed Offering for Prince
+3559;Polluted Spring
+3560;Glass Bottle
+3561;Mutated Achassi Egg
+3562;Kyrios Statue
+3563;Owl Mailbox
+3564;Placed Red Hat Scarecrow
+3566;Bent Key
+3567;Fish Crate
+3568;Snowlion Ruins Altar
+3569;Snowlion Sword Chest
+3570;Jagged Boulder
+3571;Kapagan Steppe Windstone
+3572;Dead Firran
+3573;Ancient Worn Box
+3574;Prairie Wildflower
+3575;Small Anima Injector
+3576;Tehmi Empire Relic
+3577;Tashar's Chest
+3578;Firesnarl Weed
+3579;Ritual Flame
+3580;Bonehoarders Poachers' Prison
+3581;Bonehoarders' Secret Document
+3582;Narayana Vision Jar
+3583;Poacher's Trap
+3585;Windstone Ruins
+3586;Crocodile Boulder
+3587;Excavated Nuon Anvil
+3588;Catapult
+3589;Solisa Memory Tome
+3590;Treehouse
+3591;Sunset Memory Tome
+3592;Cobweb
+3593;Quartermaster Sorvell's Spawn Point
+3594;Burnt Castle Armory Gate
+3595;테스트 두다드 보물상자
+3596;Wooden Ladder
+3597;Loka's Tree
+3598;Sorvell's Immolation
+3599;Quartermaster Sorvell
+3600;Savannah Bloodstain
+3601;테스트용 창고문 개폐 장치
+3602;Winters's Hellish Lightning
+3603;테스트용 철창문(원형 경기장)
+3604;Goldmane Stone
+3608;스킬 반경 테스트
+3609;Quartermaster Sorvell's Thundering Strike
+3610;Quartermaster Sorvell's Rocksplitter
+3611;Quartermaster Sorvell's Earthen Grip
+3612;Flame Watcher's Chambers
+3613;To the Burnt Castle Armory Depths
+3614;Blue Hat Scarecrow
+3616;Glitterstone Water Pump #1
+3620;테스트용 가로등
+3621;무기 숙련도 테스트용 가구
+3622;Earth Pillar
+3623;Water Pillar
+3624;Wind Pillar
+3627;Hieronimus's Summoning Circle
+3629;Suspicious Footprints
+3630;Bird Nest
+3631;Thorny Vine
+3632;Vine Forest
+3633;Animal Cage
+3634;Leaf Pile
+3635;Rusty Fence
+3644;Goblin Prison
+3645;Empty Goblin Prison
+3646;Fruited Palm Tree
+3647;Rathole
+3648;Moonlight Cotton Plant
+3650;Hanging Rope
+3651;Starsands Coral
+3652;Sanddeep Medicinal Herb
+3653;Sanddeep Medicinal Spice
+3655;Winters's Hellfire
+3656;Hieronimus's Freeze
+3657;Anima Orb
+3658;Trebuchet Construction Site
+3659;Portable Siege Cannon
+3660;Portable Siege Cannon
+3661;Shell-Shocked Storage Chest
+3662;Bonehoarder Pouch
+3663;Princess Summoning Circle
+3664;Quartermaster Sorvell's Keg Bomb
+3665;Statue of Nui
+3666;마법장비 합성 제작대_테스트
+3667;Summoned Princess
+3668;테스트용 철창문
+3669;Iron Cage
+3670;Lever
+3671;Burnt Castle Portcullis
+3672;Switchgear Inside Amphitheatre Prison_01
+3673;Burnt Castle Armory Exit
+3674;테스트_인던입장용
+3675;Switchgear Inside Amphitheatre Prison_02
+3677;테스트_파란색 박스
+3678;Arena Cage
+3679;Arena Lever
+3680;Arena Prison Switchgear_01
+3681;Arena Prison Switchgear_02
+3685;Round Arena Cage
+3686;Round Arena Lever
+3687;Round Arena Prison Switchgear_01
+3688;Round Arena Prison Switchgear_02
+3691;Music Box
+3693;TEST_개폐 장치
+3695;Round Arena Cage Door
+3696;Arena Lever
+3697;Arena Lever
+3698;Arena Prison Switchgear_00
+3699;일리온 A형 텐트_TEST
+3705;영역 트리거_TEST_00
+3706;두다드 오픈 클로즈_TEST
+3709;영역 트리거_TEST_01
+3710;영역 트리거_TEST_02
+3711;영역 트리거_TEST_03
+3712;영역 트리거_TEST_04
+3713;사라지는 가로등_TEST
+3725;신비한 나무 열매따기_TEST
+3730;Moringa Forest Windstone
+3739;Logic Box
+3740;Front Awning Controls
+3741;Left Awning Controls
+3742;Right Awning Controls
+3743;나무 Test
+3745;타의 상자_TEST
+3746;Jungle Ginseng
+3747;Meisha's Body
+3748;Poached Goods
+3749;Shining Coral
+3750;Smuggled Goods
+3752;Glowing Carapace
+3753;Warning Mark
+3754;Porcelain Doll
+3755;Crimson Splatter
+3756;Isus's Toolchest
+3757;Mine Pit
+3758;Pillaged Shipment
+3759;Skeletal Remains
+3760;Residents' Prison
+3761;Abandoned House
+3762;Luadin
+3763;Dangerous Swamp
+3764;Oil Jar
+3765;Ventla's Dress Form
+3766;Goblin Treasure
+3767;Absorbent Kelp
+3768;Cultivated Kelp
+3770;Restored Pier
+3771;Brick Furnace
+3772;Kaolin Heap
+3774;Memory Tree
+3775;Suzanne's Pouch
+3776;Calleil Followers' Magic Circle
+3777;Tooth Pouch
+3778;Broken Wooden Stake
+3779;Second Hasla Fox Cage
+3780;Third Hasla Fox Cage
+3781;Tic-Tac-Toe
+3782;Red Storage Chest
+3783;Blue Storage Chest
+3784;Two Crowns Lost Treasure Chest
+3786;Jobs's Anima Machine
+3788;Howling_3 Puzzles_Gate
+3792;Howling_3 Puzzles
+3793;nitghtfever
+3796;Bluemist Herb
+3797;Grenwolf Memory Tome
+3798;Blueglass Memory Tome
+3799;Golden Fable Harbor Memory Tome
+3800;테스트_성엽_생성기
+3801;Mud Pile
+3802;Snowlion Rock Brazier
+3803;테스트_TD_스포너_01
+3804;배럭 테스트
+3806;Ranch Well
+3807;Old Windstone
+3808;테스트_침대
+3809;테스트_의자
+3811;테스트 반응하는 식물
+3813;테스트 근처에 가면 반응하는 식물
+3816;Cult of Lost Gods Raiment
+3823;Wedding Hall
+3824;Anarchi Memory Tome
+3825;Haven Memory Tome
+3826;Trieste Thespians Memory Tome
+3828;Intimate Wedding Table
+3831;Wedding Chair
+3832;Hadir's Streetlight_1
+3833;Hadir's Streetlight_2
+3834;Hadir's Streetlight_3
+3835;Hadir's Streetlight_4
+3836;Hadir's Streetlight_5
+3837;Hadir's Streetlight_6
+3838;Hadir's Streetlight_Gate
+3839;Hadir's Streetlight_Center
+3840;Snowlion Rock Camp Memory Tome
+3841;Firetalon Memory Tome
+3842;Firesnarl Memory Tome
+3843;Skyfang Memory Tome
+3844;Luadin's Shield
+3845;Leopard Cage Trade Pack
+3846;Bloodstain
+3847;Sorcery Circle
+3848;Old Memoria Lake Tree
+3849;Nymph's Laughter
+3850;Nymph's Applause
+3851;Aidel's Frostpearl
+3852;Splendid Clothes
+3853;Splendid Clothes
+3854;Oyster
+3855;Ventla's Dress Form
+3857;Coconut Cannon
+3858;Jewelry Box
+3859;Dirt Pile
+3860;Closed Trap
+3861;Hiding Spot
+3862;Faceless Shaman's Grudge
+3863;Anarchi Signpost
+3864;Ignomin Valley Signpost
+3865;Housing Province Signpost
+3866;Haven Signpost
+3867;Woodhenge Castle Castle Signpost
+3868;Trieste Thespians Signpost
+3869;Pirate Hideout Signpost
+3874;Lady Velarre's Tombstone
+3875;Savannah Elephant Bone
+3876;Lady Velarre's Explosion
+3877;Magic Circle
+3879;Rune Portal
+3880;하디르 보스_02의 중첩 날리기
+3881;Singing Doll
+3882;Broken Wooden Stake
+3883;Trieste Theater Props
+3885;Sea of Fire
+3887;Loka_Twilight Glow Village Intersection_Signpost
+3888;Loka_Signpost01
+3889;Loka_Signpost02
+3890;Loka_Signpost03
+3891;Loka_Signpost04
+3892;Loka_Signpost05
+3893;Loka_Signpost06
+3894;Loka_Signpost07
+3895;Loka_Signpost08
+3897;Campfire
+3898;Large Wedding Table
+3899;Strange Machine Part
+3902;dd
+3903;First Hasla Fox Cage
+3906;Drillmaster's Trap
+3907;Wedding Aisle
+3908;Wedding Platform
+3909;Wereshark Blood
+3910;Singalt's Magic Stone
+3911;Wedding Lights
+3912;Zinnia
+3913;Crimson Poppy
+3914;Jade-Like Stone
+3915;Fossilized Tiger Pawprint
+3916;Fossilized Scale
+3917;Southern Kosan Monument
+3918;Eastern Kosan Monument
+3919;Western Kosan Monument
+3920;Sturdy Bamboo
+3921;Millennium Herb
+3922;Rusty Fence
+3923;Rusty Fence
+3924;10m Rope Ladder
+3925;20m Rope Ladder
+3926;10m Wide Rope Ladder
+3927;20m Wide Rope Ladder
+3928;Fresh Bouquet
+3929;Hadir Boss_01's Hell Explosion
+3930;Hadir Boss_01's Hell Explosion (Flame)
+3933;Harpy Egg
+3934;Altar of the Gale
+3935;Altar of the Sun
+3936;Lake Guardian Altar
+3937;Chained Soul Explosion
+3938;Sideros's Sandcastle
+3939;Sideros's Cofferdam
+3941;Sunder Earth Area
+3942;Chaotic Chained Soul Explosion
+3943;Loka's Blessing
+3944;Guerman's Body
+3945;Fallen Sanddeep Coconut
+3946;우체통 테스트
+3947;Water Elemental Totem
+3948;Fire Elemental Totem
+3949;Wind Elemental Totem
+3950;Earth Elemental Totem
+3951;Archery Target
+3952;Powder Keg
+3953;Farm Rice Straw
+3954;Ancient Treasure Chest
+3955;Bentla's Mind Controller
+3956;Rotten Flesh Golem's Poison Cloud
+3959;Tough Cobweb
+3960;Purple Falcon Egg
+3961;Melkina's Magic Circle and Explosion
+3962;Leonie Trieste
+3964;Water Bomb
+3965;Giant Mantis Egg Sac
+3966;Sunset Stone
+3967;Sunset Stone
+3968;Hunter's Trap
+3969;Zebra Corpse
+3970;Bloody Task Board
+3971;Bloody Task Board
+3972;Bloody Task Board
+3973;Bloody Task Board
+3974;Bloody Task Board
+3975;River Crocodile Egg
+3976;Bloody Task Board
+3977;Bloody Task Board
+3978;Bloody Task Board
+3979;Bloody Task Board
+3980;Bloody Task Board
+3981;Sunset Stone
+3982;Sunset Stone
+3983;Sunset Stone
+3984;Sunset Stone
+3985;Sunset Stone
+3986;Sunset Stone
+3987;Sunset Stone
+3988;Wolf Cage
+3989;Magic Circle
+3990;Cage
+3991;슬롯 머쉰 테스트
+3992;Rotten Flesh Golem's Smack
+3993;Sleeping Imperial Sword
+3994;Sleeping Imperial Axe
+3995;Galegarden Memory Tome
+3996;test_smartobj
+3997;Tehmika Memory Tome
+3998;Jadegale Memory Tome
+3999;Veroe Memory Tome
+4000;Sleeping Imperial Torch
+4001;Sleeping Imperial Sword
+4002;Sleeping Imperial Axe
+4004;Rotten Flesh Golem's Slam
+4006;Rotting Corpse
+4008;Hadir Boss_02's Basic Attack
+4009;Low-Toned Bell
+4011;Mid-Toned Bell
+4012;High-Toned Bell
+4014;Powder Box
+4015;Hadir Boss_01's Hell Fire_03
+4020;Transported Box
+4021;Skyfin Egg
+4026;Simple Grave
+4028;상점 판매 테스트
+4029;공간 기록서 유저용(테스트_정덕근)
+4030;Ancient Weapons
+4031;Flamingo Nest
+4033;Signal Flare
+4034;Giant Fire Elemental's Charge Attack
+4035;Stitched Specimen's Poison Cloud
+4036;Hot Springs Cookpot
+4037;Rotten Flesh Golem's Poison Cloud
+4038;Pale Razorbeak Nest
+4040;Heated Stone
+4041;Hadir Farm: Poison Pond
+4042;Teapot Fountain
+4044;Immature Mandragora
+4045;Sunset Stone
+4046;Sunset Stone
+4047;Sunset Stone
+4048;Sunset Stone
+4049;Sunset Stone
+4050;Sunset Stone
+4051;Sunset Stone
+4052;Sunset Stone
+4053;Sunset Stone
+4054;Sunset Stone
+4055;Sunset Stone
+4056;Sunset Stone
+4057;Sunset Stone
+4058;Sunset Stone
+4059;Sunset Stone
+4060;Sunset Stone
+4061;Sunset Stone
+4062;Sunset Stone
+4063;Sunset Stone
+4064;Sunset Stone
+4065;Sunset Stone
+4066;Lady Velarre Blueblood's Dark Portal
+4067;Abandoned Altar
+4068;Rotten Flesh Golem's Poisonous Gale
+4069;Dropped Box
+4070;Flame Barrier
+4072;Urutol's Sheep
+4073;Dirt Mound
+4074;Cask
+4075;Lady Velarre's Fire Pit
+4076;Checkpoint Palisade Materials
+4077;Checkpoint Palisade Flag
+4078;Concentrated Wind Element
+4079;Transported Box
+4080;Gillweed
+4081;Suspicious Wooden Chest
+4082;Lady Velarre's Dark Wall
+4083;Lady Velarre's Dark Wall
+4084;Machine's Self-Destruction
+4085;White Rose
+4086;Bucket
+4087;Mineral Spring Well
+4088;Palace Cellar Entrance
+4089;Stolen Milk Jar
+4091;Red Jar
+4092;Hadir Farm_Hell Guide_Road to the Afterlife
+4093;River Boulder
+4094;Kidnap Victim's Corpse
+4095;Bloodmage's Dark Baptism
+4096;Young Angelica Root
+4097;Snowlion Rock Signpost
+4098;Manelph's Satchel
+4099;Mistfiend Summoning Circle
+4101;Camera
+4102;Vigo's Jar
+4103;Beach Palm Tree
+4104;Hall of Retribution
+4105;Palace Dungeon Machine
+4106;Chapel Door
+4107;Unidentified Corpse
+4108;Grub Corpse
+4109;Sacred Flame
+4110;Clasique's Head
+4111;Clasique's Body
+4112;Woman's Severed Head
+4113;Fallen Snowlion
+4114;Dewstone Plains Weeds
+4115;Hadir Farm Entrance
+4116;Gadamer's Hidden Chest
+4117;Sandcloud Militiaman's Corpse
+4118;Old Bloodmist Chest
+4119;Discarded Armor
+4120;Hard Log
+4121;Suspicious Cask
+4122;Windheart Lake Altar
+4123;Palace Dungeon Secret Device
+4125;Whirlwind
+4126;Decayed Corpse
+4127;Bonepile
+4128;Locked Gate
+4129;Orphe's Son
+4130;Corpse
+4131;Dragonfruit Altar
+4132;Bloodstain
+4133;Bloodstain
+4134;Lunar Halo Shipwreck
+4135;Fram's Survey Kit
+4136;Historic Rowboat
+4137;테스트_마하데비 지하_문
+4138;Ritual Goods Pack
+4139;Palace Cellar Exit
+4140;Hadir_Kujenjena Spawn Effect
+4141;Hadir_Velarre Spawn
+4142;Necronomicon
+4143;Necromancer's Cauldron
+4144;Fram's Survey Kit
+4146;Old Wooden Fence Debris
+4147;Wooden Fence
+4148;단말마를 마시는 마르마스_타워
+4149;Loka_Grub_Effect
+4150;단말마를 마시는 마르마스_타워_시작
+4151;Crystal of Destruction
+4152;하리드_보스3두다드_activate1
+4153;하리드_보스3두다드_activate2
+4154;하리드_보스3두다드_activate3
+4155;하리드_보스3두다드_activate4
+4156;하리드_보스3두다드_activate5
+4157;하리드_보스3두다드_activate6
+4158;하리드_보스3두다드_activate7
+4159;하리드_보스3두다드_activate8
+4160;하리드_보스3두다드_activate9
+4161;Grain Crate
+4162;Swan Feather Arrow
+4164;Salphira Fire Ceremony
+4165;Fisherman's Trap
+4166;파괴된 제국의 석상 A
+4167;Deadman's Tears
+4168;Herbalist Morna
+4169;Drillmaster's Trap
+4170;Old Chest
+4171;Smoking Cauldron
+4172;Bucket
+4173;Palace Cellar Bomb Chest
+4174;Marmas's Dark Daggers
+4175;Rotten Flesh Golem's Poison Cloud
+4176;Captured Behemoth
+4177;Marmas's Dark Daggers (Rank 2)
+4178;Cannon
+4179;Wooden Ladder
+4180;Trust Fall Step
+4181;Duskgleam Memory Tome
+4182;Cloistera Memory Tome
+4183;Watermist Memory Tome
+4185;Solongos Camp Memory Tome
+4186;Marmas's Skeleton Summon
+4187;단말마를 마시는 마르마스의 타워 (애니메이션 테스트)
+4188;보류_서방 이슈바라 왕궁 지하의 제물
+4189;Solzreed Aged Cordial Pack
+4190;Gweonid Willow Arrows Pack
+4191;Flexible Metal Ingots Pack
+4192;Arcum Iris Seed Oil Pack
+4193;Falcorth Tanned Leather Pack
+4194;Sturdy Fortified Bricks Pack
+4195;Original Lilyut Anvil Casts Pack
+4196;Smoked Fruit Pack
+4197;Tigerspine Mastercraft Ingots Pack
+4198;Dewstone Plains Rainbow Dye Pack
+4199;Mahadevi Finest Rubber Pack
+4200;White Arden Silver Lumber Pack
+4201;Solis Golden Spice Pack
+4202;Marianople Embroidered Fabric Pack
+4203;Villanelle Aged Cordial
+4204;Two Crowns First Harvest Tea Pack
+4205;Silent Forest Ship Lumber Pack
+4206;Cinderstone Moor Shock Absorber Pack
+4207;Ynystere Starshard Spice Pack
+4208;Halcyona Organic Grains Pack
+4209;Hellswamp Spore Farm Wood Pack
+4210;Sanddeep Seafood Jerky Pack
+4211;Rookborne Basin Amber Spirits Pack
+4212;Windscour Alchemical Catalyst Pack
+4213;Perinoor Moonshine Pack
+4214;Hasla Light Synthetic Fiber Pack
+4215;Karkasse Spiced Lumber Pack
+4218;Bortol's Body
+4220;Solzreed Peninsula Specialty Workbench
+4221;Gweonid Forest Specialty Workbench
+4222;Airain Rock Specialty Workbench
+4223;Arcum Iris Specialty Workbench
+4224;Falcorth Plains Specialty Workbench
+4225;Aubre Cradle Specialty Workbench
+4226;Lilyut Hills Specialty Workbench
+4227;Sunbite Wilds Specialty Workbench
+4228;Tigerspine Mountains Specialty Workbench
+4229;Dewstone Plains Specialty Workbench
+4230;Mahadevi Specialty Workbench
+4231;White Arden Specialty Workbench
+4232;Solis Headlands Specialty Workbench
+4233;Marianople Specialty Workbench
+4234;Villanelle Specialty Workbench
+4235;Two Crowns Specialty Workbench
+4236;Silent Forest Specialty Workbench
+4237;Cinderstone Moor Specialty Workbench
+4238;Ynystere Specialty Workbench
+4239;Halcyona Specialty Workbench
+4240;Hellswamp Specialty Workbench
+4241;Sanddeep Specialty Workbench
+4242;Rookborne Basin Specialty Workbench
+4243;Windscour Savannah Specialty Workbench
+4244;Perinoor Ruins Specialty Workbench
+4245;Hasla Specialty Workbench
+4246;Karkasse Ridgelands Specialty Workbench
+4247;귀족의 사냥 호각_미사용
+4248;테스트_돈주머니
+4249;Container Pack
+4250;Regal Cooking Tools
+4251;Old Wooden Fence
+4252;Amber Boulder
+4253;Tushan's Sea of Fire
+4254;Stone Golem Obelisk
+4255;Dropped Satchel
+4256;Fresh Grave
+4257;Giant Spider Cocoon
+4258;Mysterious Book
+4259;Waste Heap
+4260;Merchant Couple's Wagon
+4261;Centaur Mane
+4262;Flamingo Egg
+4263;Souleye
+4264;Wooden Barrel
+4265;Old Rowboat
+4266;Marmas's Hellfire
+4267;Roast Pig
+4268;Animal Bone
+4269;Bone
+4270;Bone
+4271;Salphira Pottery
+4272;Salphira Disciple Armored Chest
+4273;Dropped Box
+4274;Ancient Magic Circle
+4275;Dragonscale
+4276;Bloodstain
+4277;Marmas's Cruel Stab
+4278;Door
+4279;Blessed Rose Liquor Bottle
+4280;Damaged Stone Statue
+4281;Bronze Ezi Statue
+4282;Salphira Disciple's Money Pouch
+4283;Small Jar
+4284;Small Jar
+4285;Oversize Jar
+4286;Graverobber's Treasure
+4287;Crystal of Destruction
+4288;Palace Cellar Entrance
+4289;Hadir Farm Exit
+4291;Formal Dining Table
+4292;Unknown Warrior's Statue
+4293;Ventla Stone Statue
+4294;Flipping Corpse
+4295;Task Board
+4296;Manor Garden Statue
+4297;Restrained Undead
+4298;Broken Carriage
+4299;테스트_2인용 쇼파
+4301;Lieutenant's Corpse
+4302;Message Bottle
+4303;Checkpoint Palisade Materials
+4304;Hadir_Boss 1_Slime Spawn
+4305;Door
+4306;Mana Regen Totem Rank 1
+4307;Siege Declaration
+4308;테스트_1인용 의자
+4309;테스트_3인용 쇼파
+4310;Bed
+4311;테스트_2인용 침대
+4312;Eon Liquor
+4313;Millennium Root Liquor
+4314;Century Root Liquor
+4316;Stonehew Memory Tome
+4317;Footprint
+4318;테스트중 입니다.
+4319;테스트 중 입니다.
+4320;Old Chest
+4321;Large Window
+4322;Small Window
+4323;Old Altar
+4324;Incriminating Blood Stain
+4325;Souleye Keystone
+4326;Corpse
+4327;Archeology Base Camp Memory Tome
+4328;Herbalist Camp Memory Tome
+4329;Clan Cargo
+4330;Clan Cargo
+4331;Lamb Crate
+4332;Juno's Cargo
+4333;Wool Box
+4334;Imperial Treasure Chest
+4335;Damaged Sunset Stone
+4336;Lake Bubbles
+4337;Door
+4338;Large Window
+4339;Small Window
+4340;Wind of Recovery
+4341;Moonlight Anvil
+4342;Adventurer's Journal (Start)
+4343;Adventurer's Journal (Middle)
+4344;Adventurer's Journal (End)
+4345;Western Gate Task Board
+4346;Southern Gate Task Board
+4347;Eastern Gate Task Board
+4348;Northern Gate Task Board
+4349;Western Gate Task Board
+4350;Southern Gate Task Board
+4351;Eastern Gate Task Board
+4352;Northern Gate Task Board
+4353;Lake Waterweed
+4354;Dropped Bottle
+4355;Rat Trap
+4356;Vegetable Sack
+4357;Public Farm Info Board
+4358;Untitled Book
+4360;Relic
+4361;Imperial Silk Pack
+4362;Old Plank
+4363;Serpentine Mark
+4364;Beth's Memory
+4365;Old Ashes
+4366;Adventurer's Corpse
+4367;Imperial Statue
+4368;Empress Pavitra's Memorial Altar
+4369;Sejong the Great's Machine
+4370;Machine
+4371;Decorative Seashell
+4372;Poisonous Pool
+4373;Suspicious Bureau
+4374;Engraving: The Fallen God
+4375;Engraving: The Garden of the Gods
+4376;Engraving: A War of Gods and Heroes
+4377;Engraving: The Fall of Auroria
+4378;Cross Cactus
+4379;Burnt_Spawn_Effect
+4380;Deer Bone
+4381;Goldmane Tribe Still
+4382;Five-Power Sealstone
+4383;Broken Golem
+4384;PvP Zone
+4385;Goldscale Scales
+4387;Tears of Dusk
+4389;내려놓은 가축 등짐 테스트
+4390;Leather Pack
+4391;Burnt Castle Tombstone
+4392;Grotesque Plant
+4393;Old Ashes
+4394;Clan Cargo
+4395;Damaged Ashes
+4396;Grenwolf Signpost
+4397;Grenwolf Signpost
+4398;Mermaid's Tears Signpost
+4399;Blueglass Signpost
+4400;Silver Palm Road Signpost
+4401;Silver Palm Road Signpost
+4402;Songspinner Field Signpost
+4403;Golden Fable Harbor Signpost
+4404;Golden Fable Harbor Signpost
+4405;Coral Plains Signpost
+4406;Housing Province Signpost
+4407;Red Flower
+4408;Blue Flower
+4409;Stonemason Hammer
+4410;Statue
+4411;Crossbow #7
+4412;Crossbow #7
+4413;First Gateway: Beacon
+4414;Second Gateway: Beacon
+4415;Third Gateway: Beacon
+4416;Hieronimus's Son's Disappearance
+4417;Iron Gate
+4418;서적 페이즈넘김 테스트
+4419;Liberated Scarecrow
+4420;Chatty Scarecrow
+4421;Storage Chest
+4422;Flash
+4423;Moonshade Grass
+4424;Manor Door
+4425;Large Manor Window
+4426;Small Manor Window
+4427;Large Sunset Chair
+4428;Small Sunset Chair
+4429;Practical Chair
+4430;Chair of Fertility
+4431;Luxurious Large Red Chair
+4432;Luxurious Red Chair
+4433;Long Wood Bench
+4434;Crest Engraved Chair
+4435;Rubicund Chair
+4436;Bluish Chair
+4437;Angular Wooden Chair
+4438;Angular Practical Chair
+4439;Round Chair
+4440;Practical High-Class Chair
+4441;Luxurious High-Class Chair
+4442;Ergonomic Chair
+4443;Luxurious Crested Chair
+4444;Red Wood Chair
+4445;Noryette Angular Chair
+4446;Noryette Soft Chair
+4447;Rocking Chair
+4448;Trieste Luxurious Chair
+4449;Strange Chair
+4450;Stylish High-Class Chair
+4451;Soft High-Class Chair
+4452;Bluish Crested Chair
+4453;Rubicund Crested Chair
+4454;Brown Wooden Chair
+4455;Multipurpose Chair
+4456;Noryette Luxurious Chair
+4457;Rubicund High-Class Chair
+4458;Luxurious Multipurpose Chair
+4459;Angular Multipurpose Chair
+4460;Elegant Chair
+4461;Pew
+4462;Ordinary Multipurpose Chair
+4463;Ice Breath
+4466;Daru Well
+4467;Statue Bottom Half
+4468;Statue Top Half
+4470;Bed
+4471;Long Chair
+4472;Trampled Haystack
+4473;Uprooted Scarecrow
+4475;Kyrios's Power
+4477;Twisted Space
+4478;Imperial Silk Pack
+4479;Hieronimus's Disappearance
+4480;Wise Man's Box
+4481;Poachers' Tent
+4482;Poachers' Tent
+4483;Elephant Corpse
+4484;Crocodile Corpse
+4485;Disappearance of Bloodhand Fighter
+4486;Artifact Conservation Tent
+4487;Speared Head
+4488;Supply Box
+4489;Regent's Reading Desk
+4490;Old Anvil
+4491;Warehouse Manager's Disappearance
+4492;Winters's Disappearance
+4493;Sorvell 's Appearance
+4494;Winters's Appearance
+4495;Death of the Bloodhand (Display)
+4496;Mahadevi_Salpila Spawn Effect
+4497;Calleil Followers' Crate
+4498;상인소환 건물 test
+4499;Tosare's Machinery
+4500;Lightningstruck Monolith
+4501;Bloodhand's Blood
+4502;Exotic Jar
+4503;Mahadevi Rowboat
+4504;Skeletal Horse's Anima
+4505;Bladewing
+4506;Stump
+4508;Mahadevi_Salpila Despawn
+4509;Empty Ring Box
+4510;Haver Apothecary Table
+4511;Haver Fragrance
+4512;Golden Statue
+4513;Archery Range
+4514;Sandmane Snowlion Cub
+4515;Broken Rowboat
+4516;Austeran Specialty Trade Pack
+4517;Ezna Specialty Trade Pack
+4518;Austeran Specialty Trade Box
+4519;Ezna Specialty Trade Box
+4520;Wagon
+4521;Glider
+4522;Salphira Shrine Door
+4523;Hal Hahpa Gate
+4524;Salphira Shrine Back Door
+4525;Elephant Corpse
+4526;Gruesome Corpse
+4527;The Bear's Bag
+4528;Jakun's Favorites
+4529;Carriage Awaiting Inspection
+4530;Book Pile
+4531;Untitled Book
+4532;Bed
+4533;Bed
+4534;Gold Coins
+4535;Palace Cellar Exit
+4536;Sturdy Pine Tree
+4537;Padimer's Tent
+4538;테스트 토템
+4539;Rhythmic Renewal
+4540;Arena Cage
+4541;Starting Lever
+4542;Arena Gate
+4543;Well
+4544;Clay Jar
+4545;Clay Jar
+4546;Clay Jar
+4547;Malcolm's Armoire
+4548;Kisara's Coffin
+4549;Loreena's Flower
+4550;Loreena's Flower
+4551;Emergency Rations
+4552;Kisara's Mirror
+4553;Cursed Lily
+4554;Magic Chest
+4555;Green Knight's Book
+4556;Abandoned Tombstone
+4557;Altar Fragment
+4558;Broken Altar of Nui
+4559;Elf Camp's Brazier
+4560;Shoebox
+4561;Door
+4562;Yata Calf
+4563;Public Nursery Info Board
+4564;Large Window
+4565;Small Window
+4566;Door
+4567;Large Window
+4568;Small Window
+4569;Public Ranch Info Board
+4570;Building Plaque
+4571;Bed
+4572;Merchant Schooner: Foresail
+4573;Merchant Schooner: Mainsail
+4574;Suspicious Goods
+4575;Stable Info Board
+4576;Hardy Potato
+4577;Palace Cellar Gate
+4578;Malika Totem
+4579;Illusion of Nui
+4580;Salphira's Barrier
+4581;Salphira's Barrier
+4582;Salphira's Barrier
+4583;Suspicious Storage Chest
+4584;Guardians' Emergency Rations
+4585;Noryette Carriage
+4586;Browntail Leomorph Cub
+4587;Distorted Portal
+4588;Simple Altar
+4589;Suspicious Marker
+4590;Roundcap Mushroom
+4591;Glittering Skull
+4592;Cursed Weapon
+4593;Closed Cargo Box
+4594;Vita Root
+4595;Doll Crate
+4596;Nulling Potion
+4597;Salphira Shrine Candle
+4598;두다드 인터랙션 복수 수행 테스트
+4599;Coalmane Snowlion Cub
+4600;Snowmane Snowlion Cub
+4601;Coalmane Snowlion Cub
+4602;Siege Zone
+4603;Whirlwind
+4604;Gold
+4605;Browntail Leomorph Cub
+4606;Green Elk Calf
+4607;Brown Lilyut Foal
+4608;Halcyona Worldgate
+4610;Sanddeep Worldgate
+4611;Rookborne Basin Worldgate, Haranya
+4612;Ynystere Worldgate, Haranya
+4613;Canyon Wooden Fence
+4614;Sealstone
+4615;Sealstone Fragment
+4616;Atalantia's Crutches
+4617;Pet Chicken
+4618;Seawater Bottle
+4619;Door
+4620;Magic Chain Circle
+4621;Rack
+4622;Elemental Lord's Roar
+4624;Touch of the Dead
+4625;Blacktail Leomorph Cub
+4626;Hieronimus's Son's Protective Shield
+4627;Noble's Luxe Bed
+4628;Merchant's Lavish Bed
+4629;Anid Spawn Display
+4630;Nulling Potion
+4632;Crude Bomb
+4633;Lilyut Foal
+4634;Simple Hardwood Chair Design
+4635;Hardwood Chair Design
+4636;Simple Hardwood Table Design
+4637;Tri-Level Wood Bureau Design
+4638;Scholar's Small Shelf Design
+4639;Hardwood Counter Design
+4640;Hardwood Dining Table Design
+4641;Wood Pet Cage Design
+4642;Brown Hardwood Bed Design
+4643;Large Hardwood Counter Design
+4644;Wooden Armchair Design
+4645;Sunbeam Hardwood Mannequin
+4646;Merchant's Extraordinary Bureau Design
+4647;Hardwood Glass Cabinet Design
+4648;Noble's Partition Design
+4649;Noble's Round Table Design
+4650;Wood Liquor Cabinet Design
+4651;Hardwood Medicine Cabinet Design
+4652;Sovereign's Desk Design
+4653;Sovereign's Council Table Design
+4654;Scholar's Cloth Chair Design
+4655;Scholar's Leather Chair Design
+4656;Scholar's Leather Sofa Design
+4657;Scholar's Large Bookshelf Design
+4658;Scholar's Desk Design
+4659;Merchant's Lavish Bed Design
+4660;Relaxing Painting
+4661;Noble's Everyday Painting
+4662;Sovereign's Red Chair Design
+4663;Sovereign's Rose Chaise Design
+4664;Sovereign's Large Bookshelf Design
+4665;Sovereign's Piano Design
+4666;Star Weapon Rack
+4667;Noble's Luxe Bed Design
+4668;Bent Candlestick
+4669;Golden Star Cup
+4670;Noble's Cloth Chair Design
+4671;Star Eagle Rack
+4672;Noble's Desk Design
+4673;Star Suit of Armor
+4674;Noble's Splendid Bookshelf Design
+4675;Wooden Chest
+4676;Short Wooden Fence
+4677;Short Wood Double-Rail Fence
+4678;Wood Double-Rail Fence
+4679;Wooden Ladder
+4680;Gold Candlestick
+4681;Small Scale
+4682;Curved Woodgrain Table Design
+4683;Tall Marbled Gourd Bottle
+4684;Marbled Teapot
+4685;Marbled Gourd Bottle
+4686;Grinning Jester Statue
+4687;Red Hat Statue
+4688;Sunhat Doll
+4689;Brown Bearskin Rug
+4690;White Bearskin Rug
+4691;Black-Etched Jar
+4692;Ocean Blue Jar
+4693;Gold Inlay Teapot
+4694;Bluewing Vase
+4695;Sun and Moon Vase
+4696;Spring Meadow Vase
+4697;Blue Landscape Vase
+4698;Thundercloud
+4699;Black Lilyut Foal
+4700;Owl Mailbox Design
+4701;Spacious Storage Chest Design
+4702;Regal Anvil Design
+4703;Regal Plate Armor Form Design
+4704;Regal Leather Armor Form Design
+4705;Regal Cloth Armor Form Design
+4706;Regal Carpentry Workbench Design
+4707;Regal Handicraft Desk Design
+4708;Regal Alchemy Table Design
+4709;Regal Cooking Tools Design
+4710;Talking Chicken
+4711;Basilaur Statue
+4712;Colossus Statue
+4713;Succubus Statue
+4714;Gargoyle Statue
+4715;Yaksa Statue
+4716;Treant Statue
+4717;Elf Girl Standup Portrait
+4718;Elf Boy Standup Portrait
+4719;Nuian Boy Standup Portrait
+4720;Nuian Girl Standup Portrait
+4721;Harani Boy Standup Portrait
+4722;Harani Girl Standup Portrait
+4723;Firran Boy Standup Portrait
+4724;Firran Girl Standup Portrait
+4725;Brown Lilyut Foal
+4726;Intermediate Telescope
+4727;Gray Lilyut Foal
+4728;Target Decal 1m
+4729;Tudor Slate Cottage Design
+4730;Stone Slate Cottage Design
+4731;Rustic Slate Cottage Design
+4732;Stone Spring Cottage Design
+4733;Tudor Spring Cottage Design
+4734;Rustic Spring Cottage Design
+4735;Rustic Rose Cottage Design
+4736;Tudor Rose Cottage Design
+4737;Rustic Rose Cottage Design
+4738;Floating Corpse
+4739;Soul's Embrace Flower
+4740;Western Ishvara Palace Cellar Machine
+4741;Palace Cellar Crimson Flame
+4743;Buckskin Lilyut Foal
+4744;Dappled Lilyut Foal
+4745;Alabaster Lilyut Foal
+4746;Whitetail Leomorph Cub
+4747;White Mannequin: Nuian Male, Nobility
+4748;White Mannequin: Nuian Male, Wedding
+4749;White Mannequin: Harani Female, Nobility
+4750;Dress Mannequin: Female Harani Wedding
+4751;Palace Cellar Ice Trap
+4752;Palace Cellar Ice Machine
+4753;Tudor Slate Manor Design
+4754;Old Book
+4755;Stone Slate Manor Design
+4756;Rustic Slate Manor Design
+4757;Discarded Book
+4758;Stone Spring Manor Design
+4759;Rustic Spring Manor Design
+4760;Nameless Tombstone
+4761;Target Decal 3 m
+4762;Falcon Wing Magic Circle
+4763;Crescent Throne Flag
+4764;Dreamwaker Exiles Flag
+4765;Torch
+4766;Door
+4767;Tudor Spring Manor Design
+4768;Rustic Rose Manor Design
+4769;Tudor Rose Manor Design
+4770;Stone Rose Manor Design
+4771;Tudor Slate Townhouse Design
+4772;Stone Slate Townhouse Design
+4773;Rustic Slate Townhouse Design
+4774;Stone Spring Townhouse Design
+4775;Rustic Spring Townhouse Design
+4776;Tudor Spring Townhouse Design
+4777;Rustic Rose Townhouse Design
+4778;Tudor Rose Townhouse Design
+4779;Stone Rose Townhouse Design
+4780;Tudor Slate Villa Design
+4781;Stone Slate Villa Design
+4782;Rustic Slate Villa Design
+4783;Stone Spring Villa Design
+4784;Tudor Spring Villa Design
+4785;Rustic Spring Villa Design
+4786;Rustic Rose Villa Design
+4787;Tudor Rose Villa Design
+4788;Stone Rose Villa Design
+4789;Tudor Slate Villa (Veranda) Design
+4790;Rustic Slate Villa (Veranda) Design
+4791;Stone Slate Villa (Veranda) Design
+4792;Stone Spring Villa (Veranda) Design
+4793;Rustic Spring Villa (Veranda) Design
+4794;Tudor Spring Villa (Veranda) Design
+4795;Rustic Rose Villa (Veranda) Design
+4796;Stone Rose Villa (Veranda) Design
+4797;Tudor Rose Villa (Veranda) Design
+4798;Tudor Slate Villa (Porch) Design
+4799;Rustic Slate Villa (Porch) Design
+4800;Stone Slate Villa (Porch) Design
+4801;Stone Spring Villa (Porch) Design
+4802;Rustic Spring Villa (Porch) Design
+4803;Tudor Spring Villa (Porch) Design
+4804;Rustic Rose Villa (Porch) Design
+4805;Stone Rose Villa (Porch) Design
+4806;Tudor Rose Villa (Porch) Design
+4807;Tudor Slate Villa (Sunroom) Design
+4808;Stone Slate Villa (Sunroom) Design
+4809;Rustic Slate Villa (Sunroom) Design
+4810;Stone Spring Villa (Sunroom) Design
+4811;Rustic Spring Villa (Sunroom) Design
+4812;Tudor Spring Villa (Sunroom) Design
+4813;Rustic Rose Villa (Sunroom) Design
+4814;Tudor Rose Villa (Sunroom) Design
+4815;Stone Rose Villa (Sunroom) Design
+4816;Tudor Slate Chalet Design
+4817;Rustic Slate Chalet Design
+4818;Stone Spring Chalet Design
+4819;Tudor Spring Chalet Design
+4820;Rustic Rose Chalet Design
+4821;Tudor Rose Chalet Design
+4822;Tudor Slate Chalet (Balcony) Design
+4823;Stone Slate Chalet (Balcony) Design
+4824;Rustic Slate Chalet (Balcony) Design
+4825;Stone Spring Chalet (Balcony) Design
+4826;Tudor Spring Chalet (Balcony) Design
+4827;Rustic Rose Chalet (Balcony) Design
+4828;Tudor Rose Chalet (Balcony) Design
+4829;Tudor Slate Chalet (Terrace) Design
+4830;Stone Slate Chalet (Terrace) Design
+4831;Stone Spring Chalet (Terrace) Design
+4832;Rustic Spring Chalet (Terrace) Design
+4833;Rustic Rose Chalet (Terrace) Design
+4834;Tudor Rose Chalet (Terrace) Design
+4835;Swept-Roof Cottage Design
+4836;Swept-Roof Chalet Design
+4837;Swept-Roof Manor Design
+4838;Stone Spring Mansion Design
+4840;Stone Slate Mansion Design
+4841;Stone Rose Mansion Design
+4842;Private Smelter Design
+4843;Private Sawmill Design
+4844;Private Loom Design
+4845;Private Leatherwork Table Design
+4846;Private Masonry Table Design
+4847;Thatched Farmhouse Design
+4848;Scarecrow Garden Design
+4849;Aquafarm Design
+4850;Harani Rampart Stairs Design
+4851;Nuian Gatehouse Design
+4852;Nuian Defense Tower Design
+4853;Nuian Tower Design
+4854;Nuian Wall Design
+4855;Harani Gatehouse Design
+4856;Harani Defense Tower Design
+4857;Harani Tower Design
+4858;Harani Wall Design
+4859;Bamboo Door
+4860;Bamboo Window
+4861;Loka's Protective Wings
+4862;Black Mannequin: Nuian Male, Nobility
+4863;Black Mannequin: Nuian Male, Wedding
+4864;Black Mannequin: Harani Female, Nobility
+4865;Black Mannequin: Harani Female, Wedding
+4866;Brown Wolfhound Pup
+4867;White Wolfhound Pup
+4868;Black Wolfhound Pup
+4869;Dairy Cow
+4870;Dustcloud
+4871;Green Elk Calf
+4874;Hieronimus's Meteor Shower
+4875;Small Cork Tree
+4877;Salphira Shrine Door
+4878;Combat Opponent
+4879;Brown Wolfhound Pup
+4880;Mana Regen Totem Rank 2
+4881;Cool Springwater
+4882;Eznan Cutter Design
+4883;Mossy Rock
+4884;Violet Elk Calf
+4885;Lutesong Junk Design
+4886;Harpoon Clipper Design
+4887;Adventure Clipper Ship Design
+4888;Merchant Schooner Design
+4889;Farm Wagon Design
+4890;Wheeled Mortar Design
+4891;White Elk Calf
+4892;Gray Donkey Foal
+4893;Trade Pack Storage
+4894;Mirage Isle Portal
+4895;Mirage Isle Portal
+4896;Portable Harpoon Cannon
+4897;Superior Telescope
+4898;Black Lilyut Foal
+4899;Dappled Lilyut Foal
+4900;Alabaster Lilyut Foal
+4901;Black Lilyut Horse
+4902;Dappled Lilyut Horse
+4903;Alabaster Lilyut Horse
+4904;Heifer
+4906;Inferior Telescope
+4908;Cow Manure
+4909;Siege Tower Design
+4910;Trebuchet Design
+4911;New Siege Tower Workstation
+4912;Poison Cloud
+4913;Driving Effect
+4914;Hadir_Mob Spawn_Medium
+4915;Hadir_Mob Spawn_Large
+4916;Hearth
+4917;Spiky Wooden Fence
+4918;Hearth
+4919;Hearth
+4920;Hearth
+4921;Hearth
+4922;Hearth
+4923;Burnt Castle Armory Exit
+4924;Wedding Decor
+4925;Hearth
+4926;Wedding Arch
+4927;Hadir Farm Exit
+4928;Monetary Gift Desk
+4931;Memorial Light
+4932;Respawn Area
+4933;Administrator's Room
+4934;Anno's Ghost Ship
+4935;Lion Statue Escape Point
+4936;Sturdy Bone
+4937;Jury Box
+4938;Jury Box
+4939;Jury Box
+4940;Jury Box
+4941;Jury Box
+4942;Jury Box
+4943;Jury Box
+4944;Jury Box
+4945;Jury Box
+4946;Jury Box
+4947;Jury Box
+4948;Jury Box
+4949;Jury Box
+4950;Jury Box
+4951;Jury Box
+4952;Jury Box
+4953;Jury Box
+4954;Jury Box
+4955;Jury Box
+4956;Jury Box
+4957;Mirage Isle Sale Prep Sign
+4958;Stone Pile
+4959;Mirage Isle Sale Sign
+4960;Mirage Isle Discount Sign
+4961;Mirage Isle Limited Time Sale Sign
+4962;Mirage Isle Rent Sign
+4963;Portable Harpoon Cannon
+4965;Monster Spawner
+4967;테스트_구렁텅이_함정01_오른쪽
+4968;테스트_구렁텅이_함정01_02
+4969;테스트_구렁텅이_함정01_04
+4970;테스트_구렁텅이_함정01_06
+4971;테스트_구렁텅이_함정01_08
+4972;테스트_구렁텅이_함정01_왼쪽
+4973;테스트_구렁텅이_함정02_오른쪽
+4974;테스트_구렁텅이_함정02_왼쪽
+4975;Hopeful Bloom
+4976;Damp Earth
+4977;Withered Flower
+4978;Grave Marker
+4979;Dirt Mound
+4980;Focal Stone
+4981;Thorny Cotton Grass
+4982;Wyrmkin Prison
+4983;Nuon Fragment
+4984;Kestrel Egg
+4987;Yellow Kudzu
+4988;Naga Egg
+4989;Healing Tree
+4990;Large Cactus
+4991;Goreleaf Tree
+4992;Ancient Relic
+4993;Boulder
+4994;Wyrmkin Prison
+4995;Brano's Pack
+4996;Dragontear Spring
+4997;Dragonroar Fortress Relic
+4998;Life Bloom
+5000;Firetalon Eagle Egg
+5001;Dragonstone
+5003;Windshade Carriage Signpost
+5004;Animal Bone
+5005;Vine
+5006;Water Bucket
+5007;Display Summon
+5008;Ravenous Bladewing Chest
+5009;Whirling Borealis
+5010;Dropped Satchel
+5011;Explosion
+5012;Throw Bottle of Poison
+5013;Steam Display
+5014;Combat Flag
+5015;탑승중 사용속이기 테스트 두다드
+5016;Gushing Water
+5017;Comet's Boon
+5018;Prison Door Lever
+5019;Large Stake
+5020;Orian Transformation
+5021;Missile Rain
+5022;Green Smoke
+5023;anthalonDoodad
+5024;Handwashing Bucket
+5026;Skeleton
+5027;Wooden Post
+5029;Door #1
+5030;Door #2
+5031;Door #3
+5032;Signpost
+5033;Poison Gas Can
+5034;Poison Gas Can Lid
+5035;Moving Stone Statue
+5036;Fire Bomb
+5037;Fire Animation Summon
+5038;Boulder
+5039;Random Door Switch
+5040;Dropped Flag of Declaration
+5041;Farmhouse Memory Tome
+5042;Halcyona Brewery Memory Tome
+5043;Empty Standup Frame
+5045;Boulder
+5046;Pictoral Puzzle Machine
+5047;Signpost
+5048;Signpost
+5049;Flame Trap
+5050;Stalactite
+5052;Fire-Breathing Trap
+5053;Old Anvil
+5054;Marian's Emergency Rations
+5055;Poison Area
+5056;Wooden Bucket
+5057;Azdamira's Reading Desk
+5058;Iron Bridge
+5059;Bloodstain
+5060;Carnivore's Exploding Egg
+5061;Contaminated Well
+5062;Torch
+5063;Sharpwind Lake
+5064;Blocked Geyser
+5066;Waxy Corn Seedling
+5068;Blocked Geyser
+5069;Blocked Geyser
+5070;칼바람 폐광 물게이트1
+5071;칼바람 폐광 물게이트2
+5072;칼바람 폐광 물줄기1
+5073;칼바람 폐광 물줄기2
+5074;Viboros's Poisonous Fog
+5075;Sharpwind Mines Entrance
+5076;Carnivore's Exploding Egg
+5078;Giant Cauldron
+5080;Shattered Rock
+5081;타락한 마물5의 독극물 분출
+5082;Carnivore's Egg
+5083;Vincenzio's Journal
+5084;Viboros's Pull
+5085;Howling Abyss Entrance
+5087;Whirlwind
+5088;Corrupted Black Mage's Totem Summon
+5089;Basic Treasure Chest
+5090;Stacked Lumber
+5091;보류_울부짖는_횃불
+5092;Severed Head
+5093;Gatekeeper's Pickaxe
+5094;Explosive Keg
+5095;Explosive Keg
+5097;Starshard Vein
+5098;Torch
+5099;Howling_Collapsing Floor
+5100;Viboros's Hatching Egg
+5101;Signpost
+5102;Signpost
+5103;Sapling
+5104;Leomorph Cub
+5105;Lilyut Foal
+5106;Elk Calf
+5107;Snowlion Cub
+5108;Target Decal 5 m
+5109;Academy Apprentice's Poison Cloud
+5110;Mount Unavailable
+5111;Academy Apprentice's Poison Cloud
+5112;Corrupted Hallucinator's Poison Cloud
+5114;Silent Forest Tree
+5115;Putrid Demon's Miasma
+5116;Casino Manager's Dizzying Flatulence
+5117;Inn
+5118;Inn
+5119;Inn
+5120;Inn
+5121;Inn
+5122;Academy Test Subject's Death Area
+5123;Signpost
+5124;Picture Puzzle Scoreboard_Quickview
+5125;Academy Test Subject's Corrupted Element
+5126;Putrid Demon's Poison Breath
+5127;Iron Gate
+5129;Black Donkey Foal
+5130;Brown Donkey Foal
+5131;White Donkey Foal
+5132;Howling_Water Backflow 1
+5133;보류_울부짖는_물올라옴2
+5134;Strange Device 2
+5135;Strange Device 3
+5136;Pantheon Altar
+5137;Pew
+5138;Pew
+5139;Pew
+5140;Pew
+5141;Favela's Bundle
+5142;Favela's Pottery
+5143;피켓걸 테스트
+5144;Chick
+5145;Howling Abyss Device
+5146;Iron Gate
+5147;Metal Gate
+5148;Metal Gate
+5149;Abandoned Lilyut Horse
+5150;Blackbeard Thieves Illusionist's Frozen Zone
+5151;Putrid Demon's Poison Breath
+5152;Element Fanatic's Demon Totem
+5153;Element Fanatic's Fire Totem
+5154;Kyrios's Arch General's Magic Circle
+5155;Unbranded Dairy Cow
+5156;Guardian Golem's Vicious Implosion
+5158;Maddened Shaman's Fire Flood
+5159;Parasitic Ice Shards
+5160;Machine Parts Box
+5161;Crane
+5162;Element Fanatic's Fire Totem
+5163;Element Fanatic's Fire Totem
+5164;Pillaged Cargo
+5165;test_rigidbody_rock1
+5166;Maddened Shaman's Burning Torch
+5167;Burning
+5168;test_rigidbody_rock2
+5169;Merchant's Wagon
+5170;Calleil's Hell Flame
+5171;Stolen Goods
+5172;Advanced Treasure Chest
+5173;Rare Treasure Chest
+5174;Ancient Treasure Chest
+5175;Heroic Treasure Chest
+5176;Empty Trough
+5177;Axe Massacre
+5178;Axe Massacre Cast Effect
+5179;Element Fanatic's Vacuous Arrow
+5180;Element Fanatic's Vacuous Swing
+5182;Corrupted Dreamer's Corrupted Element
+5183;Shadow Glutton's Venomous Assault
+5184;Destroyed Altar
+5185;Element Fanatic (2)'s Vacuous Arrow (Wide Range)
+5186;Bloodstain
+5187;Kyrios's Arch General's Destructive Energy
+5188;Conqueror's Anguish_Spawn Effect
+5189;Maddened Shaman's Demon Summon
+5190;Chick
+5191;Ruler of Fire Wooden Statue
+5192;Ruler of Water Wooden Statue
+5193;Ruler of Wind Wooden Statue
+5194;Ruler of Earth Wooden Statue
+5195;Crazed Hermit's Mana Ball
+5197;Olive Tree
+5198;Nursery Manager's Lumber Pack
+5200;Solzreed Strawberry Jam Pack
+5201;Solzreed Acorn Jelly Pack
+5202;Gweonid Grilled Goose Pack
+5203;Gweonid Goose Down Pack
+5204;Arcum Iris Dried Seed Pack
+5205;Arcum Iris Turmeric Powder Pack
+5206;Falcorth Plains Clover Feed Pack
+5207;Falcorth Plains Bedding Filler Pack
+5208;Lilyut Alchemy Catalyst Pack
+5209;Lilyut Square Brick Pack
+5210;Tigerspine Souvenirs Pack
+5211;Tigerspine Round Bricks Pack
+5212;Dewstone Corn Meal Pack
+5213;Dewstone Petal Dye Pack
+5214;Mahadevi Banana Nectar Pack
+5215;Mahadevi Straight-Grain Plywood Pack
+5216;White Arden Plywood Pack
+5217;White Arden Pinecone Powder Pack
+5218;Solis Saffron Pack
+5219;Solis Dried Rosemary Pack
+5220;Marianople Wool Pack
+5221;Marianople Facial Cleanser Pack
+5222;Villanelle Sticky Rice Snack Pack
+5223;Villanelle Crusty Bread Pack
+5224;Two Crowns Lemon Juice Pack
+5225;Two Crowns Lavender Candy Pack
+5226;Silent Forest Pinecone Sap Pack
+5227;Silent Forest Dye Pack
+5228;Cinderstone Moor Seal Cap Pack
+5229;Cinderstone Moor Metal Trim Pack
+5230;Ynystere Floral Bouquet Pack
+5231;Ynystere Ceremonial Bouquet Pack
+5232;Halcyona Coarse Flour Pack
+5233;Halcyona Fine Flour Pack
+5234;Hellswamp Mushroom Sauce Pack
+5235;Hellswamp Sawdust Pile
+5236;Sanddeep Powdered Pearl Pack
+5237;Sanddeep Alchemic Pearls Pack
+5238;Rookborne Carrot Ale Pack
+5239;Rookborne Basin Mead Pack
+5240;Windscour Miracle Capsule Pack
+5241;Windscour Peppermints Pack
+5242;Perinoor Peanut Butter Pack
+5243;Perinoor All-Spice Pack
+5244;Element Fanatic's Demon Summon Totem
+5246;불기둥(3ms)
+5249;불기둥(5ms)
+5250;불기둥(7ms)
+5251;Spice Bottle
+5252;Cauldron
+5253;Signpost
+5254;Spice Bomb
+5255;Strong Blow Range Setting
+5256;Strong Blow Range Effect
+5257;Toadstool
+5259;Explorer's Bag
+5260;Firestone
+5261;Moving Stepping Stone
+5262;Stepping Stone Area Poison (5.5m)
+5263;Boulder
+5265;Boulder
+5266;Element Fanatic's Stomp
+5267;Boulder
+5268;Boulder
+5269;Boulder
+5271;Wide Fire Pillar
+5272;Signpost
+5274;Signpost
+5275;Kroloal Cradle Entrance
+5276;Signpost
+5277;Karim's Nightmare
+5278;Burning Flame
+5279;Sturdy Explosive Keg
+5280;Rock
+5281;Signpost
+5282;Powder Keg
+5283;Karim's Bane
+5284;Viboros's Crushing Blow
+5285;Viboros's Ice Shards
+5286;Karim's Cursed Light
+5287;Noble Blessings Feast Table
+5288;Arcane Grace Feast Table
+5289;Abundant Health Beverage Table
+5290;Ample Mana Appetizer Table
+5291;Karim's Earth Storm
+5292;Karim's Mana Drain
+5293;Lighting
+5294;Lighting
+5295;Karim's Final Resistance
+5296;Snowlion Cub
+5297;Windbelt Explosives
+5298;Quick Shot
+5299;Ambusher's Tent
+5300;Arkanis's Four Hellfires
+5301;Arkanis's Four Hellfires
+5302;Arkanis's Four Hellfires
+5303;Arkanis's Four Hellfires
+5304;Arkanis's Fire Pillar
+5305;Lucky Statue Game
+5308;Arkanis's Lava Hell
+5310;Signpost
+5311;Poison Explosion Area
+5312;Arkanis's Lava Hell
+5314;Fence
+5315;Signpost
+5316;Kroloal Cradle Lava
+5317;Signpost
+5318;Signpost
+5319;Signpost
+5320;Kroloal Cradle Lava Runs
+5321;Rohna's Chicken
+5322;Arkanis's Corpse Explosion
+5323;Rohna's Chick
+5324;Propeller
+5325;Propeller
+5326;Crafted Siege Tower
+5327;Nightmare's Bane
+5328;Flaming Abyss
+5329;Okape Explosion
+5330;Death Ray Explosion
+5331;Actuator
+5332;Burning Flame
+5333;Burning Flame
+5334;Ice Trap
+5335;Geyser
+5336;Weeping Charnel House_Rising Water
+5337;Drain
+5338;Weeping Charnel House
+5339;Arkanis's Fire Pillar
+5340;Arkanis's Timespinner
+5341;Caleil's Water Chamber_Float
+5342;Stone Gate
+5343;Arkanis's Fireball
+5344;Cursed Fire Elemental's Explosion
+5345;Awakening Hammer
+5346;fx_howling_수면망치
+5347;Gate
+5348;Calleil's Frozen Earth
+5349;Dreamspace
+5350;Sprigg's Bomb
+5351;Dropped Scale
+5352;Blackbeard Thieves' Shield
+5353;Sprigg's Magnetic Field Bomb
+5354;Blackbeard Thieves' Dagger
+5355;Musperosa's Downward Slash
+5356;Blackbeard Thieves' Throwing Dagger
+5357;Sharpwind Mines Explosive
+5358;Throw Magnetic Bomb
+5360;Blackbeard Thieves' Bow
+5361;Sprigg's Magnetic Field
+5362;Blackbeard Thieves' Healing Staff
+5363;Blackbeard Thieves' Mana Staff
+5364;Shattered Stalactite
+5365;Falling Stalactite
+5366;Sprigg's Toy Part
+5367;Sprigg's Nuclear Magnetic Field
+5368;Sprigg's Stinging Magnetic Field
+5369;Water Spray
+5370;Sprigg's Magnetic Arrow
+5371;안탈론 사령의 불길 당기기(PC)
+5372;식생 테스트 수선화 두다드_item18604
+5373;Plasma Charger
+5374;Element Fanatic's Vortex
+5375;Signpost
+5376;Murder Victim
+5377;Misplaced Book
+5378;Signpost
+5379;Signpost
+5382;Blessed Statue of Nui
+5383;Musperosa's Petrifying Orb
+5384;Bleeding Lily
+5385;Time Machine
+5386;Vital Point Destruction Area
+5388;Spriggan's Transparent Screen
+5389;Restricted Area: Under Construction
+5390;Signpost
+5391;Barred Window
+5392;Signpost
+5393;Signpost
+5394;Smoke
+5395;Poison Cloud
+5396;Tiger Stake
+5397;Poison Cloud
+5398;Poison Cloud
+5399;Mirror Shield
+5400;Signpost
+5401;Dahuta Propaganda Board
+5402;Signpost
+5403;Stolen Merchandise
+5404;Signpost
+5405;Signpost
+5406;Deathspice Gate
+5407;Explosive Keg
+5408;Discarded Corpse
+5409;Treasure Chest
+5410;Howling Ranch Gate
+5411;Boulder
+5412;Boulder
+5414;Siranus's Stone Visage
+5415;Signpost
+5416;Signpost
+5417;Signpost
+5418;Signpost
+5419;Signpost
+5420;Stalactite
+5421;Rock Shard
+5422;공성포 테스트
+5423;Impaling Barrier
+5424;Impaling Barrier
+5425;Commemorative Event Workbench
+5426;Eanna Commemorative Coin Exchange Merchant: Gilda Stars
+5427;Tahyang Commemorative Coin Exchange Merchant: Gilda Stars
+5428;Gene Commemorative Coin Exchange Merchant: Gilda Stars
+5429;Waterlogged Corpse
+5430;Experimental Glider Design
+5431;Improved Glider Design
+5432;Enhanced Glider Design
+5433;Ultimate Glider Design
+5434;Thunderbolt Glider Design
+5435;Red Dragon Glider Design
+5436;Moonshadow Glider Design
+5437;Ezi's Glider Design
+5438;Refined Hereafter Stone
+5439;Bloody Area
+5440;Destructive Guard Captain Scorch
+5441;Gene's Dignity
+5443;test_aipath_dog_night
+5444;test_aipath_dog_day
+5445;집 테스트
+5446;Electric Current Area
+5447;Metamohe_Fireball of Destruction_Floor Marker
+5448;Buffalo Head Trophy
+5449;Elephant Head Trophy
+5450;Decorative Vase
+5451;Lucky Azalea Vase
+5452;Ebony Bonsai Flowerpot
+5453;Square Bamboo Bonsai
+5454;Pine Bonsai
+5455;Octagonal Bamboo Bonsai
+5456;Narcissus Flowerbed
+5457;Arkanis's Lava Hell
+5458;Poppy Flowerpot
+5459;Azalea Vase
+5460;Cherry Blossom Vase
+5461;Fragrant Flowerpot
+5462;Merchant's Feast Table
+5463;Monarch's Lavish Table
+5464;Wooden Dining Table
+5465;Arkanis's Lava Hell
+5466;Merchant's Rustic Table
+5467;Monarch's Ceremonial Table
+5468;Scholar's Council Table
+5469;Hardwood Bookshelf
+5470;Monarch's Bookshelf
+5471;Hardwood Shelf
+5472;Noble's Lavish Armoire
+5473;Merchant's Display Cabinet
+5474;Monarch's Folding Partition
+5475;Hardwood Partition
+5476;Sovereign's Partition
+5477;Merchant's Partition
+5478;Scholar's Partition
+5479;Monarch's Small Shelf
+5480;Monarch's Round Cabinet
+5481;Monarch's Stepped Bureau
+5482;Merchant's Simple Bureau
+5483;Monarch's Hardwood Chair
+5484;Monarch's Embroidered Chair
+5485;Merchant's Aristocratic Chair
+5486;Merchant's Lavish Chair
+5487;Noble's Luxe Chair
+5488;Monarch's Ceremonial Chair
+5489;Wooden Bench
+5490;Noble's Settee
+5491;Monarch's Bedchamber Sofa
+5492;Merchant's Esteemed Chair
+5493;Arkanis's Scorch
+5494;Mahadevi Culvert Entrance
+5495;Empty Frame
+5496;Blank Standup Canvas
+5497;Blank Canvas
+5498;Luis's Bundle
+5499;Luis's Campfire
+5500;Tabby Sabrefang Cub
+5501;Seal-point Sabrefang Cub
+5502;Black Sabrefang Cub
+5503;Striped Sabrefang Cub
+5504;Calico Sabrefang Cub
+5505;Signpost
+5506;Tabby Sabrefang Cub
+5507;Morpheus's Engraved Cannon
+5508;Yeoman's Wood Chair
+5509;Signpost
+5510;Signpost
+5511;Signpost
+5512;Lloyd's Target
+5513;Lloyd's Flare
+5514;Mirror Shield Reflection
+5515;Fawn
+5516;Metal Gate
+5517;Metal Gate
+5518;Metal Gate
+5519;Siranus's Flame of Arbitration
+5520;Signpost
+5521;Signpost
+5522;Signpost
+5523;Signpost
+5524;Signpost
+5525;Karim's Nightmare Creation Set
+5526;Karim's Nightmare Creation
+5527;Campfire
+5528;Karim's Nightmare Explosion
+5529;Guard's Spellbook
+5530;Anno's Seat
+5531;Fisherman's Bucket
+5532;fx_howling_spawn
+5533;Signpost
+5534;Crate
+5535;Anno's Damaged Ship
+5536;Iron Cauldron
+5537;Suspicious Place
+5538;Signpost
+5539;Water Barrel
+5540;Explorer's Bag
+5541;Guild Storage Door
+5542;Stone Lion
+5543;Poison Cloud
+5544;Chopping Block
+5545;Poison Cloud
+5546;Firewood
+5547;Boulder
+5548;Howling_Event01_Attack Effect
+5549;Destruction Device
+5550;Secret Treasure Chest
+5551;Insignia
+5552;fx_howling_despawn
+5553;Campfire
+5554;Stepping Stone
+5555;Falling Rock
+5557;Solid Rock
+5558;Sovereign's Lavish Gilt Bed
+5559;Monarch's Table
+5560;Merchant's Table
+5561;Petite Cushion
+5562;Grand Cushion
+5563;Down Pillow
+5564;Restful Cushion
+5565;Heavy Sconce
+5566;Stepping Stone Gate
+5567;Nuian Streetlight
+5568;Explosives
+5569;Boulder
+5570;Destruction Device
+5571;Signpost
+5572;Shabby Tent
+5573;Solace the Woodcutter _ Morning Doodad
+5574;Solace the Woodcutter _ Evening Doodad
+5575;Event02_Godfrey's Death
+5576;Portal
+5577;Carriage Seat
+5578;Monarch's Spacious Bed
+5579;미사용 침대
+5580;Sovereign's Gilt Hardwood Bed
+5581;Spacious Hardwood Chair
+5582;Monarch's Nuncheon Table
+5583;Sovereign's Gilt Snow Sofa
+5584;Sovereign's Gilt Rose Sofa
+5585;Sovereign's Gilt Table
+5586;Signpost
+5587;Stepping Stone Area Poison (2m)
+5588;Stepping Stone Area Poison (1 m)
+5589;Stepping Stone Area Poison (4m)
+5590;Stepping Stone Area Poison (8m)
+5591;Stepping Stone Area Poison (6.5m)
+5592;Explosive Barrel
+5593;Poisonous Pool
+5594;Sacred Relic
+5595;Planted Explosive Barrel
+5597;Portal
+5598;fx_howling_spawn
+5599;Lion Statue
+5600;Nerta's Chest
+5601;Howling Abyss Teleportation
+5602;Lion Statue
+5603;Lion Gate
+5604;Iron Gate
+5605;Strange Device
+5606;Powder Keg
+5607;Iron Gate
+5608;Iron Gate
+5609;Trieste Secret Weapon
+5610;Red Lotus Lantern
+5611;White Lotus Lantern
+5612;Lotus Lantern Pillar
+5613;Kerosene Lamp
+5614;Round Shade Lamp
+5615;Square Paper Lighting Frame
+5616;Bent Sconce
+5617;Tripod Sconce
+5618;Harani Streetlight
+5619;Log Fence
+5620;Farm Fence
+5621;Spiked Iron Fence
+5622;Stone Post
+5623;Monarch's Spacious Bed Design
+5624;Sovereign's Lavish Gilt Bed Design
+5625;Sovereign's Gilt Hardwood Bed Design
+5626;Prefabricated Wood Chair Design
+5627;Merchant's Blue Chair Design
+5628;Merchant's Lavish Chair Design
+5629;Merchant's Esteemed Chair Design
+5630;Monarch's Embroidered Chair Design
+5631;Monarch's Hardwood Chair Design
+5632;Monarch's Ceremonial Chair Design
+5633;Noble's Luxe Chair Design
+5634;Wooden Bench Design
+5635;Spacious Hardwood Chair Design
+5636;Monarch's Bedchamber Sofa Design
+5637;Noble's Settee Design
+5638;Sovereign's Gilt Snow Sofa Design
+5639;Sovereign's Gilt Rose Sofa Design
+5640;Wooden Dining Table Design
+5641;Merchant's Small Table Design
+5642;Merchant's Feast Table Design
+5643;Merchant's Rustic Table Design
+5644;Monarch's Nuncheon Table Design
+5645;Monarch's Table Design
+5646;Monarch's Ceremonial Table Design
+5647;Monarch's Lavish Table Design
+5648;Scholar's Council Table Design
+5649;Sovereign's Gilt Table Design
+5650;Hardwood Partition Design
+5651;Merchant's Partition Design
+5652;Monarch's Folding Partition Design
+5653;Scholar's Partition Design
+5654;Sovereign's Partition Design
+5655;Hardwood Shelf Design
+5656;Hardwood Bookshelf Design
+5657;Merchant's Simple Bureau Design
+5658;Merchant's Display Cabinet Design
+5659;Monarch's Bookshelf Design
+5660;Monarch's Small Shelf Design
+5661;Monarch's Round Cabinet Design
+5662;Monarch's Stepped Bureau Design
+5663;Noble's Lavish Armoire Design
+5664;Basic Storage Chest Design
+5665;Superior Storage Chest Design
+5666;Home Lighting Design
+5667;Home Lighting Design
+5668;Home Lighting Design
+5669;Kerosene Lamp
+5670;Round Shade Lamp
+5671;Home Lighting Design
+5672;Heavy Sconce
+5673;Bent Sconce
+5674;Tripod Sconce
+5675;Home Lighting Design
+5676;Home Lighting Design
+5677;Down Pillow
+5678;Restful Cushion
+5679;Petite Cushion
+5680;Grand Cushion
+5681;Decorative Vase
+5682;Lucky Azalea Vase
+5683;Ebony Bonsai Flowerpot
+5684;Square Bamboo Bonsai
+5685;Pine Bonsai
+5686;Octagonal Bamboo Bonsai
+5687;Narcissus Flowerbed
+5688;Poppy Flowerpot
+5689;Azalea Vase
+5690;Cherry Blossom Vase
+5691;Fragrant Flowerpot
+5692;Log Fence
+5693;Farm Fence
+5694;Spiked Iron Fence
+5695;Stone Post
+5696;Signpost
+5697;Signpost
+5698;Signpost
+5700;Empty Standup Frame
+5701;Empty Frame
+5702;Blank Standup Canvas
+5703;Blank Canvas
+5704;Buffalo Head Trophy
+5705;Elephant Head Trophy
+5706;Metal Gate
+5707;Araham's Stamp Box
+5708;Metal Gate
+5709;Signpost
+5711;Howling Abyss Exit
+5712;Howling Abyss Exit
+5713;Spiked White Fence
+5714;Spiked White Fence
+5715;Campfire
+5716;Hearth
+5717;테스트_슬롯머신_일반
+5718;테스트_슬롯머신_x배
+5719;테스트_슬롯머신_x배
+5720;Cage
+5721;Fire Wall Pet
+5722;Necromancy Magic Circle
+5723;Sharpwind Mines Exit
+5724;Sharpwind Mines Exit
+5725;Worldgate to Madman's Quarters
+5726;Worldgate to the Kroloal Cradle
+5727;Lauren's Invisible NPC _ Morning
+5728;Lauren's Invisible NPC _ Evening
+5729;Necromancy Area
+5730;Howling Ranch Exit
+5731;Lion Statue
+5732;Harani Foresail
+5733;Harani Mainsail
+5734;Intermediate Compass
+5735;Anchor
+5736;Drum
+5738;Steering Wheel
+5739;Censer
+5740;Teleport
+5741;Stone Chair
+5742;Howling Abyss Teleport_Invisible Doodad
+5743;Hidden Suicide Team
+5744;Hidden Door
+5745;Hidden Device
+5746;Door
+5747;Suspicious Encyclopedia
+5748;Howling Abyss Gate
+5749;Explosive Keg
+5750;Musperosa's Diary, Entry #1
+5751;Musperosa's Diary, Entry #2
+5752;Musperosa's Diary, Entry #3
+5753;Musperosa's Diary, Entry #4
+5754;Musperosa's Diary, Entry #5
+5755;Musperosa's Diary, Entry #6
+5756;Musperosa's Diary, Entry #7
+5757;Musperosa's Diary, Entry #8
+5758;Strange Device
+5759;Kroloal Cradle Exit
+5760;Stepping Stone
+5761;Stepping Stone
+5762;Kroloal Cradle Exit
+5763;Kyprosa's Light
+5764;Eanna's Gift
+5765;Tahyang's Roar
+5766;Gene's Dignity
+5767;Pumpkin Head
+5768;Heavy Trade Pack
+5769;Kuwon's Effect Area
+5770;Monster Totem
+5771;테스트 상자
+5772;Large Box
+5773;Soft Chair
+5774;Soft Chair
+5775;Golden Lamb
+5776;Pictorial Puzzle Machine
+5777;Campfire
+5778;Pictorial Puzzle Machine x 5
+5779;Pictorial Puzzle Machine x 10
+5780;Merchant Schooner Foresail
+5781;Merchant Schooner Mainsail
+5782;슬롯 머쉰 신기능 테스트
+5783;test_door
+5784;Shipwreck Area
+5785;Shipwreck Area
+5786;Shipwreck Area
+5787;Shipwreck Area
+5788;Pictorial Puzzle Scoreboard
+5789;Picture Puzzle Scoreboard x 5
+5790;Picture Puzzle Scoreboard x 10
+5791;Signature Cocktail
+5792;Gray Donkey Foal
+5793;Black Donkey Foal
+5794;Brown Donkey Foal
+5795;White Donkey Foal
+5796;Gray Donkey
+5797;Black Donkey
+5798;Brown Donkey
+5799;White Donkey
+5800;Skypole
+5801;Signpost
+5802;Signpost
+5803;Signpost
+5804;Jar
+5805;Signpost
+5806;Steering Wheel
+5807;Xiezhi Figurehead
+5808;Ladder
+5810;Dragonroar Watchtower
+5811;Moving Stepping Stone
+5812;Nuian Dialect Bookshelf
+5813;Signpost
+5814;Signpost
+5815;Haranya Dialect Bookshelf
+5816;Signpost
+5817;Signpost
+5818;Broken Toy's Magnetic Field Bomb
+5819;Signpost
+5820;Auroria Mineral Water Pump
+5821;Scout Camp Memory Tome
+5822;Helltrap Trapper
+5823;Auroria Mineral Water Ticket Box
+5824;Ladder
+5826;Elegant Haranya Tutoring Cushion
+5828;Shipwreck Area
+5829;Shipwreck Area
+5830;Shipwreck Area
+5831;Shipwreck Area
+5832;Signpost
+5833;Neatly Stacked Documents
+5835;Mature Bamboo Shoot
+5836;Watchtower Ladder
+5837;Purification Circle
+5838;Dried Reservoir Memory Tome
+5839;Hardbleak Island Memory Tome
+5840;Iona Memory Tome
+5841;Brownscale Wyrmkin Camp Memory Tome
+5842;Lavis Memory Tome
+5843;Bonefence Memory Tome
+5844;Bonepool Memory Tome
+5845;Red Clay Camp Memory Tome
+5846;Small Mushroom
+5847;Harvest Wagon
+5848;Signpost
+5849;Signpost
+5850;Pitchfork
+5851;Lava Area
+5852;East Ishvara History #4
+5853;East Ishvara History #7
+5854;East Ishvara History #9
+5855;East Ishvara History #13
+5856;Aft Ladder
+5857;Aft Ladder
+5858;Signpost
+5859;Cage Keys
+5860;Relic Container
+5861;Relic Container
+5862;Relic Container
+5863;Rujin's Bronze Sword
+5864;Dragon Energy
+5865;Animal Cage
+5866;Hasla Worldgate, Haranya
+5867;Karakasse Worldgate
+5868;Eternal Rest Stone
+5869;Thunder Pillar
+5870;Small Flying Machine
+5871;Campfire
+5872;Unidentifiable Corpse
+5873;Dirt Mound
+5874;Red Dragon's Energy
+5875;Poison
+5876;Rockfall
+5877;Poison
+5878;Poison
+5879;Godfrey's Axe Massacre
+5880;Broken Stepping Stone
+5881;Signpost
+5882;Signpost
+5883;Dragonscale
+5884;Hardened Heart
+5885;Stepping Stone Area Poison
+5886;Ribs
+5887;Dragontear Essence
+5888;Wind Magic Circle
+5889;Bloody Area
+5890;Carriage Seat
+5892;Magic Circle
+5893;Arkanis's Lava Area
+5894;Signpost
+5895;Signpost
+5896;Signpost
+5897;Signpost
+5898;Signpost
+5899;Vine
+5900;Hasla's Forgotten Memories
+5901;Hearthome
+5902;Broken Collector
+5903;Whirlwind
+5904;축산 숙련도 테스트 가구
+5906;Frozen Bramble
+5907;Reedcoil Tree
+5908;Elemental's Electric Explosion
+5909;techdemo_rock_updown
+5910;Fangborne Prison
+5911;Large Bloodstain
+5912;Small Bloodstain
+5913;Hasla Treated Bamboo Pack
+5914;Hasla Duck Down Pack
+5915;Karkasse Leaf Extract Pack
+5916;Karkasse Woven Ramswool Pack
+5918;투명 모델 두다드 테스트
+5919;Sharpwind Mines Exit
+5920;Najara's Wind
+5921;Gondola Seat
+5922;Red Team Respawn Manager
+5923;Blue Team Respawn Manager
+5924;Wanted Poster
+5925;Snowlion Ruins Corpse
+5926;Snowlion Ruins Corpse
+5927;Stone Statue's Barrier
+5928;Hungry Livestock
+5929;Academy Apprentice's Poison Sphere Explosion
+5930;The Rabbit's Foot Gates
+5931;Siranus's Shield
+5932;테스트 거대 바위
+5933;Howling Abyss_Restricted Attack Area_1Boss
+5934;Toadstool Purifier
+5935;Sandmane Snowlion Cub
+5936;Snowmane Snowlion Cub
+5937;Blacktail Leomorph Cub
+5938;Whitetail Leomorph Cub
+5939;Violet Elk Calf
+5940;White Elk Calf
+5941;Black Wolfhound Pup
+5942;White Wolfhound Pup
+5943;Gray Lilyut Foal
+5944;Buckskin Lilyut Foal
+5945;Striped Sabrefang Cub
+5946;Calico Sabrefang Cub
+5947;Restricted Attack Area
+5948;Arkanis's Restricted Attack Area
+5949;Siranus's Restricted Attack Area
+5950;Moving Statue's Restricted Attack Area
+5951;Powder Keg
+5952;Bloody Trade Pack
+5953;Stone Gate
+5954;Deserted Sharpwind Mines_ Macgee Restricted Attack Area
+5955;Electric Connection
+5956;Hidden Treasure Chest
+5957;Deserted Sharpwind Mines_ Okape Restricted Attack Area
+5958;Hadir_Rotten Flesh Golem_Unable to Attack
+5959;Ollo's Crate
+5960;Ollo's First Chest
+5961;Ollo's Second Chest
+5962;Ollo's Third Chest
+5963;Ollo's Fourth Chest
+5964;Ollo's Fifth Chest
+5965;Ollo's Sixth Chest
+5966;Ollo's Seventh Chest
+5967;Old Chest
+5968;Tomb
+5969;Artist's Tool Table
+5970;Sealed Urn
+5971;Glowing Light Machine
+5972;Howling Abyss Peace Zone
+5973;Kroloal Cradle Peace Zone
+5974;Burnt Castle Peace Zone
+5975;Hadir Farm Peace Zone
+5976;Fire Pillar
+5977;Vine
+5978;Ladle of Fortune
+5979;Sumptuous New Year's Feast
+5980;Arcadian Sea Guardian's Curse
+5981;Naval Blue Team Respawn Manager
+5982;Naval Red Team Respawn Manager
+5983;Arcadian Sea Guardian's Blessing
+5984;Humble New Year's Feast
+5985;Potato Seedbed_Double
+5986;Cucumber Seedbed_3.Quadruple
+5987;White Romance Table
+5988;Prepared Firewood
+5990;Raffi's Firewood
+5991;Simple Campfire
+5992;Sappy Firewood
+5993;Campfire
+5995;Firewood
+5996;Captured Seafolk Thief
+5997;Captured Seafolk Thief
+5998;Fessimar
+5999;Wild Snowlion Cub
+6000;가정교사 테스트
+6001;Whack-a-Dragora Activator
+6002;Poison Cloud Gate
+6003;Poison Cloud
+6004;Comfortable Seat
+6005;Driver's Seat
+6006;Driver's Seat
+6007;테스트 날틀 지뢰
+6008;Whack-a-Dragora Activator Table
+6009;Malfunctioning Leomorph Cub
+6010;Censer
+6011;Wild Foal
+6012;Wild Elk Calf
+6013;Traveler's Book
+6014;Traveler's Tree
+6015;Poplar Tree
+6016;Hound of Kyrios Statue
+6017;Gilt Hound of Kyrios Statue
+6018;Anthalon Statue
+6019;Gilt Anthalon Statue
+6020;Gilneas Statue
+6021;Gilt Gilneas Statue
+6022;Wraith Statue
+6023;Gilt Wraith Statue
+6024;Potato Eyes Bundle
+6025;Cucumber Seed Bundle
+6026;Carrot Seed Bundle
+6027;Onion Seed Bundle
+6028;Garlic Seed Bundle
+6029;Barley Seed Bundle
+6030;Rice Seed Bundle
+6031;Millet Seed Bundle
+6032;Corn Seed Bundle
+6033;Wheat Seed Bundle
+6034;Oat Seed Bundle
+6035;Clover Seed Bundle
+6036;Azalea Seed Bundle
+6037;Narcissus Seed Bundle
+6038;Rose Seed Bundle
+6039;Cotton Seed Bundle
+6040;Lily Seed Bundle
+6041;Lotus Seed Bundle
+6042;Cornflower Seed Bundle
+6043;Iris Seed Bundle
+6044;Lavender Seed Bundle
+6045;Mint Seed Bundle
+6046;Rosemary Seed Bundle
+6047;Mushroom Spore Bundle
+6048;Thistle Seed Bundle
+6049;Guest Bed
+6050;Poison Cloud
+6051;Cask
+6052;Solzreed Handicrafts Basket Pack
+6053;Gweonid Bug Repellent Wood Pack
+6054;Arcum Iris Red Leather Pack
+6055;Falcorth Dried Yams Pack
+6056;Lilyut Special Spice Pack
+6057;Tigerspine Tomato Juice Pack
+6058;Dewstone Plains Onion Juice Pack
+6059;Mahadevi Cold Processed Fabric Pack
+6060;White Arden Steamed Pumpkin Pack
+6061;Solis Fried Jujube Pack
+6062;Marianople Orange Drink Pack
+6063;Villanelle Candied Apples Pack
+6064;Two Crowns Dried Seaweed Pack
+6065;Silent Forest Aged Garlic Pack
+6066;Cinderstone Pickled Olives Pack
+6067;Ynystere Dried Tomatoes Pack
+6068;Halcyona Anesthetic Pack
+6069;Hellswamp Boiled Potatoes Pack
+6070;Sanddeep Fragrant Wood Pack
+6071;Rookborne Pumpkin Juice Pack
+6072;Windscour Regenerating Cream Pack
+6073;Perinoor Snack Pack
+6074;Hasla Grilled Yams Pack
+6075;Wind-Scented Vase
+6076;Liquor Bottle
+6077;Perfume Mortar
+6078;Specialty Workbench
+6079;Perfume Mortar
+6080;Dawn-Scented Vase
+6081;Miner Pirate's Hiding Spot
+6082;Fog-Scented Vase
+6083;Trader Pirate's Hiding Spot
+6084;테스트_페이즈 전환
+6085;Powder Keg
+6086;Trader Pirate's Hiding Spot
+6088;Miner Pirate's Hiding Spot
+6089;Hellhound Leash
+6090;Farmer's Workstation
+6091;Portal
+6092;Mandragora Activate Device
+6093;Nachashgar3_Fire Pillar_Random
+6094;Nachashgar3_Fire Pillar_Designated
+6097;Portal
+6098;Portal
+6099;Black Yata Calf
+6100;Palomino Yata Calf
+6101;Striped Yata Calf
+6102;Advancement Portal
+6103;Self-Winding Phonograph
+6104;Talking Frog
+6105;새끼 민무늬 야타_테스트
+6106;Shipwreck Area
+6107;Shipwreck Area
+6108;Winged Love Paddleboat Fragment
+6109;Winged Love Paddleboat Fragment
+6110;Winged Love Paddleboat Fragment
+6111;Cashmere Yata
+6112;Lord Royster's Bookshelf
+6113;Crescent Throne Study Room Bookshelf
+6114;The Once and Greatest Library
+6115;Rope Ladder
+6116;Angela's Unusual Defense Wall
+6117;Lord Royster's Buddy-Bomb
+6118;Strange Defense Wall
+6119;Giant Boulder
+6120;Time-Space Box
+6121;Treasure Chest
+6122;Courthouse
+6123;Courthouse
+6124;Courthouse
+6125;Treasure Chest
+6126;Starter Zone Event Armor
+6127;Treasure Chest
+6128;Calmlands Memory Tome
+6129;Manager Spyglass 
+6130;Treasure Chest
+6131;Condensed Archeum
+6133;Ghost Hunter Harpoon
+6134;Camping Tent Pack
+6135;Net Trap Pack
+6136;Field Cannon Pack
+6137;Fire Arrow Crate Quiver
+6138;Solzrean's Tombstone
+6139;Strange Defense Wall
+6140;Blue Salt Brotherhood Workbench
+6141;갑옷 전시대 (test)
+6142;ucc 초보존 액자 (test)
+6143;Treasure Chest
+6144;Steamtank Mine 
+6145;Stun Bomb
+6146;High Performance Gunpowder Pack
+6147;Hardwood Fence Pack
+6148;Camping Tent Pack
+6149;Net Trap Pack
+6150;Field Cannon Pack
+6152;Blue Salt Brotherhood Trade Goods Container
+6153;Nachashgar_No. 2 _Boss Petrifaction
+6154;Nachashgar_No. 3 _Boss Petrifaction
+6155;Blue Salt Brotherhood Trade Goods 
+6156;Field Supply Workbench
+6157;Field Supply Workbench
+6158;Engine Machinery
+6159;Challenger's Backpack
+6160;Anya Vein
+6161;Lord Colin's Bill
+6162;Little Shop of Stories Billboard
+6163;Starter Zone Event Cooking Gear
+6164;Pumpkin
+6165;Warning: Illegal Program User
+6166;Bounty Board
+6167;Executioner's Stone Statue
+6168;Stone Pile
+6169;Archaic Priest's Portal
+6170;Archaic Priest Petrifaction Ward
+6171;Handsome Haranya Tutoring Cushion
+6172;Elegant Nuia Tutoring Cushion
+6173;Handsome Nuia Tutoring Cushion
+6174;Park’s Present
+6175;Blue Salt Brotherhood Bulletin Board
+6177;Duaxini Flame Mark
+6178;Continent Model
+6179;테스트 젖소
+6180;Small Bamboo Coop
+6181;테스트
+6182;Blue Salt Brotherhood Bulletin Board
+6183;Blue Salt Brotherhood Bulletin Board
+6184;Blue Salt Brotherhood Bulletin Board
+6185;Howling Abyss_Restricted Attack Area_2Boss
+6186;Howling Abyss_Restricted Attack Area_3Boss
+6187;Howling Abyss_Restricted Attack Area_4Boss
+6188;Explosive Research Paper
+6189;Handy New Tool
+6190;Condensed Archeum
+6191;Trebuchet Construction Site
+6192;Delirium Ignition
+6193;Furious Elemental Priest
+6194;Ghost Hunter Harpoon
+6195;Cracked Ravine 
+6196;Flame Barrier
+6197;Okape's Log
+6198;Challenger's Chest
+6199;Nachashigar_Damage Decal_1m
+6200;테스트 피아노 의자
+6201;가구 아키움 가공대_테스트
+6202;Wind Elemental Magic Circle
+6203;test_보이드출력
+6204;Gweonid Scarecrow Farm Memory Tome
+6205;Solzreed Scarecrow Farm Memory Tome
+6206;Arcum Iris Scarecrow Farm Memory Tome
+6207;Mahadevi Scarecrow Farm Memory Tome
+6208;test_모닥불
+6209;Wailing Web
+6210;테스트 타악기 모음
+6211;Blue Salt Brotherhood Bulletin Board
+6212;Blue Salt Brotherhood Bulletin Board
+6213;Blue Salt Brotherhood Bulletin Board
+6214;Blue Salt Brotherhood Bulletin Board
+6215;Blue Salt Brotherhood Bulletin Board
+6216;Blue Salt Brotherhood Bulletin Board
+6217;Blue Salt Brotherhood Bulletin Board
+6218;Blue Salt Brotherhood Bulletin Board
+6219;Scratchy Phonograph
+6220;Multi-Instrument Phonograph
+6221;Fanfare Phonograph
+6222;Magic Circle
+6223;Nachashigar_Kaizo
+6224;아기 엘크_테스트
+6225;General Housing Province
+6226;Aquafarm Zone
+6227;Luxury Housing Province
+6228;Scarecrow Farm Zone
+6229;Farmhouse Zone
+6230;망아지_테스트
+6231;당나귀_테스트
+6232;Lerman Spawn
+6233;2번방 마지막 연출 NPC 스폰 이펙트
+6234;2번방 마지막 연출 NPC 사라짐 이펙트
+6235;Pyromantic Madness
+6236;Lerman's Disappearance
+6238;Nightmare's Embrace Monster Spawn
+6240;어군 에셋 테스트
+6242;눈사자_테스트
+6243;Windspinner's Wish Area
+6244;Flame's Trace
+6245;Lerman Disappears
+6246;History of Gods and Heroes 1
+6248;Lerman's Beloved Chest
+6249;History of Gods and Heroes 2
+6250;Skyshine Ore
+6251;나차쉬가르 차원문 1번방
+6252;Dr. Arashi's Weather Forecaster
+6253;Shelling
+6254;아기 타레 테스트
+6255;은신감지 테스트
+6256;Black Sabrefang Cub
+6257;Locked Chest
+6258;Crown Prince Isan the Frog
+6260;Salvage Sack
+6261;Musperosa's Petrifying Orb
+6262;Compass Component
+6263;Goblin Cage
+6264;Goblin Cage
+6265;Goblin Cage
+6266;Goblin Cage
+6267;Ulthow Helmet Supply Chest
+6268;Ingbard Helmet Supply Chest
+6269;fx_howling_거울 방패 반사
+6270;Dreamspace
+6271;Trieste Campaign Funds
+6272;테스트 두다드
+6273;Calleil's Hell Flame
+6274;Rumbling Archeum Tree
+6275;Helmet Return Chest
+6276;Drain
+6277;Caleil's Water Chamber_Float
+6278;Hood Return Chest
+6279;Empty Campaign Coffer
+6280;Heist Carriage
+6281;Nightmarish Shadow
+6282;fx_howling_정령의 전기 폭발
+6283;Mirror Shield
+6284;Trieste Secret Weapon
+6285;Dropped Scale
+6286;Awakening Hammer
+6287;fx_howling_수면망치
+6288;Weeping Charnel House_Rising Water
+6289;Godfrey's Axe Massacre
+6290;Trieste Campaign Funds
+6291;Smelter
+6292;Flare Hell
+6293;Wisdom Tree
+6294;Family's Smelting Furnace
+6295;fx_howling_대지강타
+6296;Family's Smelting Furnace
+6297;Viboros's Ice Shards
+6298;fx_howling_대지강타
+6299;Wheeled Mortar Flag
+6300;Fire Ironclad Flag
+6301;Steel Mortar Flag
+6302;Shock Conqueror Plate
+6303;Shock Conqueror Plate
+6304;Whyspron Mount Saddle
+6305;Whyspron Pet Helm
+6306;Whyspron Pet Legguards
+6307;Windracer Steed
+6308;Stolen Trade Pack
+6309;Abandoned Trade Pack
+6310;Sample Printing Press
+6311;Printing Press
+6312;Paper Press
+6313;Axe Massacre
+6314;Bluefin Tuna School
+6315;Lord Royster's Bombarded Ground
+6316;Parasitic Ice Shards
+6317;Trebuchet Construction Site
+6318;Ghost Hunter Harpoon
+6319;Arena Deserter Punishment
+6320;Whipping Post
+6321;Torture Rack
+6322;Mirage Gear Swap Booth
+6324;Challenger's Footing
+6325;Way of Flames
+6326;Explosive Keg
+6327;Treasure Chest
+6328;Howling Ranch Gate
+6329;Torch
+6330;Stacked Lumber
+6331;Howling Abyss Permanent Dungeon_Restricted Attack Area_1Boss
+6332;Stone Gate
+6333;Sturdy Explosive Keg
+6334;Howling Ranch Exit
+6335;Lion Statue
+6336;Sunlight Relic Chest
+6337;Moonlight Relic Chest
+6338;Starlight Relic Chest
+6340;Old Relic Chest
+6341;Explosive Keg
+6342;Gatekeeper's Pickaxe
+6343;Severed Head
+6344;Heavy Trade Pack
+6345;Strange Device
+6346;Iron Gate
+6347;Howling Abyss Device
+6348;Iron Gate
+6349;Explosive Keg
+6350;Howling Abyss Permanent Dungeon_Restricted Attack Area_2Boss
+6351;Howling Abyss Teleportation
+6352;Howling Abyss Teleport_Invisible Doodad
+6353;Hidden Door
+6354;Hidden Device
+6355;Door
+6356;Strange Device
+6357;Iron Gate
+6358;(Not Used) Howling Abyss Entrance
+6359;Howling Abyss Permanent Dungeon_Restricted Attack Area_3Boss
+6360;Howling Abyss Gate
+6361;Lion Statue
+6362;Lion Statue
+6363;Iron Gate
+6364;Lion Gate
+6365;Strange Device 4
+6366;Strange Device 5
+6367;Howling_Water Backflow 1
+6368;Stone Gate
+6369;Howling Abyss Permanent Dungeon_Restricted Attack Area_4Boss
+6370;Blessed Wooden Fence
+6371;Mahadevi Clan Trade Pack
+6372;General Housing Province Board
+6373;Treasure Pack
+6374;Portal
+6375;Sailfish School
+6376;Marlin School
+6377;Carp School
+6378;Sturgeon School
+6379;Arowana School
+6380;Luxury Housing Province Board
+6381;Penitent's Info Board
+6382;Old Relic Chest
+6383;Portal
+6384;Sacred Relic
+6385;Litter
+6386;Harani Juju Fetish
+6387;Experimental Crucible
+6388;Culinary Queen's Secrets
+6389;Sewing Kit
+6390;Plumed Helm Stand
+6391;Leopardskin Rug
+6392;Shatigon's Sandglass
+6393;Mushroom Bomb
+6394;Silverwolf Plate Design
+6395;Knighthood Display
+6396;Decorative Copper Ingot
+6397;Decorative Copper Stack
+6398;Decorative Copper Hoard
+6399;Decorative Silver Ingot
+6400;Decorative Silver Stack
+6401;Decorative Silver Hoard
+6402;Decorative Gold Ingot
+6403;Decorative Gold Stack
+6404;Decorative Gold Hoard
+6405;Berche's Smelter
+6406;Dropped Litter
+6407;Sorting Table
+6408;Polonius's Workbench
+6409;Pygmy Kraken Tentacle Pack
+6410;Pygmy Kraken Tentacle
+6411;Holy Malika Totem
+6412;Arena Mine
+6413;Round Jar
+6414;Unknown Victim
+6415;Rising Star Stone Pack
+6416;Howling Abyss Exit
+6417;펼쳐지는 책 두다드 테스트
+6418;Howling_3 Puzzles_Gate
+6419;Prince's Chamber Entrance
+6420;First Sun Gateway
+6421;Second Sun Gateway
+6422;Third Sun Gateway
+6423;Fourth Sun Gateway
+6424;Fifth Sun Gateway
+6425;Guardian Gateway
+6426;Northern Guardian Gate
+6427;Riesig's Spirit
+6428;Southern Guardian Gate
+6429;Volcano Gateway
+6430;Eastern Guardian Gate
+6431;Western Guardian Gate
+6432;Prince Guardian Gate
+6433;Typhoon Gateway
+6434;Earth Gate
+6435;Earth Gateway
+6436;Platinum Gate
+6437;Platinum Gateway
+6438;Old Jar
+6439;Orphe's Crystalline Spirit
+6440;Return Gate
+6441;Riesig's Spirit
+6442;Room 8 Monster Spawn
+6443;Smelting Furnace
+6444;Crash Site
+6445;Hood
+6446;Weeping Charnel House
+6447;Freshwater Fish School
+6448;Saltwater Fish School
+6449;Nachashgar Dimensional Gate_For Players
+6450;Nachashgar Dimensional Gate_For Monsters
+6451;Nachashgar Dimensional Gate_Fire Trap
+6452;Ice Storm Energy
+6453;Burial Location
+6454;Harani Sewing Machine
+6455;Polished Whetstone
+6456;Dark Embrace Portal
+6457;Dark Embrace Dimensional Gate
+6458;test_나차쉬가르 스타트 박스
+6459;Nachashgar_Lightning Counter 01
+6460;Burning Piano
+6461;Stone of Time
+6462;Mouth of Chaos Dimensional Gate
+6464;Serpentis Web Decal
+6465;Serpentis Short Web Decal
+6466;보류_나차쉬가르 차원문 1번방
+6467;Mysterious Painting
+6468;Gambler's Dream Table
+6469;Drum
+6470;Lighthouse
+6471;Lerman Disappears
+6472;Air-Filled Sea Cherry
+6473;Jaganita
+6474;Electric Eel School
+6475;test_cro_lighthouse_add.cgf
+6476;Ancient Guardian's Authority
+6477;Bluefin Pack
+6478;Bluefin Pack
+6479;Bluefin Pack
+6480;Carp Pack
+6481;Carp Pack
+6482;Carp Pack
+6483;Rabid Creation of Screams Poison Explosion
+6484;Cellus's Chest
+6485;Cellus's Dimensional Gate
+6486;Small Construction Zone Board
+6487;Peculiar Scope
+6488;West Ishvara Parchment
+6489;Bed Bed
+6490;Medium Construction Zone Board
+6491;Unknown Artist's Painting
+6492;Mansion Safe
+6493;East Ishvara Parchment
+6494;Caernord Furniture
+6495;Empty Saltwater Fish School
+6496;Memorial Light
+6497;Bloody Bhiskia: War Histories
+6498;Nachashgar_Combat Start_Trigger
+6499;나차쉬가르 차원문 9번방_아너린
+6500;Potion Rack
+6501;Gemcutter's Bench
+6502;나차쉬가르 차원문 9번방_카르밀라
+6503;Sunstone Stove
+6504;Hanging Tanner's Satchel
+6505;Sugarplum Fairy Music Box
+6506;Celebratory Fireworks Chest
+6507;Fish Stand
+6508;Celebratory Giftbox
+6509;보류_나차쉬가르 차원문 3번방
+6510;Green Elk Plushie
+6511;Purple Elk Plushie
+6512;Pink Elk Plushie
+6513;Bowtie Elk Plushie
+6514;Little Red Riding Elk Plushie
+6515;Sandmane Snowlion Plushie
+6516;Snowmane Snowlion Plushie
+6517;Coalmane Snowlion Plushie
+6518;Dapper Snowlion Plushie
+6519;Dashing Snowlion Plushie
+6520;Yata Plushie
+6521;Striped Yata Plushie
+6522;Black Yata Plushie
+6523;Carefree Yata Plushie
+6524;Rabbit-Yata Plushie
+6525;Baby Narayana Plushie
+6526;Groundling Shaman Plushie
+6527;Double-Bladed Saw
+6528;Oversize Green Elk Plushie
+6529;Oversize Purple Elk Plushie
+6530;Oversize Pink Elk Plushie
+6531;Oversize Bowtie Elk Plushie
+6532;Oversize Red Riding Elk Plushie
+6533;Oversize Sandmane Snowlion Plushie
+6534;Oversize Snowmane Snowlion Plushie
+6535;Oversize Coalmane Snowlion Plushie
+6536;Oversize Dapper Snowlion Plushie
+6537;Oversize Dashing Snowlion Plushie
+6538;Oversize Yata Plushie
+6539;Oversize Striped Yata Plushie
+6540;Oversize Black Yata Plushie
+6541;Oversize Carefree Yata Plushie
+6542;Oversize Rabbit-Yata Plushie
+6543;Oversize Baby Narayana Plushie
+6544;Oversize Groundling Shaman Plushie
+6545;Sailfish Pack
+6546;Sailfish Pack
+6547;Sailfish Pack
+6548;Blue Marlin Pack
+6549;Blue Marlin Pack
+6550;Blue Marlin Pack
+6551;Sturgeon Pack
+6552;Sturgeon Pack
+6553;Sturgeon Pack
+6554;Arowana Pack
+6555;Arowana Pack
+6556;Arowana Pack
+6557;Electric Eel Pack
+6558;Electric Eel Pack
+6559;Electric Eel Pack
+6560;Fish Crane
+6561;Ladder
+6562;Ladder
+6563;Fish Finder
+6564;Octopus Frame
+6565;보류_나차쉬가르 차원문 5번방
+6566;보류_나차쉬가르 차원문 6번방
+6567;test_nachashgar_doodad_FG
+6568;(Not Used) Nachashgar_Trigger_6
+6569;보류_나차쉬가르 차원문 7번방
+6570;보류_나차쉬가르 차원문 8번방
+6571;Octopus Release Site
+6572;Nuian Wall-Mounted Bookshelf
+6573;Green Nuian Book
+6574;Purple Nuian Book
+6575;Teal Nuian Book
+6576;Black Nuian Book
+6577;Blue Nuian Book
+6578;Harani Wall-Mounted Bookshelf
+6579;Green Harani Book
+6580;Pink Harani Book
+6581;Purple Harani Book
+6582;Black Harani Book
+6583;Yellow Harani Book
+6584;테스트용 녹색 엘크 봉제인형
+6585;Ladder
+6586;Lost Tribe Shaman's Water Jet
+6587;Naval Lantern
+6588;Blue Marlin Frame
+6589;Shark Frame
+6590;인던_CC면역_효과지역
+6591;Traveler's Campfire
+6597;Crest Cube
+6598;fx_nachashgar_spawn
+6599;Dark Deadly Poison
+6600;Painful Snare
+6601;Crest Column
+6602;Portable Anvil
+6603;Old Merchant Schooner Front Mast
+6604;Old Merchant Schooner Rear Mast
+6605;Ayanad Ruins Worldgate
+6606;Nachashgar_Unknown Chest_Room 3
+6607;Jola the Cursed Statue
+6608;Sea of Drowned Love Magic Ward
+6609;단단한 암석 벽면A
+6610;Lerman's Death Selection
+6611;Nachashgar_Monster Spawner_Room 3
+6612;Iyor's Complete Travel Journal
+6613;Rudal's Complete Travel Journal
+6614;Alecto's Complete Journal
+6615;Salvaging Vessel Crack
+6616;Mana Regen Totem Stage 2
+6617;Display Plushie
+6618;Display Plushie
+6619;Display Plushie
+6620;Display Plushie
+6621;Gargantuan Sailfish Trophy
+6622;Shipwreck Area
+6623;Shipwreck Area
+6624;Shipwreck Area
+6625;Suntofu Pack Dispenser
+6626;Howling Abyss Peace Zone
+6627;test_나차쉬가르포탈_아이템사용
+6629;Crest Pillow
+6631;Freedich Island Nuian Base Memory Tome
+6632;Freedich Island Harani Base Memory tome
+6633;Freedich Island Pirate Base Memory Tome
+6634;Lucius's Song
+6635;Aranzeb's Meditation
+6636;Aranzebia's Smile
+6637;Orchidna's Dream
+6638;Sunlit Garden Frame
+6639;Moonlit Garden Frame
+6640;Small Explosion
+6641;Nachashgar_Room4_Switch1
+6642;Nachashgar_Room4_Switch2
+6643;Nachashgar_Room4_Switch3
+6644;Nachashgar_Room4_Switch4
+6645;Nachashgar_Room4_Switch5
+6646;Nachashgar_Room4_Switch6
+6647;Nachashgar_Room4_Switch_Center
+6648;fx_nachash_파멸의대지울림
+6649;Shining Anya Vein
+6650;Vein Pebble-Seed
+6651;단단한 암석 벽면B
+6652;심연의입구돌떨어짐A
+6653;심연의입구돌떨어짐B
+6655;Water Tank
+6657;Gargantuan Blue Marlin Trophy
+6658;Gargantuan Bluefin Trophy
+6659;Gargantuan Sturgeon Trophy
+6660;Carmila's Canceled Agent
+6662;Fish-Find Longliner Design
+6664;(Not Used) Howling Abyss Permanent Dungeon_Restricted Attack Area_2Boss
+6668;물고기 가구 만들기 테스트
+6669;코끼리 시체_테스트
+6670;Sailfish Trophy
+6671;Sailfish Fry Trophy
+6672;Blue Marlin Trophy
+6673;Blue Marlin Fry Trophy
+6674;Bluefin Trophy
+6675;Bluefin Fry Trophy
+6676;Sturgeon Trophy
+6677;Sturgeon Fry Trophy
+6679;Mossy Boulder
+6680;Gargantuan Arowana Print
+6681;Arowana Print
+6682;Arowana Fry Print
+6683;Gargantuan Carp Print
+6684;Carp Print
+6685;Carp Fry Print
+6686;Gargantuan Electric Eel Print
+6687;Electric Eel Print
+6688;Electric Eel Fry Print
+6689;테스트 _소형 전기뱀장어 어탁
+6691;Boulder
+6692;테스트용 보관함
+6693;Damage Reduction Ability Master
+6694;광맥 돌뿌리 B
+6695;Painful Snare
+6696;Fantasy Relic Container
+6697;Moonlight Seawise Queen Chest
+6698;테스트_ucc_인터렉션
+6699;Ghost Merchant
+6700;Honor Student Victory Cup
+6701;Student Victory Cup
+6702;Cutscene Cartoon 3rd Place Trophy
+6703;Artist of the Ages Victory Cup
+6704;Celebrated Artiste Victory Cup
+6705;Fan Art 3rd Place Trophy
+6706;Designer to the Gods Victory Cup
+6707;Designer to the Stars Victory Cup
+6708;Character Appearance 3rd Place Trophy
+6709;Honor Student Frame
+6710;Student Frame
+6711;컷만화 수상자 3등 ucc 액자
+6712;Artist of the Ages Frame
+6713;Celebrated Artiste Frame
+6714;팬아트 수상자 3등 ucc 액자
+6715;Designer to the Gods Frame
+6716;Designer to the Stars Frame
+6717;꾸밈옷 수상자 3등 ucc 액자
+6718;Sunlight Seawise Queen Chest
+6719;o_abyss_gate_switch_A
+6720;o_abyss_gate_switch_B
+6721;Flame's Trace
+6722;Blizzard Cub
+6723;Seawise Queen Chest
+6724;Nachashgar_Room6_Switch_Center
+6725;Nachashgar_Room6_Switch_1
+6726;Nachashgar_Room6_Switch_2
+6727;Nachashgar_Room6_Switch_3
+6728;Nachashgar_Room6_Switch_4
+6729;Nachashgar_Room6_Switch_5
+6730;Nachashgar_Room6_Switch_6
+6731;Flaming Region
+6732;East Tehmi Empire Monument
+6733;Sacred Drum
+6734;Serpentis Entrance
+6735;Serpentis Exit
+6737;Nachashgar_Room7_Switch_Center
+6738;Nachashgar_Room7_Switch_1
+6739;Nachashgar_Room7_Switch_2
+6740;Nachashgar_Room7_Switch_3
+6741;Nachashgar_Room7_Switch_4
+6742;나차쉬가르 차원문 2번방_back
+6743;나차쉬가르 차원문 3번방_back
+6744;나차쉬가르 차원문 4번방_back
+6745;나차쉬가르 차원문 5번방_back_01
+6746;나차쉬가르 차원문 6번방_back
+6747;나차쉬가르 차원문 7번방_back
+6748;나차쉬가르 차원문 8번방_back
+6749;나차쉬가르 차원문 9번방_back_01
+6750;Nachashgar_Room1_Ward_30320
+6751;HP Restoration Ability Master
+6752;인스턴스-영원의섬-watervolume1
+6753;Instance-EternalIsle-WaterWall
+6754;Painful Snare
+6755;Archeum Relic Restorer
+6756;Grenade Ability Master
+6757;Aft Salvage Canvas
+6758;Pinned Salvage Canvas
+6759;Instance-EternalIsle-Dahuta'sBijou
+6760;For Sale Sign
+6761;Multi-Ore Refiner
+6762;Apex Squall Design
+6763;나차쉬가르 차원문 5번방_back_02
+6764;나차쉬가르 차원문 5번방_back_03
+6766;나차쉬가르 차원문 9번방_back_02
+6767;나차쉬가르 차원문 9번방_back_03
+6769;Lerman's Summoning Circle
+6771;Hood
+6772;Hood
+6773;Nachashgar_No. 1_AbyssalAperture_Loot Container
+6775;Yupang's Portcullis
+6776;Power Unit
+6777;Nachashgar_No. 2_Arms of Nightmare_Loot Container
+6778;Nachashgar_No. 3_Petrified Lab_Loot Container
+6779;Nachashgar_No. 4_Cradle of Red Dream_Loot Container
+6780;Nachashgar_No. 5_Dark Chamber_Loot Container
+6781;Nachashgar_No. 6_Creature Prison_Loot Container
+6782;Nachashgar_No. 7_Dusk Hall_Loot Container
+6783;Nachashgar_No. 8_Chaotic Aperture_Loot Container
+6784;Nachashgar_No. 9_Dimensional Crack_Loot Container
+6785;Arena Deserter Punishment
+6787;Test Drive: Comet Speedster
+6789;Test Drive: Apex Squall
+6790;Test Drive: Timber Coupe
+6791;Thunder Dash Birth
+6794;Fire Elemental Campfire
+6795;Distorted Dimension Workbench
+6796;Elemental Beacon Mound
+6797;Flames of the Dead
+6798;Engine
+6799;Nachashgar_DamageDecal_2m
+6801;Pygmy Kraken Tentacle
+6802;Nachashgar_DeformedDueksini_Impenetrable Ward
+6803;Duaxini's Chest
+6804;Marian's Complete Diary
+6805;Serpentis Entrance
+6806;Red Shy Rabbit Plushie
+6807;Yellow Shy Rabbit Plushie
+6808;Lime Shy Rabbit Plushie
+6809;Blue Shy Rabbit Plushie
+6810;Purple Shy Rabbit Plushie
+6811;Cellus's Accursed Hammer
+6812;Shipwreck Cargo
+6813;For the Glory of Vikings by [Epherium] Patron Spirit
+6814;Attack on Titan by [Kyprosa] Odd Family
+6815;Pike Age by [Tahyang] Pike Cat
+6816;Happy Return Farmer by [Hiramakand] Waldo
+6817;Agonizing Husbandry Life by [Tahyang] Shibata Jun
+6818;Shadowhawk Guest by [Eanna] Elaina
+6819;Goddess of War by [Kyprosa] Nyaru
+6820;Sharp Breath by [Peran] Sunjapoto
+6821;Yawn of the Dawn by [Delphinad] Lahaina
+6822;Cellus_Frozen_Attacked
+6823;퀘스트 등짐 테스트용
+6824;테스트용 모루
+6825;Abandoned Trade Pack
+6826;마성의 돼지(지현이 테스트용두다드)
+6827;Explosives Dispenser
+6828;Abandoned Trade Pack
+6829;Accelerator Oil Dispenser
+6831;Elite Merchant's Cushion
+6832;Instance-Eternal Isle-Rainstorm
+6833;Red Shy Rabbit Plushie
+6834;Yellow Shy Rabbit Plushie
+6835;Lime Shy Rabbit Plushie
+6836;Blue Shy Rabbit Plushie
+6837;Purple Shy Rabbit Plushie
+6838;Oversize Red Shy Rabbit Plushie
+6839;Oversize Yellow Shy Rabbit Plushie
+6840;Oversize Lime Shy Rabbit Plushie
+6841;Oversize Blue Shy Rabbit Plushie
+6842;Oversize Purple Shy Rabbit Plushie
+6843;Venomfang Lily
+6844;Cookware
+6845;대형 참다랑어 박제 장식_테스트
+6846;Practice Node
+6847;Center of Dahuta's Power
+6848;hard_coding_영원의 섬 출구
+6849;잡화 상인의 방석_미사용
+6850;창고 관리인의 방석_미사용
+6851;Grand Twin Griffin Frame
+6852;Grand Labyrinth Frame
+6853;Grand Openwork Cloud Frame
+6854;Grand Dragon Frame
+6855;Grand Twin Spiral Frame
+6856;Grand Lucky Clover Frame
+6857;Grand Marine Knight Frame
+6858;Grand Scrolled Heart Frame
+6859;Black Arrow Birth
+6860;Crane
+6861;Big Trap
+6862;Small Trap
+6863;Model Pendulum
+6864;도토리 벌통_phase1
+6865;Waterwheel
+6866;Treadmill
+6867;Model Airship
+6868;Rubber Processing Workbench
+6869;Machine Assembly Bench
+6870;Oil Extractor
+6871;Paper Press
+6872;Regal Printing Press
+6873;Barrel
+6874;Regal Printing Press Design
+6875;Grand Twin Griffin Frame Design
+6876;Grand Labyrinth Frame Design
+6877;Grand Openwork Cloud Frame Design
+6878;Grand Dragon Frame Design
+6879;Grand Twin Spiral Frame Design
+6880;Grand Lucky Clover Frame Design
+6881;Grand Marine Knight Frame Design
+6882;Grand Scrolled Heart Frame Design
+6883;Alchemist's Oil Lamp
+6884;Old Treasure Chest
+6885;Retractable Ladder
+6886;Garbage
+6887;Kobold Miner Plushie
+6888;Steamgoggle Daru Plushie
+6889;Home Sweet Home Plushie
+6890;Patty-Pie Cow Plushie
+6891;Jack-o'-Hattern Plushie
+6892;Morpheus Pirate Plushie
+6893;Oversize Kobold Miner Plushie
+6894;Oversize Steamgoggle Daru Plushie
+6895;Oversize Home Sweet Home Plushie
+6896;Oversize Patty-Pie Cow Plushie
+6897;Oversize Jack-o'-Hattern Plushie
+6898;Special Morpheus Pirate Plushie
+6900;Abandoned Drill Camp Peace Zone
+6901;Abandoned Drill Camp Memory Tome
+6902;테스트_동혁2
+6904;Nachashgar_Hiding Play Dead Skills_Cannot Be Used
+6905;Icy Cone
+6906;Castaway Shipwreck
+6907;나차쉬가르 차원문 1번방
+6908;Nachashgar Dimensional Gate Room 2
+6909;(Not Used) Serpentis Portal Room 3
+6910;(Not Used) Serpentis Portal Room 4
+6911;Nachashgar Dimensional Gate Room 5
+6912;Nachashgar Dimensional Gate Room 6
+6913;(Not Used) Serpentis Portal Room 7
+6914;Nachashgar Dimensional Gate Room 8
+6915;Nachashgar_Room1_Trigger_30321
+6916;Nachashgar_Room2_Trigger_30322
+6917;Nachashgar_Room3_Trigger_30323
+6918;Nachashgar_Room4_Trigger_30324
+6919;Nachashgar_Room5_Trigger_30325
+6920;Nachashgar_Room6_Trigger_30326
+6921;Nachashgar_Room7_Trigger_30327
+6922;Nachashgar_Room8_Trigger_30328
+6923;Nachashgar_Room9_Trigger_30329
+6924;Nachashgar_Room10_Trigger_30330
+6925;Castaway Ghost Merchant
+6926;Composition Workbench
+6927;Old Treasure Chest
+6928;Old Treasure Chest
+6929;Old Treasure Chest
+6930;Old Treasure Chest
+6931;Old Treasure Chest
+6932;Old Treasure Chest
+6933;Old Treasure Chest
+6934;Old Treasure Chest
+6935;Old Treasure Chest
+6936;Old Treasure Chest
+6937;Old Treasure Chest
+6938;Old Treasure Chest
+6939;Old Treasure Chest
+6940;Old Treasure Chest
+6941;Old Treasure Chest
+6942;Old Treasure Chest
+6943;Old Treasure Chest
+6944;Old Treasure Chest
+6945;Old Treasure Chest
+6946;Old Treasure Chest
+6947;Old Treasure Chest
+6948;Old Treasure Chest
+6949;Nachashgar_Room2_Ward_30332
+6950;Nachashgar_Room3_Ward_30333
+6951;Nachashgar_Room4_Ward_30334
+6952;Nachashgar_Room5_Ward_30335
+6953;Nachashgar_Room6_Ward_30336
+6954;Nachashgar_Room7_Ward_30337
+6955;Nachashgar_Room8_Ward_30338
+6956;Nachashgar_Room9_Ward_30339
+6957;Nachashgar_Room10_Ward_30340
+6958;Golden Teardrop Storage Chest
+6959;hard_coding_다후타 소환 두다드
+6960;instance_immortal_전투중
+6961;Vyrava's Burning Seed
+6962;Golden Teardrop Storage Chest Design
+6963;Sea of Drowned Love Exit
+6964;hard_coding_다후타의 방으로 가는 문
+6965;instance_immortal_무덤 결계
+6966;Toxic Waste
+6967;Hood
+6968;테스트_레드불 출발선
+6969;Heedmar Memory Tome
+6970;Vyrava's Fireball
+6971;Exeloch Memory Tome
+6972;Shackled Red Dragon
+6973;Remains of Dahuta's Tsunami
+6974;Voice Changer
+6975;Nuimari Memory Tome
+6976;Marcala Memory Tome
+6977;Sungold Fields Memory Tome
+6978;Old Vase
+6980;Truth and Lie_01
+6981;Decaying Flame Knight's Self-Destruction
+6982;Engual's Candle
+6983;Sirothe's Fireball Explosion
+6984;Scarecrow Garden Zone
+6985;Marine Housing Province
+6986;Loyalty Token Dispenser
+6987;Barrel Trap
+6988;Forbidden Magic Circle
+6989;Forbidden Altar
+6990;Rusty Chest
+6991;Underwater Breathing Device
+6992;Distorted Dimension Repair Bench
+6993;Marine House Ladder
+6994;Breezy Bungalow Design
+6995;Ritual Altar
+6996;나차쉬가르 차원문 9번방_레르만
+6997;Honey Larder
+6998;Cheese Larder
+6999;Herb Larder
+7000;Fruit Wine Pack
+7001;Aged Honey Pack
+7002;Aged Cheese Pack
+7003;Fist of Darkness
+7004;Acorn Beehive
+7005;Flag of Declaration Workbench
+7006;Dragon Slayer's Gigantic Crossbow
+7007;Kraken Tentacle Pack
+7008;Gargatuan Kraken Tentacle Pack
+7009;Flag of Prosperity
+7010;Rulers of the Plains: Mahra Tali
+7011;나차쉬가르 차원문 10번방_back
+7012;Griffin Guard Uniform
+7013;Griffin Guard Uniform
+7014;Regal Bloodraven Robes
+7015;Regal Bloodraven Robes
+7016;Imperial Huntsman's Leathers Design
+7017;Lordly Iceraven Robes Design
+7018;Kraken Tentacle
+7019;Gargantuan Kraken Tentacle
+7020;Truth and Lie_02
+7021;Truth and Lie_03
+7022;Truth and Lie_04
+7023;Signpost
+7024;Signpost
+7025;Signpost
+7026;Signpost
+7027;Signpost
+7028;Signpost
+7029;Signpost
+7030;Signpost
+7031;Signpost
+7032;석상 조각 테스트
+7034;Nuia Alliance Flagpole
+7035;Central Halcyona Flag
+7036;Dropped Central Halcyona Flag
+7037;Gargantuan Kraken Tentacle
+7038;Kraken Tentacle
+7039;Abandoned Junk
+7040;Machine Assembly Bench
+7041;Red Dragon's Chain Scale
+7042;붉은 용의 사슬비늘 (사용안함)
+7043;Red Dragon's Chain Scale
+7044;테스트 용알
+7045;Broken Rainwater Machine
+7046;Bloodstain
+7047;Solzreed Temporary Garden Memory Tome
+7048;Gweonid Temporary Garden Memory Tome
+7049;Falcorth Temporary Garden Memory Tome
+7050;Arcum Iris Temporary Garden Memory Tome
+7051;Bairndale Tree
+7052;Distorted Dimension Repair Bench
+7053;Square Brick Flowerbed
+7054;석상 카테고리 배치 테스트
+7055;Thriving Chick
+7056;Red Dragon Egg
+7057;Mireyna's Dragon Hunt Journal
+7058;Car Display Stand
+7059;Freedom Wing
+7060;Feathered Hope
+7061;Car Display Stand
+7062;Conjurer's Wisdom
+7063;Assassin's Courage
+7064;Champion's Might
+7065;비충돌 테스트
+7066;Red Dragon's Chain Scale
+7067;테스트 방책 재료
+7068;테스트 부서진 방책
+7069;Framed Butterflies
+7070;Corrupted Tombstone
+7071;Remains of Dahuta's Tsunami
+7073;Mirage Chest
+7074;Pharaum
+7075;Golden Plains Battle Supplies
+7076;Golden Plains Battle Ranching Node
+7077;Trough
+7078;Golden Plains Battle Weaponry Smelter
+7079;Golden Plains Battle Nuia Reward Node
+7080;Golden Plains Battle Haranya Reward Node
+7081;Golden Plains Battle Smelter
+7082;Golden Plains Battle Mana Node
+7083;Engine Workbench
+7084;Golden Plains Battle Envoy Flag
+7085;Golden Plains Battle: Nuia
+7086;Golden Plains Battle: Nuia
+7087;Golden Plains Battle: Nuia
+7088;Proven Warrior Workbench
+7089;Chaos Starstone
+7090;Inferno Elemental Heart
+7091;Lapis Steamfish Submarine Design
+7092;Test-Drive Ruby Steamfish Submarine
+7093;Test-Drive Platinum Steamfish Submarine
+7094;Haranya Alliance Central Flagpole
+7095;Sea of Drowned Love Weekend Dungeon Entrance
+7096;Dahuta's Chamber Entrance
+7097;Sea of Drowned Love Exit (Fixed)
+7098;Sea of Drowned Love Exit (Dynamic)
+7099;Dropped Supplies
+7100;Dahuta's Pearl (Summon Node)
+7101;Lesser Dahuta's Pearl: Drain Water
+7102;Lesser Dea of Drowned Love: Water Volume
+7103;Lesser Sea of Drowned Love: Water Wall
+7104;Lesser Sea of Drowned Love: Rainstorm
+7105;Pink Marlin School
+7106;레이싱_green_기름
+7108;Dragon Shield
+7109;Dead Princess's Legend
+7110;Dahuta's Sealstone
+7111;Loka's Blessed Snowflake
+7112;Trosk Mountain Snowflake
+7113;Dahuta's Shadow
+7114;Red Blossom Brick Flowerbed
+7115;Blue Blossom Brick Flowerbed
+7116;Yellow Blossom Brick Flowerbed
+7117;White Blossom Brick Flowerbed
+7118;Worn Armor Form
+7119;Worn Armor Form
+7120;test_준용_02
+7121;Dragonslayer's Workbench
+7122;레이싱_얼음바닥
+7123;Fairmoon Exchange Center
+7124;Distorted Dimension Repair Bench
+7125;Polaris Cub
+7126;Mirage Elk
+7127;Mirage Bjorne
+7128;Mirage Leomorph
+7129;Inferno Elemental Frenzy
+7130;Conjurer's Wisdom
+7131;Assassin's Courage
+7132;Champion's Might
+7133;Fishing Contest Fish Stand
+7134;Tower Magic Circle
+7135;Dog Cushion
+7136;붉은 용의 알 테스트용
+7137;Lusca's Entrance
+7138;황금 평원 전쟁 보급품 관리 두다드
+7139;Aranzebia and the Dead Princess
+7140;황금 평원 전쟁 보급품 관리 두다드
+7141;황금 평원 전쟁 보급품 관리 두다드
+7142;황금 평원 전쟁 보급품 관리 두다드
+7143;황금 평원 전쟁 보급품 관리 두다드
+7146;Halcyona Cosmic Carrot
+7147;Annmit's Cursing Orb
+7148;[테스트] 주말던전 영원의 섬 입구
+7149;Naima's Dance
+7150;Hood
+7151;Vehicle Flag
+7152;Melisara's Shadow
+7153;Ollo's Prosperity
+7154;Inoch's Faith
+7155;Starlit Garden Frame
+7156;Ghostly Bench
+7157;레이싱_테스트_아이템박스
+7158;Lusca Tentacle Trade Pack
+7161;Abyssal Ravager's Cursed Lightning
+7162;Racecar Hood
+7163;Tomato Seed Bundle
+7164;Strawberry Seed Bundle
+7165;Pumpkin Seed Bundle
+7166;Yam Seed Bundle
+7167;Chili Pepper Seed Bundle
+7168;Rye Seed Bundle
+7169;Peanut Seed Bundle
+7170;Bean Seed Bundle
+7171;Quinoa Seed Bundle
+7172;Cactus Seed Bundle
+7173;Jinn's Tongue Seed Bundle
+7174;Sunflower Seed Bundle
+7175;Turmeric Seed Bundle
+7176;Poppy Seed Bundle
+7177;Saffron Seed Bundle
+7178;Aloe Seed Bundle
+7179;Cultivated Ginseng Seed Bundle
+7180;레이싱_부스트_상자
+7181;Halcyona Artifact
+7182;Halcyona Artifact
+7183;Racecar: Arche One
+7184;Giant Tailfin
+7186;Ebonfur Birth
+7187;Large Orb
+7188;Sun's Day Tree
+7189;Sun's Day Rock
+7190;Gold King's Palace: Sunday
+7191;Gold King's Feast Table: Sunday
+7192;Reedwind Task Board: Monday
+7193;Gold King's Workbench: Sunday
+7194;Independence Workbench
+7195;Dropped Plague Bomb
+7196;Dropped Fire Bomb
+7197;Dropped Heartening Flare
+7198;Dropped Healing Flare
+7199;Dropped Scorch Bomb
+7200;레이싱_전용_포탈
+7201;Summoning Stone
+7202;Golden Ruins Whirlpool
+7203;Haje's Tower
+7204;Dominator's Cornerstone
+7205;Independence
+7206;Harmony Flag
+7207;Gold King's Castle
+7208;Reedwind Task Board: Tuesday
+7209;Reedwind Task Board: Wednesday
+7210;Reedwind Task Board: Thursday
+7211;Reedwind Task Board: Friday
+7212;Reedwind Task Board: Saturday
+7213;Reedwind Task Board: Sunday
+7214;Whirlwind's Blessing
+7215;Curse
+7216;Black Freedom Flag
+7217;Fishing Cove Fish Stand
+7218;Zaldrane's Temptation
+7221;White Freedom Flag
+7222;Blue Freedom Flag
+7223;Green Freedom Flag
+7224;Red Freedom Flag
+7227;Haje's Tower Construction Order
+7228;Rainbow Freedom Flag
+7229;Territory Statue: Akrites
+7230;Territory Statue: Calleil
+7231;Territory Statue: Ezi
+7232;Territory Statue: Gon
+7233;Territory Statue: Hora
+7234;Territory Statue: Nui
+7235;Shipwreck Cargo
+7236;Zaldrane's Poison
+7237;Dropped Golden Ruins Stone Pack
+7238;Dropped Golden Ruins Lumber Pack
+7239;Dropped Gold Ruins Mucous Pack
+7242;Hood
+7246;Hood
+7247;Hood
+7248;Car Display Stand
+7249;나차쉬가르_1번방_공피격불가_01
+7250;Ice Crystal Orb
+7251;권한 테스트용_이 존이 내 국가
+7252;권한 테스트용 제작대_이 존에 내 집
+7254;Rough Stone Column
+7255;Carved Stone Pillar
+7256;Narcissus Stone Pedestal
+7257;Lotus Stone Vase
+7258;Mandala Stone Pedestal
+7259;Winged Megalith
+7260;Assassin's Stone Statue
+7261;Nuimari Lord's Orders
+7262;Merchant Recruitment Cushion
+7263;Hall Well
+7264;권한 테스트용_이 존에 내 건축물
+7265;Territory Statue Design
+7266;Rejuvenating Chant
+7267;Sunder Earth Area
+7268;Fairmoon Car Display Stand
+7269;Fairmoon Potion Stand
+7270;Exeloch Task Board: Monday
+7271;Exeloch Task Board: Tuesday
+7272;Exeloch Task Board: Wednesday
+7273;Exeloch Task Board: Thursday
+7274;Exeloch Task Board: Friday
+7275;Exeloch Task Board: Saturday
+7276;Exeloch Task Board: Sunday
+7277;Golden Ruins Task Board: Monday
+7278;Farm Hauler Display Stand
+7279;Gilt Spire Tent
+7280;Golden Ruins Task Board: Tuesday
+7281;Heedmar Lord's Orders
+7282;Calmlands Lord's Orders
+7283;Marcala Lord's Orders
+7284;Unsealed Token Exchange Stand
+7285;Rising Star Stonemason Workbench
+7286;Jola's Hexing Lightning
+7287;Golden Ruins Task Board: Wednesday
+7288;Golden Ruins Task Board: Thursday
+7289;Golden Ruins Task Board: Friday
+7290;Golden Ruins Task Board: Saturday
+7291;Golden Ruins Task Board: Sunday
+7292;Sea of Drowned Love Weekend Dungeon: Caernord Reserve
+7293;Distorted Duaxini's Spirit
+7294;Raving Jola's Petrify
+7296;까마귀 텃밭 판매 테스트
+7297;타워 방어 테스트
+7298;Zandana Pillar
+7299;Yellow Weather Node
+7300;태극기 제작대_테스트 용 입니다.
+7303;Ayanad Library Entrance
+7304;Lesser Serpentis Entrance
+7305;Hall Fireplace
+7306;수호자의 결계_30401
+7308;Hall Nameplate
+7310;World's End
+7311;불안정한 나차쉬가르 차원문_back
+7312;나차쉬가르 차원문 1번방
+7313;Glass Shard Mound
+7314;불안정한 나차쉬가르 차원문 6번방
+7316;Necromantic Altar
+7317;Necromantic Magic Circle
+7318;불안정한 나차쉬가르 차원문 2번방
+7319;불안정한 나차쉬가르 차원문 8번방
+7321;Tales of the Twelve: The Gods and the Heroes
+7322;Concave Ground
+7323;Harvest Moon Broken Tiger Stone
+7324;Runert's Gravity Field
+7325;Solar Scarecrow Farm Design
+7326;Lunar Scarecrow Farm Design
+7327;Stellar Scarecrow Farm Design
+7331;Golden Ruins Guard Captain Display
+7332;Golden Guins Guard Display
+7333;불안정한나차쉬가르_9번방_트리거_30400
+7334;Sirothe's Hazing Spirit
+7335;불안정한 나차쉬가르 차원문 3번방
+7336;불안정한 나차쉬가르 차원문 4번방
+7337;불안정한 나차쉬가르 차원문 5번방
+7338;불안정한 나차쉬가르 차원문 7번방
+7339;불안정한 나차쉬가르 차원문 9번방
+7340;Solar Jack-o'-Lantern
+7341;Lunar Jack-o'-Lantern
+7342;Stellar Jack-o'-Lantern
+7343;test_skillhit
+7344;Event Fishing Ground
+7345;ArcheFarm Workbench
+7346;Regal ArcheFarm Workbench
+7347;Cake Pouch
+7348;레이싱_폭발_상자
+7349;레이싱_치유_상자
+7351;Study Chamber Magic Footing
+7352;Seastorm Harani Foresail
+7353;Seastorm Harani Mainsail
+7354;Jola's Poison Cloud
+7355;Bonekraal Figurehead
+7356;Xiezhi Figurehead
+7357;Goddess Nui Figurehead
+7358;Mir Figurehead
+7359;Beast Figurehead
+7360;Seastorm Censer
+7361;Seastorm Lantern
+7362;존 반응 테스트 두다드
+7363;Jola's Cursed Sun
+7364;존 제한 테스트 두다드
+7365;Seastorm Drum
+7366;Seastorm Bell
+7367;Seastorm Naval Mine
+7368;Mermaid Bathtub
+7369;레이싱_출발선
+7371;Study Chamber Door
+7372;Study Chamber Door
+7373;Study Chamber Door
+7374;Reedwind Door
+7375;Reedwind Door
+7376;Reedwind Door
+7377;Golden Fishbowl
+7378;Silver Fishbowl
+7379;Bronze Fishbowl
+7380;Gold Heavyweight Fishbowl
+7381;Silver Heavyweight Fishbowl
+7382;Bronze Heavyweight Fishbowl
+7383;Golden Tire Cup
+7384;Silver Tire Cup
+7385;Bronze Tire Cup
+7386;Charred Bonekraal Figurehead
+7387;테스트_벽
+7388;특산물 팩 테스트
+7390;Red Xiezhi Figurehead
+7391;Ivory Nui Figurehead
+7394;Goddess Dahuta Figurehead
+7395;Whipping Post
+7396;Torture Rack
+7400;Contest Coin Collector
+7401;Jola's Cursed Lightning
+7402;Contest Coin Collector
+7403;비늘머리의 석화 해제
+7404;National Language Column
+7407;Solar Scarecrow
+7410;Treasure Guardian's Imprison
+7411;Native Speaker Chest
+7412;Gargantuan Pink Marlin Trophy
+7413;Pink Marlin Trophy
+7414;Pink Marlin Fry Trophy
+7415;Dropped Pink Marlin Pack
+7416;Dropped Pink Marlin Pack
+7417;Dropped Pink Marlin Pack
+7418;Cornucopia Cow
+7419;Mermaid Bathtub
+7420;Cornucopia Tree
+7421;Cornucopia Crop
+7422;Vile Gourdhead
+7423;Warship Cannon
+7424;Crystallized Pumpkin Exchange Stand
+7425;Sharpwind Mine Memory Tome
+7426;Palace Cellar Memory Tome
+7427;Burnt Castle Armory Memory Tome
+7428;Hadir Farm Memory Tome
+7429;Howling Abyss Memory Tome
+7430;Kroloal Cradle Memory Tome
+7431;Regal Farmer's Workstation
+7432;Glider Customization: Spring Breeze
+7433;Glider Customization: Silver Shadow
+7434;Glider Customization: Blue Rainbow
+7435;Glider Customization: Flames
+7436;Daru's Blue Ribbon Lines
+7437;Ladder
+7438;Spooky Streetlight
+7439;Large Pumpkin Lantern
+7440;Large Pumpkin Lantern
+7441;Large Pumpkin Lantern
+7442;Fright Fest Merch Booth
+7443;Daru's Blue Ribbon Lines
+7444;Daru's Blue Ribbon Lines
+7446;Alexander's Freezing Steps
+7447;Haranya Encyclopedia Room Door
+7448;Pirate/Player Nation Encyclopedia Room Door
+7449;Nuia Encyclopedia Room Door
+7450;Diamond Shores Door
+7451;Diamond Shores Door: Pirate/Player Nation Base
+7452;Diamond Shores Door: Nuia Base
+7453;Introspect Path Door
+7454;Encyclopedia Room Door
+7455;Screening Hall Entrance
+7456;Screening Hall Lobby Doors
+7457;Libris Garden Door
+7458;Introspect Path Door
+7459;Verdant Skychamber Door
+7460;Libris Garden Door
+7461;Frozen Study Entrance
+7462;Frozen Study Lobby Door
+7463;Screaming Archives Door
+7464;Verdant Skychamber Door
+7465;Evening Botanica Door
+7466;Screaming Archives Door
+7467;Deranged Bookroom Entrance
+7468;Deranged Bookroom Lobby Door
+7469;Corner Reading Room Door
+7470;Corner Reading Room Lobby Door
+7472;Screening Hall Exit
+7473;Frozen Study Exit
+7474;Deranged Bookroom Exit
+7475;Corner Reading Room Exit
+7476;Screening Hall Exit
+7477;Frozen Study Exit
+7478;Deranged Bookroom Exit
+7479;Corner Reading Room Exit
+7482;Wynn's Energy
+7484;Frosty Restraint
+7485;Wynn's Green Ward
+7486;Wynn's Curse
+7487;Ancient Relic Exchange Stand
+7489;Distorted Duaxini's Spirit
+7490;Wynn's Blue Ward
+7491;Wynn's Red Ward
+7492;Wynn's Barrage
+7493;나차쉬가르 차원문_back
+7494;Wynn's Tombstone
+7495;나차쉬가르 차원문_5번방_back
+7496;Mailbox
+7497;나차쉬가르 차원문_9번방_back
+7498;나차쉬가르 차원문_10번방_back
+7499;수호자의 결계_30320
+7500;Serpentis Entrance
+7501;Sea of Drowned Love Entrance
+7502;Sirothe's Hazing Spirit
+7503;Winter Maiden Festival Garland
+7504;Winter Maiden Festival Flag
+7505;Winter Maiden Festival Flag
+7506;Winter Maiden Festival Garland
+7507;Winter Maiden Festival Garland
+7508;Winter Maiden Festival Tree
+7509;Petite Winter Maiden Festival Tree
+7510;Red Team Respawn Point Keeper
+7511;Blue Team Respawn Point Keeper
+7512;Year's End Blessing 01
+7513;Year's End Blessing
+7514;Year's End Blessing
+7515;Year's End Blessing
+7517;Winter Maiden Festival Flag
+7518;Winter Maiden Tree
+7519;Large Winter Maiden Festival Tree
+7520;Wynn's Querulous Protection Ward
+7521;테스트 분홍 청새치 뗴
+7522;Okape's Secret Chest
+7523;Winter Maiden Festival Decoration
+7524;Winter Maiden Festival Garland
+7525;Winter Maiden Festival Balloon
+7526;Winter Maiden Festival Garland
+7527;Hieronimus's Secret Chest
+7532;Red Fuel
+7533;Blue Fuel
+7534;Glider Companion Stand: Sloth
+7535;Winter Maiden Festival Garland
+7536;나차쉬가르 차원문 3번방
+7537;나차쉬가르 차원문 4번방
+7538;나차쉬가르 차원문 7번방
+7539;Sealed Spirits
+7540;Sealed Spirits
+7541;Sealed Spirits
+7542;도서관 인던_2층_발판_임시어셋
+7543;도서관_클로인할나크_물에젖음
+7544;뇌전_front_visual_left
+7545;뇌전_front_visual_mid
+7546;뇌전_front_visual_right
+7547;(안씀)매듭달의_조상_phase_04
+7549;매듭달의_조상_phase_01_업화
+7550;Jumbo Green Elk Plushie
+7551;Jumbo Purple Elk Plushie
+7552;Jumbo Pink Elk Plushie
+7553;Jumbo Bowtie Elk Plushie
+7554;Jumbo Red Riding Elk Plushie
+7555;Jumbo Sandmane Snowlion Plushie
+7556;Jumbo Snowmane Snowlion Plushie
+7557;Jumbo Coalmane Snowlion Plushie
+7558;Jumbo Dapper Snowlion Plushie
+7559;Jumbo Dashing Snowlion Plushie
+7560;Jumbo Yata Plushie
+7561;Jumbo Striped Yata Plushie
+7562;Jumbo Black Yata Plushie
+7563;Jumbo Carefree Yata Plushie
+7564;Jumbo Rabbit-Yata Plushie
+7565;Jumbo Home Sweet Home Plushie
+7566;Jumbo Pattie-Pie Cow Plushie
+7567;Jumbo Jack-o'-Hattern Plushie
+7568;Jumbo Morpheous Pirate Plushie
+7569;Jumbo Baby Narayana Plushie
+7570;Jumbo Groundling Shaman Plushie
+7571;Jumbo Groundling Shaman Plushie
+7572;Jumbo Steamgoggle Daru Plushie
+7574;fx_번개를머금은지팡이
+7576;fx_억압의 굴레
+7577;Protection Slab
+7578;Bewitched Book
+7579;Magic-Shrouded Page
+7580;Supply Chest
+7581;Ritual Candle
+7582;Thiefcatcher Circle
+7583;Ayanad Library Task Board
+7584;Arcane Lamp
+7585;Protection Slab
+7586;보류_도서관 인던_2층_발판_안쪽
+7587;fx_얼음묶기
+7588;Lightning Generator Current
+7589;Lightning Generator Current
+7590;Lightning Generator Current
+7591;Rank 1 Corner Spellbook
+7592;Lightning Generator
+7593;Lightning Generator
+7594;Lightning Generator
+7595;Lightning Generator
+7596;Kaylin's Remains
+7597;Stena's Remains
+7598;Runert's Remains
+7599;Study Page Ecktom's Remains
+7600;Captain Jergant's Remains
+7601;Head Librarian Tinnereph's Remains
+7612;나차쉬가르 차원문 9번방_카르밀라
+7613;나차쉬가르 차원문 9번방_아너린
+7614;Rank 2 Corner Spellbook
+7615;Rank 3 Corner Spellbook
+7616;Rank 4 Corner Spellbook
+7617;Rank 5 Corner Spellbook
+7618;나차쉬_1번방결계_01
+7619;나차쉬_1번방결계_02
+7620;Petite Snowy Tree
+7621;Petite Twinkling Tree
+7622;Snowy Tree
+7623;Twinkling Tree
+7624;Frosthand Snowman
+7625;Frostfeet Snowman
+7626;Red Cap Snowman Statue
+7627;Yellow Cap Snowman Statue
+7628;Blue Cap Snowman Statue
+7629;Green Cap Snowman Statue
+7630;Purple Cap Snowman Statue
+7631;Frosthand Snowman Statue
+7632;Frostfeet Snowman Statue
+7633;fx_강력한빙결hit
+7634;Veroe Dagger
+7635;Veroe Shield
+7636;Veroe Bow
+7637;Veroe Nodachi
+7638;Veroe Katana
+7639;Veroe Greatsword
+7640;Veroe Sword
+7641;Veroe Longspear
+7642;Veroe Shortspear
+7643;Veroe Staff
+7644;Veroe Scepter
+7645;Veroe Greatclub
+7646;Veroe Club
+7647;Veroe Greataxe
+7648;Veroe Axe
+7649;Dull Sport Fish
+7650;Mirage Isle Warehouse
+7651;나차쉬가르_1번방_보물상자소환용
+7653;Veroe Weapon Stand
+7655;윈의 에너지_3p
+7658;Lightweight Object Telekinesis
+7659;Hieronimus's Secret Chest
+7660;Akmit's Secret Chest
+7661;Marmas's Secret Chest
+7662;Wynn's Soaring Energy
+7663;Wynn's Supernatural Energy
+7664;Crimson Shield
+7665;나차쉬가르_1번방_공피격불가_02
+7668;Veroe Throne
+7669;Veroe Throne Giftpack Stand
+7670;Friendship Token Exchange Stand
+7671;윈의 녹색 보호막_1_1
+7672;윈의 푸른빛 보호막_1_1
+7673;윈의 붉은빛 보호막_1_1
+7674;Serpentis Entrance
+7675;윈의 진홍빛 보호막_1_2
+7676;윈의 녹색 보호막_1_3
+7677;윈의 푸른빛 보호막_1_2
+7678;윈의 푸른빛 보호막_1_3
+7679;Dropped Lucky Pink Marlin Pack
+7680;윈의 붉은빛 보호막_1_2
+7681;윈의 붉은빛 보호막_1_3
+7682;Lucky Pink Marlin Trophy
+7683;윈의 녹색 보호막_2_1
+7684;윈의 푸른빛 보호막_2_1
+7685;윈의 붉은빛 보호막_2_1
+7686;윈의 녹색 보호막_2_2
+7687;윈의 푸른빛 보호막_2_2
+7688;윈의 붉은빛 보호막_2_2
+7689;윈의 녹색 보호막_2_3
+7690;윈의 푸른빛 보호막_2_3
+7691;윈의 붉은빛 보호막_2_3
+7692;알렉산데르의 마법서(알렉산데르 보스 소환 두다드)
+7693;Snuggly Plushie
+7694;Ayanad Task Board
+7695;Wynn's Vertical Energy
+7696;Wynn's Supernatural Energy
+7697;윈의 레이저_발사_2Phase_1
+7698;윈의 레이저_폭발_2Phase_1
+7699;Supply Crate
+7701;Fellowship Workbench
+7702;Show Me the Money Reward Dispenser
+7703;Alexander's Remains
+7704;Loveslayer Collector
+7706;윈의 푸른빛 보호막_1Phase
+7707;Automated Mirage Dispenser
+7708;윈의 녹색 보호막_1Phase
+7709;윈의 붉은빛 보호막_1Phase
+7713;윈의 푸른빛 보호막_2Phase
+7714;Guardian's Ice Wall
+7715;윈의 녹색 보호막_2Phase
+7716;윈의 붉은빛 보호막_2Phase
+7717;Automated Mirage Dispenser
+7718;Automated Mirage Dispenser
+7719;Automated Mirage Dispenser
+7720;Automated Mirage Dispenser
+7721;Automated Mirage Dispenser
+7722;Automated Mirage Dispenser
+7723;Automated Mirage Dispenser
+7724;Automated Mirage Dispenser
+7725;Automated Mirage Dispenser
+7726;Automated Mirage Dispenser
+7727;Automated Mirage Dispenser
+7728;Automated Mirage Dispenser
+7729;Automated Mirage Dispenser
+7730;Patron Mirage Dispenser
+7731;Patron Mirage Dispenser
+7732;Patron Mirage Dispenser
+7733;Patron Mirage Dispenser
+7734;Patron Mirage Dispenser
+7735;Patron Mirage Dispenser
+7736;Patron Mirage Dispenser
+7737;Patron Mirage Dispenser
+7738;Patron Mirage Dispenser
+7739;Patron Mirage Dispenser
+7740;Patron Mirage Dispenser
+7741;Patron Mirage Dispenser
+7742;Patron Mirage Dispenser
+7743;Patron Mirage Dispenser
+7744;윈의 레이저_발사_2Phase_2
+7745;Dismembered Corpse
+7746;윈의 레이저_발사_2Phase_3
+7747;윈의 레이저_발사_2Phase_4
+7748;윈의 레이저_발사_2Phase_5
+7749;윈의 레이저_발사_2Phase_6
+7750;Petrified Gemshrub
+7751;윈의 레이저_폭발_2Phase_2
+7752;윈의 레이저_폭발_2Phase_3
+7753;Coral Cactus Pulp
+7754;Tundra Fern Pulp
+7755;Violet Fiddlehead Pulp
+7756;Thorngrass Pulp
+7757;Goldwort Fern Pulp
+7758;윈의 레이저_폭발_2Phase_4
+7759;윈의 레이저_폭발_2Phase_5
+7760;윈의 레이저_폭발_2Phase_6
+7761;Wynn's Supernatural Explosion
+7762;윈의 푸른빛 보호막_3Phase
+7763;Gweonid Dyed Feathers
+7764;Marianople Duck Down
+7765;Dewstone Fine Thread
+7766;Solzreed Braised Meat
+7767;White Arden Trail Mix
+7768;Lilyut Milk Soap
+7769;Two Crowns Cream
+7770;Hellswamp Spicy Meat
+7771;Cinderstone Tart Mead
+7772;Halcyona Wheat Biscuit
+7773;Sanddeep Medicinal Poultice
+7774;Solis Alchemy Oil
+7775;Arcum Iris Roasted Eggs
+7776;Mahadevi Elephant Cookies
+7777;Falcorth Snowlion Yarn
+7778;Tigerspine Tigerspaw Pancakes
+7779;Silent Forest Dried Fruit
+7780;Villanelle Potpourri
+7781;Windscour Hearty Jerky
+7782;Perinoor Aged Spices
+7783;Rookborne Biscuit Sticks
+7784;Ynystere Preserves
+7785;Hasla Softened Fabric
+7786;윈의 녹색 보호막_3Phase
+7787;윈의 붉은빛 보호막_3Phase
+7788;Lightning Generator Current
+7789;Lightning Generator Current
+7790;Lightning Generator Current
+7791;Gweonid Apple Pies
+7792;Marianople Sweeteners
+7793;Dewstone Distilled Liquor
+7794;Solzreed Dried Food
+7795;White Arden Figgy Pudding
+7796;Lilyut Cooking Oil
+7797;Two Crowns Pomme Cakes
+7798;Hellswamp Mushroom Pot Pies
+7799;Cinderstone Sacred Candles
+7800;Halcyona Yam Pasta
+7801;Sanddeep Preserved Meat
+7802;Solis Juice Concentrate
+7803;Arcum Iris Lavaspice
+7804;Mahadevi Root Herbs
+7805;Falcorth Apple Tarts
+7806;Tigerspine Grape Jam
+7807;Silent Forest Pomme Candy
+7808;Villanelle Preserved Cherries
+7809;Windscour Bitter Herbs
+7810;Perinoor Potato Powder
+7811;Rookborne Fruit Leather
+7812;Ynystere Olive Oil
+7813;Hasla Cured Meat
+7814;윈의 초자연 대폭발 보호막_3Phase
+7815;Lightning Generator Current
+7816;Lightning Generator Current
+7817;Lightning Generator Current
+7818;Lightning Generator Current
+7819;Lightning Generator Current
+7820;Lightning Generator Current
+7821;Cypress Music Box
+7822;Gildaron's Entrance
+7823;Malcolm's Armor
+7825;Frozen Study Spellbook
+7826;Wynn's Vertical Laser
+7828;Veroe Throne
+7829;윈의 레이저_발사_2Phase_7
+7830;윈의 레이저_발사_2Phase_8
+7831;윈의 레이저_발사_2Phase_9
+7832;윈의 레이저_발사_2Phase_10
+7833;윈의 레이저_발사_2Phase_11
+7834;윈의 레이저_발사_2Phase_12
+7835;윈의 레이저_폭발_2Phase_7
+7836;윈의 레이저_폭발_2Phase_8
+7837;윈의 레이저_폭발_2Phase_9
+7838;윈의 레이저_폭발_2Phase_10
+7839;윈의 레이저_폭발_2Phase_11
+7840;윈의 레이저_폭발_2Phase_12
+7841;Wynn's Vertical Laser
+7843;Gweonid Piquant Spices
+7844;Marianople Face Cream
+7845;Dewstone Plains Toy Robots
+7846;Solzreed Strawberry Smoothies
+7847;Whtie Arden Grilled Meat
+7848;Lilyut Barley Moonshine
+7849;Two Crowns Flowerpots
+7850;Hellswamp Ground Peanuts
+7851;Cinderstone Medicinal Powder
+7852;Halcyona Livestock Feed
+7853;Sanddeep Fried Cucumbers
+7854;Solis Red Spice
+7855;Arcum Iris Salt Crackers
+7856;Mahadevi Pickles
+7857;Falcorth Fertilizer
+7858;Tigerspine Seasoned Meat
+7859;Silent Forest Seasonings
+7860;Villanelle Long Noodles
+7861;Windscour Chilled Beverages
+7862;Perinoor Fried Meat
+7863;Rookborne Corn Hash
+7864;Ynystere Bouquets
+7865;Hasla Specialty Tea
+7866;Heedmar Softened Fabric
+7867;Nuimari Sturdy Yarn
+7868;Marcala Goldwort Oil
+7869;Calmlands Magic Poppets
+7870;Exeloch Energy Drink
+7871;Sungold Insect Traps
+7872;Briarspine Study Exit
+7873;Dark Poison Spores
+7875;Corrupting Magic Circle
+7876;Aging Larder
+7877;Encyclopedia Room Teleport Circle
+7878;Encyclopedia Room Teleport Circle
+7879;Encyclopedia Room Teleport Circle
+7880;Encyclopedia Room Teleport Circle
+7881;Encyclopedia Room Teleport Circle
+7882;Encyclopedia Room Teleport Circle
+7883;Libris Garden Teleport Circle
+7884;Libris Garden Teleport Circle
+7885;Libris Garden Teleport Circle
+7886;Libris Garden Teleport Circle
+7887;Libris Garden Teleport Circle
+7888;Libris Garden Teleport Circle
+7889;Screaming Archives Teleport Circle
+7890;Screaming Archives Teleport Circle
+7891;Screaming Archives Teleport Circle
+7892;Screaming Archives Teleport Circle
+7893;Screaming Archives Teleport Circle
+7894;Screaming Archives Teleport Circle
+7895;윈의 초자연 대폭발_Cast
+7896;Curse of the Hoarfrost
+7897;Wynn's Spellbook
+7898;Cinematic: Alexander's Appearance
+7899;Cinematic: Ayanad's Guardian Appearance
+7900;Blue Cypress Memory Tome
+7901;아누비스 죽음 연출
+7902;Diamond Shores Memory Tome
+7903;뇌전_back_visual_left
+7904;뇌전_back_visual_mid
+7905;뇌전_back_visual_right
+7906;Lightning Generator
+7907;Lightning Generator
+7908;Lightning Generator
+7909;Lightning Generator
+7911;Chum Bucket
+7912;Ghost Menagerie Waystation
+7913;Torn Portrait Scrap
+7914;Torn Portrait Scrap
+7915;Torn Portrait Scrap
+7916;Torn Portrait Scrap
+7917;Torn Portrait Scrap
+7918;Torn Portrait Scrap
+7919;Torn Portrait Scrap
+7920;Torn Portrait Scrap
+7921;Torn Portrait Scrap
+7922;Torn Portrait Scrap
+7923;Torn Portrait Scrap
+7924;Torn Portrait Scrap
+7925;Torn Portrait Scrap
+7926;Torn Portrait Scrap
+7927;Torn Portrait Scrap
+7928;Torn Portrait Scrap
+7929;Gweonid Aged Honey
+7930;Solzreed Aged Honey
+7931;Two Crowns Aged Honey
+7932;Halcyona Aged Honey
+7933;Solis Aged Honey
+7934;Falcorth Aged Honey
+7935;Villanelle Aged Honey
+7936;Rookborne Aged Honey
+7937;Heedmar Aged Honey
+7938;Calmlands Aged Honey
+7939;Dewstone Aged Salve
+7940;Lilyut Aged Salve
+7941;Cinderstone Aged Salve
+7942;Mahadevi Aged Salve
+7943;Silent Forest Aged Salve
+7944;Perinoor Aged Salve
+7945;Hasla Aged Salve
+7946;Marcala Aged Salve
+7947;Sungold Aged Salve
+7948;Marianople Aged Cheese
+7949;White Arden Aged Cheese
+7950;Hellswamp Aged Cheese
+7951;Sanddeep Aged Cheese
+7952;Arcum Iris Aged Cheese
+7953;Tigerspine Aged Cheese
+7954;Windscour Aged Cheese
+7955;Ynystere Aged Cheese
+7956;Nuimari Aged Cheese
+7957;Exeloch Aged Cheese
+7958;Corner Lobby Door
+7959;Safari Telescope
+7961;General Vendor
+7962;Lightning Generator Current
+7963;Lightning Generator Current
+7964;Lightning Generator Current
+7965;Lightning Generator Current
+7966;Lightning Generator Current
+7967;Lightning Generator Current
+7968;Lightning Generator Current
+7969;Lightning Generator Current
+7970;Lightning Generator Current
+7971;Lightning Generator Current
+7972;Lightning Generator Current
+7973;Lightning Generator Current
+7974;ArcheAge Birthday Table
+7975;생점 두다드 테스트
+7976;Remains
+7977;Sunlight Salvage Forge
+7978;Moonlight Salvage Forge
+7979;Starlight Salvage Forge
+7980;Fellowship Plaza Design
+7981;New Year's Cooking Tools
+7982;ArcheAge Birthday Merchant
+7983;Auctioneer/Warehouse
+7984;Torn Portrait Scrap
+7985;Torn Portrait Scrap
+7986;Torn Portrait Scrap
+7987;Torn Portrait Scrap
+7988;Torn Portrait Scrap
+7989;Torn Portrait Scrap
+7990;Torn Portrait Scrap
+7991;Torn Portrait Scrap
+7992;Empty Frame
+7993;Empty Frame
+7994;Empty Frame
+7995;Wynn's Secret Study Entrance
+7996;Wynn's Secret Study Exit
+7997;Stena's Secret Study Entrance
+7998;Stena's Secret Study Exit
+7999;Sealed Secret Study Entrance
+8000;Sealed Secret Study Exit
+8001;Secret Garden Entrance
+8002;Secret Garden Exit
+8003;Inkcalm Chamber Entrance
+8004;Inkcalm Chamber Exit
+8005;Halnaak's Secret Study Entrance
+8006;Halnaak's Secret Study Exit
+8007;Tinnereph's Secret Study Entrance
+8008;Tinnereph's Secret Study Exit
+8009;Screaming Archives Secret Study Entrance
+8010;Screaming Archives Secret Study Exit
+8011;Heart of Ayanad Entrance
+8012;Heart of Ayanad Exit
+8013;Tyrenos Portrait
+8014;Living Library Painting
+8015;Rowan Alexander Portrait
+8016;The Form and Application of Tri-Dimensional Magic, Part 1
+8017;The Form and Application of Tri-Dimensional Magic, Part 2
+8018;The Form and Application of Tri-Dimensional Magic, Part 3
+8019;Signpost
+8020;Signpost
+8021;Signpost
+8022;아누비스 스폰
+8023;Gate
+8024;Glass Gorilla Figurine
+8025;Glass Ostrich Figurine
+8026;Glass Bear Figurine
+8027;Glass Twinhead Viper Figurine
+8028;Glass Skyfin Figurine
+8029;Salvage Forge Design
+8030;Recordkeeper Wynn Appearance Cinematic
+8031;Small Bamboo Duck Cage
+8032;Small Bamboo Goose Cage
+8033;Ayanad Ruins Worldgate
+8034;Ayanad Ruins Worldgate
+8035;Sheep Pen
+8036;Goat Pen
+8037;Dairy Pen
+8038;Cashmere Yata Pen
+8039;Blizzard Bear Pen
+8041;Graymist Drum
+8042;Signpost
+8043;Disciple's Workbench
+8044;Fellowship Plaza Fireplace
+8046;Rubber Tree Woodlot
+8047;Aspen Woodlot
+8048;Maple Woodlot
+8049;Bamboo Woodlot
+8050;Pine Woodlot
+8051;Rune Portal
+8052;Ayanad Library Entrance
+8054;Spyglass
+8055;Signpost
+8056;입관심사원 윈 등장 연출
+8057;Cinematic: Halnaak's Appearance
+8058;Frozen Study Ward
+8059;ArcheAge Plushie
+8060;Jumbo ArcheAge Plushie
+8061;Ayanad Visitor Log
+8063;Magic Circle Rank 3
+8065;Liberty Drums
+8067;Vocation Boost Scroll Workbench
+8068;Gildaron Appears
+8069;Ayanad Library Magic Chains
+8070;미사용
+8074;Gods and Heroes, Page #01
+8075;Gods and Heroes, Page #02
+8076;Gods and Heroes, Page #03
+8077;Gods and Heroes, Page #04
+8078;Gods and Heroes, Page #05
+8079;Gods and Heroes, Page #06
+8080;Gods and Heroes, Page #07
+8081;Gods and Heroes, Page #08
+8082;Gods and Heroes, Page #09
+8083;Gods and Heroes, Page #10
+8084;Gods and Heroes, Page #11
+8085;Gods and Heroes, Page #12
+8086;Gods and Heroes, Page #13
+8087;Gods and Heroes, Page #14
+8088;Gods and Heroes, Page #15
+8089;Gods and Heroes, Page #16
+8090;Gods and Heroes, Page #17
+8091;Gods and Heroes, Page #18
+8092;Gods and Heroes, Page #19
+8093;Gods and Heroes, Page #20
+8094;Gods and Heroes, Page #21
+8095;Gods and Heroes, Page #22
+8096;Gods and Heroes, Page #23
+8097;Gods and Heroes, Page #24
+8098;Gods and Heroes, Page #25
+8099;Gods and Heroes, Page #26
+8100;Gods and Heroes, Page #27
+8101;Gods and Heroes, Page #28
+8102;Gods and Heroes, Page #29
+8103;Gods and Heroes, Page #30
+8104;Gods and Heroes, Page #31
+8105;Gods and Heroes, Page #32
+8106;Gods and Heroes, Page #33
+8107;Gods and Heroes, Page #34
+8108;Gods and Heroes, Page #35
+8109;Gods and Heroes, Page #36
+8110;Gods and Heroes, Page #37
+8111;Gods and Heroes, Page #38
+8112;Gods and Heroes, Page #39
+8113;Gods and Heroes, Page #40
+8114;Gods and Heroes, Page #41
+8115;Gods and Heroes, Page #42
+8116;Gods and Heroes, Page #43
+8117;Gods and Heroes, Page #44
+8118;Gods and Heroes, Page #45
+8119;Gods and Heroes, Page #46
+8120;Gods and Heroes, Page #47
+8121;Gods and Heroes, Page #48
+8122;Gods and Heroes, Page #49
+8123;Gods and Heroes, Page #50
+8124;Gods and Heroes, Page #51
+8125;Gods and Heroes, Page #52
+8126;Gods and Heroes, Page #53
+8127;Gods and Heroes, Page #54
+8128;Gods and Heroes, Page #55
+8129;Gods and Heroes, Page #56
+8130;Dewstone Aged Honey
+8131;Lilyut Aged Honey
+8132;Cinderstone Aged Honey
+8133;Mahadevi Aged Honey
+8134;Silent Forest Aged Honey
+8135;Perinoor Aged Honey
+8136;Hasla Aged Honey
+8137;Marcala Aged Honey
+8138;Sungold Aged Honey
+8139;Marianople Aged Honey
+8140;White Arden Aged Honey
+8141;Hellswamp Aged Honey
+8142;Sanddeep Aged Honey
+8143;Arcum Iris Aged Honey
+8144;Tigerspine Aged Honey
+8145;Windscour Aged Honey
+8146;Ynystere Aged Honey
+8147;Nuimari Aged Honey
+8148;Exeloch Aged Honey
+8149;Gweonid Aged Salve
+8150;Solzreed Aged Salve
+8151;Two Crowns Aged Salve
+8152;Halcyona Aged Salve
+8153;Solis Aged Salve
+8154;Falcorth Aged Salve
+8155;Villanelle Aged Salve
+8156;Rookborne Aged Salve
+8157;Heedmar Aged Salve
+8158;Calmlands Aged Salve
+8159;Marianople Aged Salve
+8160;White Arden Aged Salve
+8161;Hellswamp Aged Salve
+8162;Sanddeep Aged Salve
+8163;Arcum Iris Aged Salve
+8164;Tigerspine Aged Salve
+8165;Windscour Aged Salve
+8166;Ynystere Aged Salve
+8167;Nuimari Aged Salve
+8168;Exeloch Aged Salve
+8169;Gweonid Aged Cheese
+8170;Solzreed Aged Cheese
+8171;Two Crowns Aged Cheese
+8172;Halcyona Aged Cheese
+8173;Solis Aged Cheese
+8174;Falcorth Aged Cheese
+8175;Villanelle Aged Cheese
+8176;Rookborne Aged Cheese
+8177;Heedmar Aged Cheese
+8178;Calmlands Aged Cheese
+8179;Dewstone Aged Cheese
+8180;Lilyut Aged Cheese
+8181;Cinderstone Aged Cheese
+8182;Mahadevi Aged Cheese
+8183;Silent Forest Aged Cheese
+8184;Perinoor Aged Cheese
+8185;Hasla Aged Cheese
+8186;Marcala Aged Cheese
+8187;Sungold Aged Cheese
+8189;Erenor Map: Top Left
+8190;Erenor Map: Top Middle
+8191;Erenor Map: Top Right
+8192;Erenor Map: Middle Left
+8193;Erenor Map: Middle
+8194;Erenor Map: Middle Right
+8195;Erenor Map: Bottom Left
+8196;Erenor Map: Bottom Middle
+8197;Erenor Map: Bottom Right
+8198;Benefactor's Portrait: Top Left
+8199;Benefactor's Portrait: Top Right
+8200;Benefactor's Portrait: Bottom Left
+8201;Benefactor's Portrait: Bottom Right
+8203;Victim's Anima Orb
+8208;Crimson Puddle
+8209;Archeum Heart Exchanger
+8210;Divine Key Exchanger
+8211;Etherworld Mirror
+8212;Experia Pumpkin Patch
+8214;Experia Sunflower Patch
+8215;Experia Duck Patch
+8216;Experia Pine Patch
+8217;Mage Miller's Records
+8218;Artistry Workbench
+8219;Crimson Altar
+8220;Grand Piano
+8221;Unidentified Tree
+8224;Unidentified Seed Bundle
+8225;Dreamy Plushie Table
+8226;Demolition Explosive
+8227;Velaine's Greatest Wish
+8228;Miyaz's Greatest Wish
+8229;Myna's Greatest Wish
+8230;Bolibelle's Greatest Wish
+8231;Huyoung's Greatest Wish
+8232;Waldur's Greatest Wish
+8233;Rodlin's Greatest Wish
+8234;Mohimu's Greatest Wish
+8235;Ayanad Task Board
+8236;Red Spring Tulip
+8237;Yellow Spring Tulip
+8238;Fishing Pond
+8239;Mining Drill
+8240;Anthalon's Shackles Imprint
+8241;Fading Anthalon's Shackles Remains
+8242;Faded Anthalon's Shackles Remains
+8243;Red Farm Hauler Display Stand
+8244;Jumbo Jake Plushie
+8245;Fairy Plushie
+8247;Gilt Red Dragon Statue
+8248;Tempting Apple
+8249;Gazebo Farm
+8250;Cogwheel
+8251;Secret Study Guard's Sea of Fire
+8252;Private Artistry Workbench
+8253;Guild Sign
+8254;Guild Hanging Sign
+8255;Drumset
+8256;Kratzel's Versatile Workbench
+8257;Guild Hot Air Balloon
+8258;Private Artistry Workbench Design
+8259;Andelph's Glory: Top Row Left
+8260;Andelph's Glory: Top Row Center
+8261;Andelph's Glory: Top Row Right
+8262;Andelph's Glory: 2nd Row Left
+8263;Andelph's Glory: 2nd Row Center
+8264;Andelph's Glory: 2nd Row Right
+8265;Andelph's Glory: 3rd Row Left
+8266;Andelph's Glory: 3rd Row Center
+8267;Andelph's Glory: 3rd Row Right
+8268;Andelph's Glory: Bottom Row Left
+8269;Andelph's Glory: Bottom Row Center
+8270;Andelph's Glory: Bottom Row Right
+8271;Legend's Energy
+8272;Loyalty Token Dispenser (Test Helper)
+9029;Sugarpie Candy
+9030;Rickety Fence
+9031;Spook's Glory Flag
+9032;Hallowtide Decor
+9033;Impish Jack-o'-Lantern
+9034;Festive Fright Jack-o'-Lantern
+9035;Fey's Smile Jack-o'-Lantern
+9036;Spiral Spook Streetlight
+9037;Hallowtide Streetlight
+9058;Hallowtide Balloons
+9059;Harvest Festival Feast Table
+9060;Tombstone
+9061;Hovering Spook
+9062;Drifting Ghostling
+9066;Large Pumpkinhead
+9067;Large Hallowtide Pumpkinhead
+9068;Hallowtide Pumpkinhead
+8000001;Gilt Blackwood Coffin
+8000002;Ancient Tombstone
+8000003;Hallowtide Tombstone
+8000004;Jack-o'-Snack-Bowl
+8000005;Farmer's Friend Jack-o'-Lantern
+8000006;Gleeful Goblin Jack-o'-Lantern
+8000007;Rabid Jack-o'-Lantern
+8000008;Snooty Vamp-o'-Lantern
+8000009;Hallowtide Feast Table
+8000010;Tricked Treat Balloons
+8000011;Spirit-Mimic Balloons
+8000012;Haunted Rickety Picket Fence
+8000013;Rickety Picket Fence
+8000014;Autumnal Wreath
+8000015;Fallen Leaves
+8000016;Snooty Vamp-o'-Lantern

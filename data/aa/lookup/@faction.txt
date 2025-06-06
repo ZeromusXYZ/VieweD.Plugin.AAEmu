@@ -1,0 +1,82 @@
+1;Friendly
+2;Neutral
+3;Hostile
+101;Crescent Throne
+102;Eznan Royals
+103;Dreamwaker Exiles
+104;Andelph
+105;Wyrdwinds
+106;Triestes
+107;Noryettes
+108;East Ishvara
+109;West Ishvara
+110;South Ishvara
+111;North Ishvara
+112;Reminisci Castle
+113;Wandering Winds
+114;Outlaw
+115;Monstrosity
+116;Animal
+117;temp_whistler
+118;temp_murderer
+119;temp_silence_forrest
+120;temp_watchman_of_forrest
+121;temp_not_attack_station_man
+122;temp_station_association
+123;towerD_offroad
+124;towerD_onroad
+125;towerD_mercenary
+126;towerD_target
+127;towerO_tanker
+128;towerO_destroyer
+129;towerO_annihilator
+130;towerO_assassin
+131;-Unused Faction- 
+132;Andelph Senate B-wave (do not delete) 
+133;Bloodhand Infiltrators
+134;Sallium
+135;Illion
+136;Bloodhand Infiltrator Trackers
+137;Bloodhands
+138;mahadevi_wereshark
+139;mahadevi_Lashya
+140;mahadevi_monster
+141;mahadevi_hill_astra
+142;Antiquary Society
+143;3rd Corps
+144;Eznan Guard
+145;Nuia NPC Alliance (do not delete)
+146;Harihara NPC Alliance (do not delete)
+147;Neutral NPC Coalition
+148;Nuia Alliance
+149;Haranya Alliance
+150;Neutral NPC Coalition A 
+151;Neutral NPC Coalition B
+152;Herbivore NPC 
+153;Alliance of NPCs to be Protected 
+154;Predator NPC
+155;Ecosystem NPC Coalition 
+156;ostera
+157;naryana
+158;evergreen
+159;Red Team
+160;Blue Team
+161;Pirate
+162;Neutral Guard
+163;Harani Bloodhand Infiltrators
+164;Pirate Hunters
+165;PC_friendly
+166;Independents
+167;Nuian Guard
+168;Harani Guard
+169;Neutral Guard (Disabled, with Neutral Guard)
+170;Scarecrows
+171;Nuian Front Watch
+172;Fish
+173;Haranya Front Watch
+174;Pirate Front Watch
+175;Battle (Nuia)
+176;Battle (Haranya)
+177;Player Nation Friendship (Nuia/Haranya/Pirate Hostility)
+178;Panophtes
+179;Argoth
